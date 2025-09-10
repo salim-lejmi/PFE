@@ -1,0 +1,2453 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.2)  2 SEP 2025 23:07
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/GAMER/Documents/PFE__Salim_Lejmi/main.tex
+(c:/Users/GAMER/Documents/PFE__Salim_Lejmi/main.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+(enetcom-pfe-report.cls (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/silence\silence.sty
+Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error messages
+\sl@Save=\count275
+\sl@StateNumber=\count276
+\sl@MessageCount=\count277
+\sl@Casualties=\count278
+\sl@Filter=\toks17
+\sl@Message=\toks18
+\sl@UnexpandedMessage=\toks19
+\sl@Mess@ge=\toks20
+\sl@WarningCount=\count279
+\sl@WarningNumber=\count280
+\sl@WarningCasualties=\count281
+\sl@TempBOW=\toks21
+\sl@BankOfWarnings=\toks22
+LaTeX Info: Redefining \GenericWarning on input line 433.
+\sl@ErrorCount=\count282
+\sl@ErrorNumber=\count283
+\sl@ErrorCasualties=\count284
+\sl@TempBOE=\toks23
+\sl@BankOfErrors=\toks24
+LaTeX Info: Redefining \GenericError on input line 601.
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count285
+\c@chapter=\count286
+\c@section=\count287
+\c@subsection=\count288
+\c@subsubsection=\count289
+\c@paragraph=\count290
+\c@subparagraph=\count291
+\c@figure=\count292
+\c@table=\count293
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count294
+\Gm@cntv=\count295
+\c@Gm@tempcnt=\count296
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks26
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks27
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/verse\verse.sty
+Package: verse 2014/05/10 v2.4b verse typesetting
+\c@vslineno=\count297
+\c@poemline=\count298
+\c@fvsline=\count299
+\c@modulo@vs=\count300
+\c@verse@envctr=\count301
+\versewidth=\skip51
+\vgap=\skip52
+\vindent=\skip53
+\stanzaskip=\skip54
+\vleftskip=\skip55
+\vrightskip=\skip56
+\c@chrsinstr=\count302
+\beforepoemtitleskip=\skip57
+\afterpoemtitleskip=\skip58
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+\col@sep=\dimen157
+\ar@mcellbox=\box53
+\extrarowheight=\dimen158
+\NC@list=\toks28
+\extratabsurround=\skip59
+\backup@length=\skip60
+\ar@cellbox=\box54
+)
+\everycr=\toks29
+\minrowclearance=\skip61
+\rownum=\count303
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip62
+\aftertitleunit=\skip63
+\ttl@plus=\dimen159
+\ttl@minus=\dimen160
+\ttl@toksa=\toks30
+\titlewidth=\dimen161
+\titlewidthlast=\dimen162
+\titlewidthfirst=\dimen163
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip64
+\f@nch@offset@elh=\skip65
+\f@nch@offset@erh=\skip66
+\f@nch@offset@olh=\skip67
+\f@nch@offset@orh=\skip68
+\f@nch@offset@elf=\skip69
+\f@nch@offset@erf=\skip70
+\f@nch@offset@olf=\skip71
+\f@nch@offset@orf=\skip72
+\f@nch@height=\skip73
+\f@nch@footalignment=\skip74
+\f@nch@widthL=\skip75
+\f@nch@widthC=\skip76
+\f@nch@widthR=\skip77
+\@temptokenb=\toks31
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen164
+\captionmargin=\dimen165
+\caption@leftmargin=\dimen166
+\caption@rightmargin=\dimen167
+\caption@width=\dimen168
+\caption@indent=\dimen169
+\caption@parindent=\dimen170
+\caption@hangindent=\dimen171
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count304
+\c@continuedfloat=\count305
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count306
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count307
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count308
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count309
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen172
+\Hy@linkcounter=\count310
+\Hy@pagecounter=\count311
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count312
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count313
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen173
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count314
+\Field@Width=\dimen174
+\Fld@charsize=\dimen175
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count315
+\c@Item=\count316
+\c@Hfootnote=\count317
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count318
+\c@bookmark@seq@number=\count319
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip78
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
+Package: needspace 2025/03/13 v1.3e reserve vertical space
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count320
+\calc@Bcount=\count321
+\calc@Adimen=\dimen176
+\calc@Bdimen=\dimen177
+\calc@Askip=\skip79
+\calc@Bskip=\skip80
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count322
+\calc@Cskip=\skip81
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen178
+\ESO@tempdimb=\dimen179
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen180
+\Gin@req@width=\dimen181
+)
+\AM@pagewidth=\dimen182
+\AM@pageheight=\dimen183
+\AM@fboxrule=\dimen184
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count323
+\AM@pagebox=\box56
+\AM@global@opts=\toks32
+\AM@pagecnt=\count324
+\AM@toc@title=\toks33
+\AM@lof@heading=\toks34
+\c@AM@survey=\count325
+\AM@templatesizebox=\box57
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip82
+\enit@outerparindent=\dimen185
+\enit@toks=\toks35
+\enit@inbox=\box58
+\enit@count@id=\count326
+\enitdp@description=\count327
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2025/05/09 v7.0b a miscellany of footnote facilities
+\FN@temptoken=\toks36
+\footnotemargin=\dimen186
+Package footmisc Info: Declaring symbol style bringhurst on input line 549.
+Package footmisc Info: Declaring symbol style chicago on input line 557.
+Package footmisc Info: Declaring symbol style wiley on input line 566.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 577.
+Package footmisc Info: Declaring symbol style lamport* on input line 597.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 618.
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/08/03 v25.12 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count328
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2045.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2047.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2049.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2050.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2051.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2053.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2078.
+\U@D=\dimen187
+\l@unhyphenated=\language79
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count329
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.ldf
+Language: french 2025-08-15 v4.0e French support from the babel system
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 12.
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french3.ldf
+Language: french 2025-08-15 v3.7e French support from the babel system
+\FB@stdchar=\count330
+Package babel Info: Making : an active character on input line 273.
+Package babel Info: Making ; an active character on input line 274.
+Package babel Info: Making ! an active character on input line 275.
+Package babel Info: Making ? an active character on input line 276.
+\FBguill@level=\count331
+\FBold@everypar=\toks37
+\FB@Mht=\dimen188
+\mc@charclass=\count332
+\mc@charfam=\count333
+\mc@charslot=\count334
+\std@mcc=\count335
+\dec@mcc=\count336
+\FB@pardim=\dimen189
+\listindentFB=\dimen190
+\descindentFB=\dimen191
+\labelindentFB=\dimen192
+\labelwidthFB=\dimen193
+\leftmarginFB=\dimen194
+\parindentFFN=\dimen195
+\FBfnindent=\dimen196
+))) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tools\varioref.sty
+Package: varioref 2025/01/14 v1.6g package for extended references (FMi)
+\c@vrcnt=\count337
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/acronym\acronym.sty
+Package: acronym 2025/01/17 v1.50 Support for acronyms (Tobias Oetiker)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count338
+\xs_countb=\count339
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+\AC@clearlist=\toks38
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\minitoc.sty
+Package: minitoc 2018/07/12 v62 Package minitoc
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\mtcmess.sty
+Package: mtcmess 2006/03/14
+)
+Package minitoc Info: I0001
+(minitoc)             *** minitoc package, version 62 ***.
+\tf@mtc=\write3
+\mtcindent=\skip83
+\mtcskipamount=\skip84
+Package minitoc Info: I0005
+(minitoc)             compatible with hyperref.
+Package minitoc Info: I0023
+(minitoc)             part level macros available.
+Package minitoc Info: I0003
+(minitoc)             chapter level macros available.
+\mtc@toks=\toks39
+\mtc@strutbox=\box59
+\mtc@hstrutbox=\box60
+Package minitoc Info: I0002
+(minitoc)             Autoconfiguration of extensions.
+\openout3 = `main.mtc0'.
+
+\openout3 = `main.mtc'.
+
+ (main.mtc0)
+Package minitoc Info: I0012
+(minitoc)             Long extensions (Unix-like) will be used.
+Package minitoc Info: I0031
+(minitoc)             ==> this version is configured for UNIX-like 
+(minitoc)                 (long extensions) file names.
+\openout3 = `main.mtc'.
+
+\openout3 = `main.mtc0'.
+
+\c@mtc=\count340
+\c@minitocdepth=\count341
+\c@ptc=\count342
+\c@parttocdepth=\count343
+\ptcindent=\skip85
+Package minitoc Info: I0010
+(minitoc)             The english language is selected.
+(minitoc)              on input line 4910.
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
+File: english.mld 2006/01/13
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
+File: english.mld 2006/01/13
+)
+Package minitoc Info: I0010
+(minitoc)             The french language is selected.
+(minitoc)              on input line 4911.
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\french.mld
+File: french.mld 2006/03/21
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks40
+\inpenc@posthook=\toks41
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2025/07/08 version 6.7.1 text color boxes
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks42
+\pgfutil@tempdima=\dimen197
+\pgfutil@tempdimb=\dimen198
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box61
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks43
+\pgfkeys@temptoks=\toks44
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks45
+))
+\pgf@x=\dimen199
+\pgf@y=\dimen256
+\pgf@xa=\dimen257
+\pgf@ya=\dimen258
+\pgf@xb=\dimen259
+\pgf@yb=\dimen260
+\pgf@xc=\dimen261
+\pgf@yc=\dimen262
+\pgf@xd=\dimen263
+\pgf@yd=\dimen264
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count344
+\c@pgf@countb=\count345
+\c@pgf@countc=\count346
+\c@pgf@countd=\count347
+\t@pgf@toka=\toks46
+\t@pgf@tokb=\toks47
+\t@pgf@tokc=\toks48
+\pgf@sys@id@count=\count348
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count349
+\pgfsyssoftpath@bigbuffer@items=\count350
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen280
+\pgf@path@lasty=\dimen281
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen282
+\pgf@shorten@start@additional=\dimen283
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box63
+\pgf@hbox=\box64
+\pgf@layerbox@main=\box65
+\pgf@picture@serial@count=\count353
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen284
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen285
+\pgf@pt@y=\dimen286
+\pgf@pt@temp=\dimen287
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen288
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen289
+\pgf@sys@shading@range@num=\count354
+\pgf@shadingcount=\count355
+
+\pgf@nodesepend=\dimen291
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen292
+\pgffor@skip=\dimen293
+\pgffor@stack=\toks52
+\pgffor@toks=\toks53
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count356
+\pgfplotmarksize=\dimen294
+)
+\tikz@lastx=\dimen295
+\tikz@lasty=\dimen296
+\tikz@lastxsaved=\dimen297
+\tikz@lastysaved=\dimen298
+\tikz@lastmovetox=\dimen299
+\tikz@lastmovetoy=\dimen300
+\tikzleveldistance=\dimen301
+\tikzsiblingdistance=\dimen302
+\tikz@figbox=\box68
+\tikz@figbox@bg=\box69
+\tikz@tempbox=\box70
+\tikz@tempbox@bg=\box71
+\tikztreelevel=\count357
+\tikznumberofchildren=\count358
+\tikznumberofcurrentchild=\count359
+\tikz@fig@count=\count360
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count361
+\pgfmatrixcurrentcolumn=\count362
+\pgf@matrix@numberofcolumns=\count363
+)
+\tikz@expandcount=\count364
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks54
+\verbatim@line=\toks55
+\verbatim@in@stream=\read4
+)
+\tcb@titlebox=\box72
+\tcb@upperbox=\box73
+\tcb@lowerbox=\box74
+\tcb@phantombox=\box75
+\c@tcbbreakpart=\count365
+\c@tcblayer=\count366
+\c@tcolorbox@number=\count367
+\l__tcobox_tmpa_box=\box76
+\l__tcobox_tmpa_dim=\dimen303
+\tcb@temp=\box77
+\tcb@temp=\box78
+\tcb@temp=\box79
+\tcb@temp=\box80
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.7.1'
+(C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill-common.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfill.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box81
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.7.1'
+))) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks56
+\XKV@tempa@toks=\toks57
+)
+\XKV@depth=\count368
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box82
+)
+\tc@llx=\dimen304
+\tc@lly=\dimen305
+\tc@urx=\dimen306
+\tc@ury=\dimen307
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen308
+\adjbox@Height=\dimen309
+\adjbox@Depth=\dimen310
+\adjbox@Totalheight=\dimen311
+\adjbox@pwidth=\dimen312
+\adjbox@pheight=\dimen313
+\adjbox@pdepth=\dimen314
+\adjbox@ptotalheight=\dimen315
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count369
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box83
+\sift@deathcycles=\count370
+\@vwid@loff=\dimen316
+\@vwid@roff=\dimen317
+)
+==> First Aid for varwidth.sty applied!
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/minted\minted.sty
+Package: minted 2025/05/14 v3.7.0 Yet another Pygments shim for LaTeX
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/catchfile\catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/fvextra\fvextra.sty
+Package: fvextra 2025/05/29 v1.13.2 fvextra - extensions and patches for fancyvrb
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2025/07/28 4.6 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count371
+\FV@InFile=\read5
+\FV@TabBox=\box84
+\c@FancyVerbLine=\count372
+\FV@StepNumber=\count373
+\FV@OutFile=\write5
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2025/05/13 line numbers on paragraphs v5.5
+\linenopenalty=\count374
+\output=\toks58
+\linenoprevgraf=\count375
+\linenumbersep=\dimen318
+\linenumberwidth=\dimen319
+\c@linenumber=\count376
+\c@pagewiselinenumber=\count377
+\c@LN@truepage=\count378
+\c@internallinenumber=\count379
+\c@internallinenumbers=\count380
+\quotelinenumbersep=\dimen320
+\bframerule=\dimen321
+\bframesep=\dimen322
+\bframebox=\box85
+)
+\c@FancyVerbWriteLine=\count381
+\c@FancyVerbBufferLine=\count382
+\c@FV@TrueTabGroupLevel=\count383
+\c@FV@TrueTabCounter=\count384
+\FV@TabBox@Group=\box86
+\FV@bgcolorstructbox=\box87
+\FV@TmpLength=\skip86
+\c@FV@HighlightLinesStart=\count385
+\c@FV@HighlightLinesStop=\count386
+\FV@LoopCount=\count387
+\FV@NCharsBox=\box88
+\FV@BreakIndent=\dimen323
+\FV@BreakIndentNChars=\count388
+\FV@BreakSymbolSepLeft=\dimen324
+\FV@BreakSymbolSepLeftNChars=\count389
+\FV@BreakSymbolSepRight=\dimen325
+\FV@BreakSymbolSepRightNChars=\count390
+\FV@BreakSymbolIndentLeft=\dimen326
+\FV@BreakSymbolIndentLeftNChars=\count391
+\FV@BreakSymbolIndentRight=\dimen327
+\FV@BreakSymbolIndentRightNChars=\count392
+\c@FancyVerbLineBreakLast=\count393
+\FV@LineBox=\box89
+\FV@LineIndentBox=\box90
+\c@FV@BreakBufferDepth=\count394
+\FV@LineWidth=\dimen328
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/latex2pydata\latex2pydata.sty
+Package: latex2pydata 2025/03/26 v0.6.0 latex2pydata - write data to file in Python literal format
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgfopts\pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks59
+\pgfopts@list@add@b@toks=\toks60
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count395
+\float@exts=\toks61
+\float@box=\box91
+\@float@everytoks=\toks62
+\@floatcapt=\box92
+)
+\c@minted@FancyVerbLineTemp=\count396
+\@float@every@listing=\toks63
+\c@listing=\count397
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen329
+\TX@old@table=\dimen330
+\TX@old@col=\dimen331
+\TX@target=\dimen332
+\TX@delta=\dimen333
+\TX@cols=\count398
+\TX@ftn=\toks64
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/ctable\ctable.sty
+Package: ctable 2025/07/10 v1.32 package for flexible key/value driven typesetting of floats
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen334
+\lightrulewidth=\dimen335
+\cmidrulewidth=\dimen336
+\belowrulesep=\dimen337
+\belowbottomsep=\dimen338
+\aboverulesep=\dimen339
+\abovetopsep=\dimen340
+\cmidrulesep=\dimen341
+\cmidrulekern=\dimen342
+\defaultaddspace=\dimen343
+\@cmidla=\count399
+\@cmidlb=\count400
+\@aboverulesep=\dimen344
+\@belowrulesep=\dimen345
+\@thisruleclass=\count401
+\@lastruleclass=\count402
+\@thisrulewidth=\dimen346
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
+\c@r@tfl@t=\count403
+\rotFPtop=\skip87
+\rotFPbot=\skip88
+\rot@float@box=\box93
+\rot@mess@toks=\toks65
+)
+\@CTframesep=\dimen347
+\@dfltCTframesep=\dimen348
+\@CTframerule=\dimen349
+\@dfltCTframerule=\dimen350
+\@CTwidth=\dimen351
+\@dfltCTwidth=\dimen352
+\@CTcaptionskip=\dimen353
+\@dfltCTcaptionskip=\dimen354
+\@CTmaxwidth=\dimen355
+\@dfltCTmaxwidth=\dimen356
+\@CTmincapwidth=\dimen357
+\@dfltCTmincapwidth=\dimen358
+\@CTfooterwidth=\dimen359
+\@dfltCTfooterwidth=\dimen360
+\@CTw=\dimen361
+\@CTfloatwidth=\dimen362
+\@CToldsep=\dimen363
+\@CToldrule=\dimen364
+\CT@t=\box94
+\@CTcurftwidth=\dimen365
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip89
+\multirow@cntb=\count404
+\multirow@dima=\skip90
+\bigstrutjot=\dimen366
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/seqsplit\seqsplit.sty
+Package: seqsplit 2006/08/07 v0.1 Splitting long sequences (DNA, RNA, proteins, etc.) 
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen367
+\WF@size=\dimen368
+\c@WF@wrappedlines=\count405
+\WF@box=\box95
+\WF@everypar=\toks66
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/nowidow\nowidow.sty
+Package: nowidow 2011/09/20 1.0 Easily prevent widows and orphans
+Package: nowidow 
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip91
+\RaggedLeftLeftskip=\skip92
+\RaggedRightLeftskip=\skip93
+\CenteringRightskip=\skip94
+\RaggedLeftRightskip=\skip95
+\RaggedRightRightskip=\skip96
+\CenteringParfillskip=\skip97
+\RaggedLeftParfillskip=\skip98
+\RaggedRightParfillskip=\skip99
+\JustifyingParfillskip=\skip100
+\CenteringParindent=\skip101
+\RaggedLeftParindent=\skip102
+\RaggedRightParindent=\skip103
+\JustifyingParindent=\skip104
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count406
+\c@@ppsavesec=\count407
+\c@@ppsaveapp=\count408
+)
+\BoxWd=\skip105
+\Aux=\skip106
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
+\LTleft=\skip107
+\LTright=\skip108
+\LTpre=\skip109
+\LTpost=\skip110
+\LTchunksize=\count409
+\LTcapwidth=\dimen369
+\LT@head=\box96
+\LT@firsthead=\box97
+\LT@foot=\box98
+\LT@lastfoot=\box99
+\LT@gbox=\box100
+\LT@cols=\count410
+\LT@rows=\count411
+\c@LT@tables=\count412
+\c@LT@chunks=\count413
+\LT@p@ftn=\toks67
+) (Commands.tex)
+Package french3.ldf Info: Setting StandardItemizeEnv=true for
+(french3.ldf)             compatibility with enumitem package,
+(french3.ldf)             reported on input line 38.
+Package french3.ldf Info: Setting StandardEnumerateEnv=true for
+(french3.ldf)             compatibility with enumitem package,
+(french3.ldf)             reported on input line 38.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 38.
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count414
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count415
+\scratchdimen=\dimen370
+\scratchbox=\box101
+\nofMPsegments=\count416
+\nofMParguments=\count417
+\everyMPshowfont=\toks68
+\MPscratchCnt=\count418
+\MPscratchDim=\dimen371
+\MPnumerator=\count419
+\makeMPintoPDFobject=\count420
+\everyMPtoPDFconversion=\toks69
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: french babel package is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 38.
+\@outlinefile=\write6
+\openout6 = `main.out'.
+
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+Package babel Info: 'french' activates 'french' shorthands.
+(babel)             Reported on input line 38.
+LaTeX Info: Redefining \degres on input line 38.
+Package minitoc(hints) Info: I0049
+(minitoc(hints))             ==> You requested the hints option. 
+(minitoc(hints))             Some hints are eventually given below.
+Package minitoc(hints) Info: I0042
+(minitoc(hints))             --- The appendix package is loaded. 
+(minitoc(hints))             See the minitoc package documentation 
+(minitoc(hints))             for specific precautions.
+ (chapitre/00-PageDeGarde.tex
+<chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, id=6, 597.432pt x 845.07718pt>
+File: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf Graphic file (type pdf)
+<use chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf>
+Package pdftex.def Info: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf  used on input line 1.
+(pdftex.def)             Requested size: 597.43054pt x 845.07512pt.
+<chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, id=8, page=1, 597.432pt x 845.07718pt>
+File: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf Graphic file (type pdf)
+<use chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, page 1>
+Package pdftex.def Info: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf , page1 used on input line 1.
+(pdftex.def)             Requested size: 597.43054pt x 845.07512pt.
+File: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf Graphic file (type pdf)
+<use chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, page 1>
+Package pdftex.def Info: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf , page1 used on input line 1.
+(pdftex.def)             Requested size: 597.45789pt x 845.1138pt.
+File: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf Graphic file (type pdf)
+<use chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, page 1>
+Package pdftex.def Info: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf , page1 used on input line 1.
+(pdftex.def)             Requested size: 597.45789pt x 845.1138pt.
+File: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf Graphic file (type pdf)
+<use chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, page 1>
+Package pdftex.def Info: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf , page1 used on input line 1.
+(pdftex.def)             Requested size: 597.45789pt x 845.1138pt.
+
+
+File: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf Graphic file (type pdf)
+<use chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, page 1>
+Package pdftex.def Info: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf , page1 used on input line 1.
+(pdftex.def)             Requested size: 597.45789pt x 845.1138pt.
+[1
+
+
+ <./chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf>]) (chapitre/01-Remerciement.tex
+LaTeX Font Info:    Calculating math sizes for size <26> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <26> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <18.19992> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <13> on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Overfull \hbox (13.94876pt too wide) in paragraph at lines 13--14
+[]\T1/ptm/m/n/12 Par ailleurs, je sou-haite adres-ser mes vifs re-mer-cie-ments à tous les en-sei-gnants du dé-par-te-ment
+ []
+
+)
+
+[1
+
+{C:/Users/GAMER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/GAMER/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+
+ []
+
+No file main.toc.
+\tf@toc=\write7
+\openout7 = `main.toc'.
+
+
+
+[2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+
+ []
+
+No file main.lof.
+\tf@lof=\write8
+\openout8 = `main.lof'.
+
+(chapitre/02-ListeDesAbr.tex
+
+[3
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+
+[4
+
+]) (chapitre/03-IntroductionGeneral.tex
+
+Package babel Info: 'french' activates 'french' shorthands.
+(babel)             Reported on input line 1.
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Overfull \hbox (15.51099pt too wide) in paragraph at lines 10--11
+\T1/ptm/m/n/12 de fa-ci-li-ter la confor-mité aux stan-dards pro-fes-sion-nels tout en ré-pon-dant aux be-soins des en-tre-prises
+ []
+
+)
+Overfull \hbox (16.7343pt too wide) in paragraph at lines 14--65
+\T1/ptm/m/n/12 spé-ci-fi-ca-tion des be-soins et l'ana-lyse fonc-tion-nelle. Le troi-sième cha-pitre pré-sente l'étude tech-nique
+ []
+
+(chapitre/04-Chapitre1.tex
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            {Cadre gÃ©nÃ©ral} [1
+
+]
+Chapitre 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+\openout3 = `main.mtc'.
+
+\openout3 = `main.mtc'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+(main.mtc4)
+
+[2
+
+]
+Overfull \hbox (5.41895pt too wide) in paragraph at lines 10--11
+\T1/ptm/m/n/12 ob-jec-tifs et le tra-vail de-mandé. Nous pré-sen-te-rons en-suite la mé-tho-do-lo-gie adop-tée et la dé-marche
+ []
+
+<images/logoent.jpg, id=124, 200.75pt x 200.75pt>
+File: images/logoent.jpg Graphic file (type jpg)
+<use images/logoent.jpg>
+Package pdftex.def Info: images/logoent.jpg  used on input line 32.
+(pdftex.def)             Requested size: 142.27312pt x 113.81297pt.
+
+
+[3]
+Overfull \hbox (5.86269pt too wide) in paragraph at lines 42--43
+\T1/ptm/m/n/12 (Word-Press, HTML5/PHP), ap-pli-ca-tions web sur me-sure (uti-li-sant Zend, La-ra-vel, An-gu-lar)
+ []
+
+<images/auditboard.PNG, id=129, 1434.10782pt x 813.0375pt>
+File: images/auditboard.PNG Graphic file (type png)
+<use images/auditboard.PNG>
+Package pdftex.def Info: images/auditboard.PNG  used on input line 63.
+(pdftex.def)             Requested size: 369.8832pt x 227.61172pt.
+
+
+[4 <./images/logoent.jpg>]
+<images/processgene.PNG, id=136, 1434.86063pt x 758.08218pt>
+File: images/processgene.PNG Graphic file (type png)
+<use images/processgene.PNG>
+Package pdftex.def Info: images/processgene.PNG  used on input line 76.
+(pdftex.def)             Requested size: 369.88031pt x 227.61148pt.
+
+
+[5 <./images/auditboard.PNG> <./images/processgene.PNG>]
+Overfull \hbox (10.3151pt too wide) in paragraph at lines 118--119
+\T1/ptm/m/n/12 pro-gres-sive à tra-vers des cycles de dé-ve-lop-pe-ment courts et ré-pé-tés, vi-sant avant tout la sa-tis-fac-tion
+ []
+
+
+
+[6]
+<images/scrum method.jpg, id=150, 469.755pt x 287.57437pt>
+File: images/scrum method.jpg Graphic file (type jpg)
+<use images/scrum method.jpg>
+Package pdftex.def Info: images/scrum method.jpg  used on input line 125.
+(pdftex.def)             Requested size: 341.43456pt x 170.72054pt.
+
+Overfull \hbox (21.34064pt too wide) in paragraph at lines 134--135
+\T1/ptm/m/n/12 Sa mis-sion consiste à tra-duire les be-soins des uti-li-sa-teurs et à main-te-nir la via-bi-lité éco-no-mique
+ []
+
+
+Overfull \hbox (24.91803pt too wide) in paragraph at lines 136--137
+\T1/ptm/m/n/12 fonc-tion prin-ci-pale est d'ac-com-pa-gner l'équipe vers une maî-trise et une ap-pli-ca-tion ap-pro-priées
+ []
+
+
+
+[7 <./images/scrum method.jpg>]
+Overfull \hbox (8.3939pt too wide) in paragraph at lines 138--139
+[]\T1/ptm/b/n/12 Équipe de dé-ve-lop-pe-ment Scrum \T1/ptm/m/n/12 : Groupe de pro-fes-sion-nels qui construisent les élé-ments
+ []
+
+
+Overfull \hbox (42.0661pt too wide) in paragraph at lines 145--146
+\T1/ptm/m/n/12 pour per-fec-tion-ner le pro-duit. Il re-groupe des élé-ments va-riés comme des nou-velles fonc-tion-na-li-tés,
+ []
+
+
+Overfull \hbox (2.65865pt too wide) in paragraph at lines 145--146
+\T1/ptm/m/n/12 des exi-gences, des op-ti-mi-sa-tions ou des ré-so-lu-tions de bugs, sous la su-per-vi-sion du Pro-duct
+ []
+
+
+Overfull \hbox (4.00171pt too wide) in paragraph at lines 158--159
+\T1/ptm/m/n/12 ba-ck-log pro-duit, échange sur les prio-ri-tés et s'ac-corde sur le pé-ri-mètre et les fonc-tion-na-li-tés
+ []
+
+
+
+[8]) (chapitre/05-Chapitre2.tex
+Overfull \hbox (0.18758pt too wide) in paragraph at lines 169--1
+\T1/ptm/m/n/12 pro-blé-ma-tique, puis nous avons dé-crit l'or-ga-nisme d'ac-cueil, étu-dié quelques exemples exis-tants
+ []
+
+
+
+[9]
+Chapitre 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+\openout3 = `main.mtc'.
+
+\openout3 = `main.mtc'.
+
+(main.mtc5)
+
+[10
+
+]
+Overfull \hbox (8.66995pt too wide) in paragraph at lines 19--20
+\T1/ptm/b/n/12 Super Ad-min \T1/ptm/m/n/12 : Cet ac-teur su-per-vise l'en-semble du sys-tème, gé-rant les uti-li-sa-teurs, les en-tre-prises,
+ []
+
+
+Overfull \hbox (23.03328pt too wide) in paragraph at lines 35--36
+[]\T1/ptm/m/n/12 Gérer les re-quêtes d'ins-crip-tion : ac-cep-ter ou re-je-ter les de-mandes d'ins-crip-tion des en-tre-prises. 
+ []
+
+
+
+[11]
+Overfull \hbox (5.2015pt too wide) in paragraph at lines 44--45
+[]\T1/ptm/m/n/12 Gérer la taxo-no-mie : créer, consul-ter et sup-pri-mer les élé-ments de clas-si-fi-ca-tion du sys-tème. 
+ []
+
+
+Overfull \hbox (7.37424pt too wide) in paragraph at lines 59--60
+[]\T1/ptm/m/n/12 Gérer les re-vues de di-rec-tion : créer, consul-ter, mo-di-fier et sup-pri-mer les re-vues de di-rec-tion. 
+ []
+
+
+
+[12]
+Overfull \hbox (20.16574pt too wide) in paragraph at lines 63--64
+[]\T1/ptm/m/n/12 Consulter l'éva-lua-tion de la confor-mité : ac-cé-der aux éva-lua-tions de confor-mité ré-gle-men-taire. 
+ []
+
+chapitre/05-Chapitre2.tex:95: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.95 \hline
+           
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+chapitre/05-Chapitre2.tex:96: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.96 I
+      D & ThÃ¨me & User Stories & PrioritÃ© \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+chapitre/05-Chapitre2.tex:96: Extra alignment tab has been changed to \cr.
+<template> \endtemplate 
+                        
+l.96 I
+      D & ThÃ¨me & User Stories & PrioritÃ© \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+
+[13] [14] [15] [16] [17]
+<images/UseCaseDiagram.png, id=218, 3412.75pt x 3798.19pt>
+File: images/UseCaseDiagram.png Graphic file (type png)
+<use images/UseCaseDiagram.png>
+Package pdftex.def Info: images/UseCaseDiagram.png  used on input line 211.
+(pdftex.def)             Requested size: 512.15079pt x 569.00845pt.
+
+Overfull \hbox (56.90668pt too wide) in paragraph at lines 211--212
+ [][] 
+ []
+
+
+
+[18]
+<images/diagramclass.png, id=223, 1402.23875pt x 1665.22125pt>
+File: images/diagramclass.png Graphic file (type png)
+<use images/diagramclass.png>
+Package pdftex.def Info: images/diagramclass.png  used on input line 221.
+(pdftex.def)             Requested size: 512.16594pt x 540.6061pt.
+
+Overfull \hbox (56.92183pt too wide) in paragraph at lines 221--222
+ [][] 
+ []
+
+
+
+[19 <./images/UseCaseDiagram.png>] (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd)
+
+[20 <./images/diagramclass.png (PNG copy)>]) (chapitre/06-Chapitre3.tex
+
+[21]
+Chapitre 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+(C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+\openout3 = `main.mtc'.
+
+\openout3 = `main.mtc'.
+
+ (main.mtc6)
+
+[22
+
+]
+Overfull \hbox (2.22638pt too wide) in paragraph at lines 12--13
+\T1/ptm/m/n/12 dé-ve-lop-pe-ment de l'ap-pli-ca-tion en dé-taillant les tech-no-lo-gies et fra-me-works uti-li-sés. Fi-na-le-ment,
+ []
+
+<images/vscode.png, id=260, 290.58563pt x 152.82094pt>
+File: images/vscode.png Graphic file (type png)
+<use images/vscode.png>
+Package pdftex.def Info: images/vscode.png  used on input line 37.
+(pdftex.def)             Requested size: 170.71686pt x 85.35759pt.
+
+
+[23]
+<images/visualstudio.png, id=265, 803.0pt x 312.16624pt>
+File: images/visualstudio.png Graphic file (type png)
+<use images/visualstudio.png>
+Package pdftex.def Info: images/visualstudio.png  used on input line 49.
+(pdftex.def)             Requested size: 170.71794pt x 56.90198pt.
+
+Overfull \hbox (1.93929pt too wide) in paragraph at lines 58--59
+\T1/ptm/m/n/12 Dans cette sec-tion, nous pré-sen-tons les lan-gages de pro-gram-ma-tion, bi-blio-thèques et fra-me-works
+ []
+
+<images/typescript.png, id=266, 250.9375pt x 250.9375pt>
+File: images/typescript.png Graphic file (type png)
+<use images/typescript.png>
+Package pdftex.def Info: images/typescript.png  used on input line 68.
+(pdftex.def)             Requested size: 85.35973pt x 85.35973pt.
+
+
+[24 <./images/vscode.png> <./images/visualstudio.png>]
+<images/csharp.png, id=278, 165.61874pt x 165.61874pt>
+File: images/csharp.png Graphic file (type png)
+<use images/csharp.png>
+Package pdftex.def Info: images/csharp.png  used on input line 78.
+(pdftex.def)             Requested size: 85.3565pt x 85.3565pt.
+<images/python.png, id=279, 150.5625pt x 165.61874pt>
+File: images/python.png Graphic file (type png)
+<use images/python.png>
+Package pdftex.def Info: images/python.png  used on input line 88.
+(pdftex.def)             Requested size: 85.36203pt x 85.3565pt.
+
+
+[25 <./images/typescript.png> <./images/csharp.png> <./images/python.png>]
+<images/net.png, id=294, 250.9375pt x 250.9375pt>
+File: images/net.png Graphic file (type png)
+<use images/net.png>
+Package pdftex.def Info: images/net.png  used on input line 102.
+(pdftex.def)             Requested size: 85.35973pt x 85.35973pt.
+<images/flask.png, id=295, 250.9375pt x 98.3675pt>
+File: images/flask.png Graphic file (type png)
+<use images/flask.png>
+Package pdftex.def Info: images/flask.png  used on input line 112.
+(pdftex.def)             Requested size: 170.7233pt x 85.35686pt.
+
+Overfull \hbox (1.30324pt too wide) in paragraph at lines 120--121
+\T1/ptm/m/n/12 Pour en-ri-chir les fonc-tion-na-li-tés de notre ap-pli-ca-tion, nous avons in-té-gré plu-sieurs bi-blio-thèques. 
+ []
+
+
+
+[26 <./images/net.png> <./images/flask.png>]
+<images/react.png, id=307, 582.175pt x 358.33875pt>
+File: images/react.png Graphic file (type png)
+<use images/react.png>
+Package pdftex.def Info: images/react.png  used on input line 126.
+(pdftex.def)             Requested size: 113.80348pt x 85.35785pt.
+
+Overfull \hbox (2.57544pt too wide) in paragraph at lines 130--131
+\T1/ptm/m/n/12 l'avons uti-lisé pour dé-ve-lop-per notre in-ter-face uti-li-sa-teur avec Ty-peS-cript, créant des com-po-sants
+ []
+
+<images/mui.png, id=308, 2509.375pt x 1992.44376pt>
+File: images/mui.png Graphic file (type png)
+<use images/mui.png>
+Package pdftex.def Info: images/mui.png  used on input line 136.
+(pdftex.def)             Requested size: 85.34825pt x 85.33899pt.
+<images/stripe.png, id=309, 192.72pt x 192.72pt>
+File: images/stripe.png Graphic file (type png)
+<use images/stripe.png>
+Package pdftex.def Info: images/stripe.png  used on input line 150.
+(pdftex.def)             Requested size: 85.35577pt x 85.35577pt.
+
+
+[27 <./images/react.png> <./images/mui.png>]
+Overfull \hbox (0.82307pt too wide) in paragraph at lines 154--155
+\T1/ptm/m/n/12 Stripe [[]] est une pla-te-forme de paie-ment en ligne qui four-nit des APIs pour trai-ter les paie-ments.
+ []
+
+
+Overfull \hbox (15.1259pt too wide) in paragraph at lines 154--155
+\T1/ptm/m/n/12 ma-nière sé-cu-ri-sée, per-met-tant aux uti-li-sa-teurs d'ef-fec-tuer des achats di-rec-te-ment dans l'ap-pli-ca-tion. 
+ []
+
+<images/Architecturephysique.PNG, id=322, 678.28406pt x 517.935pt>
+File: images/Architecturephysique.PNG Graphic file (type png)
+<use images/Architecturephysique.PNG>
+Package pdftex.def Info: images/Architecturephysique.PNG  used on input line 168.
+(pdftex.def)             Requested size: 455.23454pt x 369.90184pt.
+
+
+[28 <./images/stripe.png>]
+Overfull \hbox (14.75471pt too wide) in paragraph at lines 181--182
+\T1/ptm/m/n/12 Google pour l'ana-lyse des des-crip-tions d'ac-tions et la gé-né-ra-tion de re-com-man-da-tions in-tel-li-gentes. 
+ []
+
+
+
+[29 <./images/Architecturephysique.PNG>]
+<images/Architecturelogique.PNG, id=336, 621.82312pt x 569.12625pt>
+File: images/Architecturelogique.PNG Graphic file (type png)
+<use images/Architecturelogique.PNG>
+Package pdftex.def Info: images/Architecturelogique.PNG  used on input line 193.
+(pdftex.def)             Requested size: 426.79073pt x 369.90163pt.
+
+Overfull \hbox (0.74992pt too wide) in paragraph at lines 201--202
+\T1/ptm/m/n/12 uti-li-sa-teur. Cette couche uti-lise Ma-te-rial UI pour main-te-nir une in-ter-face co-hé-rente et res-pon-sive. 
+ []
+
+
+Overfull \hbox (6.12645pt too wide) in paragraph at lines 203--204
+\T1/ptm/b/n/12 Contrôleur (Control-ler) \T1/ptm/m/n/12 : Im-plé-menté par les contrô-leurs .NET Core qui or-chestrent les re-quêtes
+ []
+
+
+
+[30 <./images/Architecturelogique.PNG>]
+Overfull \hbox (26.61044pt too wide) in paragraph at lines 205--206
+\T1/ptm/b/n/12 Architecture Mi-cro-ser-vices \T1/ptm/m/n/12 : Le ser-vice NLP Flask fonc-tionne comme un mi-cro-ser-vice in-dé-pen-dant,
+ []
+
+
+Overfull \hbox (4.07495pt too wide) in paragraph at lines 205--206
+\T1/ptm/m/n/12 com-mu-ni-quant avec l'API prin-ci-pale via des ap-pels HTTP. Cette ap-proche per-met une évo-lu-ti-vité
+ []
+
+) (chapitre/07-Chapitre4 Release1.tex
+
+[31]
+Chapitre 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+\openout3 = `main.mtc'.
+
+\openout3 = `main.mtc'.
+
+(main.mtc7
+Overfull \hbox (0.618pt too wide) in paragraph at lines 1--1
+ [][] [][]\T1/cmr/bx/n/10.95 Sprint 1 : Au-then-ti-fi-ca-tion, ins-crip-tion, re-quêtes d'ins-crip-tion 
+ []
+
+)
+
+[32
+
+]
+Overfull \hbox (1.99864pt too wide) in paragraph at lines 10--11
+\T1/ptm/m/n/12 ges-tion des pro-fils uti-li-sa-teur dans le pre-mier sprint. Le se-cond sprint abor-dera les fonc-tion-na-li-tés
+ []
+
+
+Overfull \hbox (22.10512pt too wide) in paragraph at lines 12--12
+|\T1/ptm/b/n/17.28 4.1 Sprint 1 : Au-then-ti-fi-ca-tion, ins-crip-tion, re-quêtes d'ins-crip-tion
+ []
+
+chapitre/07-Chapitre4 Release1.tex:23: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.23 \hline
+           
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+chapitre/07-Chapitre4 Release1.tex:24: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.24 H
+      istoire utilisateur & Description & PrioritÃ© \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+chapitre/07-Chapitre4 Release1.tex:24: Extra alignment tab has been changed to \cr.
+<template> \endtemplate 
+                        
+l.24 H
+      istoire utilisateur & Description & PrioritÃ© \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+[33]
+<images/authuc.png, id=377, 1278.7775pt x 827.09pt>
+File: images/authuc.png Graphic file (type png)
+<use images/authuc.png>
+Package pdftex.def Info: images/authuc.png  used on input line 43.
+(pdftex.def)             Requested size: 341.43057pt x 227.62082pt.
+
+
+[34 <./images/authuc.png>]
+<images/inscriptionuc.png, id=385, 717.68124pt x 467.7475pt>
+File: images/inscriptionuc.png Graphic file (type png)
+<use images/inscriptionuc.png>
+Package pdftex.def Info: images/inscriptionuc.png  used on input line 83.
+(pdftex.def)             Requested size: 341.43872pt x 227.62094pt.
+
+
+[35] [36 <./images/inscriptionuc.png>]
+Overfull \hbox (10.26723pt too wide) in paragraph at lines 122--123
+\T1/ptm/m/n/12 La fi-gure 4.3 pré-sente le dia-gramme de cas d'uti-li-sa-tion pour la ges-tion des de-mandes d'ins-crip-tion
+ []
+
+<images/approveuc.png, id=399, 1632.0975pt x 827.09pt>
+File: images/approveuc.png Graphic file (type png)
+<use images/approveuc.png>
+Package pdftex.def Info: images/approveuc.png  used on input line 126.
+(pdftex.def)             Requested size: 341.4307pt x 284.52603pt.
+[37 <./images/approveuc.png>]
+<images/profileuc.png, id=409, 1840.8775pt x 843.15pt>
+File: images/profileuc.png Graphic file (type png)
+<use images/profileuc.png>
+Package pdftex.def Info: images/profileuc.png  used on input line 164.
+(pdftex.def)             Requested size: 341.42778pt x 227.61494pt.
+
+
+[38]
+
+
+
+
+
+
+
+[44 <./images/inscpic.PNG> <./images/approvepic.PNG>]
+chapitre/07-Chapitre4 Release1.tex:279: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.279 \hline
+            
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+chapitre/07-Chapitre4 Release1.tex:280: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.280 H
+       istoire utilisateur & Description & PrioritÃ© \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+chapitre/07-Chapitre4 Release1.tex:280: Extra alignment tab has been changed to \cr.
+<template> \endtemplate 
+                        
+l.280 H
+       istoire utilisateur & Description & PrioritÃ© \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+
+[45 <./images/profilepic.PNG>] [46]
+<images/gestionuseruc.png, id=482, 932.48375pt x 548.0475pt>
+File: images/gestionuseruc.png Graphic file (type png)
+<use images/gestionuseruc.png>
+Package pdftex.def Info: images/gestionuseruc.png  used on input line 319.
+(pdftex.def)             Requested size: 369.88507pt x 227.6278pt.
+
+
+[47] [48 <./images/gestionuseruc.png>]
+<images/gestioncompanyuc.png, id=495, 806.01125pt x 459.7175pt>
+File: images/gestioncompanyuc.png Graphic file (type png)
+<use images/gestioncompanyuc.png>
+Package pdftex.def Info: images/gestioncompanyuc.png  used on input line 358.
+(pdftex.def)             Requested size: 341.42491pt x 227.6275pt.
+ [49 <./images/gestioncompanyuc.png>]
+<images/gestionparamcompanyuc.png, id=505, 806.01125pt x 459.7175pt>
+File: images/gestionparamcompanyuc.png Graphic file (type png)
+<use images/gestionparamcompanyuc.png>
+Package pdftex.def Info: images/gestionparamcompanyuc.png  used on input line 395.
+(pdftex.def)             Requested size: 341.42491pt x 227.6275pt.
+
+
+[50] [51 <./images/gestionparamcompanyuc.png>]
+<images/taxonomyuc.png, id=518, 902.37125pt x 483.8075pt>
+File: images/taxonomyuc.png Graphic file (type png)
+<use images/taxonomyuc.png>
+Package pdftex.def Info: images/taxonomyuc.png  used on input line 433.
+(pdftex.def)             Requested size: 341.43135pt x 199.16702pt.
+ [52 <./images/taxonomyuc.png>]
+<images/createusersq.png, id=527, 599.23875pt x 623.32875pt>
+File: images/createusersq.png Graphic file (type png)
+<use images/createusersq.png>
+Package pdftex.def Info: images/createusersq.png  used on input line 474.
+(pdftex.def)             Requested size: 284.53163pt x 256.08005pt.
+
+
+[53]
+<images/consultusersq.png, id=532, 692.5875pt x 450.68375pt>
+File: images/consultusersq.png Graphic file (type png)
+<use images/consultusersq.png>
+Package pdftex.def Info: images/consultusersq.png  used on input line 481.
+(pdftex.def)             Requested size: 284.53339pt x 256.0878pt.
+<images/modifyusersq.png, id=533, 689.57625pt x 495.8525pt>
+File: images/modifyusersq.png Graphic file (type png)
+<use images/modifyusersq.png>
+Package pdftex.def Info: images/modifyusersq.png  used on input line 488.
+(pdftex.def)             Requested size: 284.52736pt x 256.07431pt.
+
+
+[54 <./images/createusersq.png (PNG copy)> <./images/consultusersq.png (PNG copy)>]
+<images/suppressionutilisateursq.png, id=542, 687.56876pt x 571.13374pt>
+File: images/suppressionutilisateursq.png Graphic file (type png)
+<use images/suppressionutilisateursq.png>
+Package pdftex.def Info: images/suppressionutilisateursq.png  used on input line 495.
+(pdftex.def)             Requested size: 284.52788pt x 256.07533pt.
+<images/consultcompanysq.png, id=543, 689.57625pt x 362.35374pt>
+File: images/consultcompanysq.png Graphic file (type png)
+<use images/consultcompanysq.png>
+Package pdftex.def Info: images/consultcompanysq.png  used on input line 502.
+(pdftex.def)             Requested size: 284.52736pt x 227.6261pt.
+
+
+[55 <./images/modifyusersq.png (PNG copy)> <./images/suppressionutilisateursq.png (PNG copy)>]
+<images/deletecompanysq.png, id=553, 877.2775pt x 436.63126pt>
+File: images/deletecompanysq.png Graphic file (type png)
+<use images/deletecompanysq.png>
+Package pdftex.def Info: images/deletecompanysq.png  used on input line 509.
+(pdftex.def)             Requested size: 312.9818pt x 256.07118pt.
+
+Overfull \hbox (19.39943pt too wide) in paragraph at lines 513--513
+|[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de consul-ta-tion des pa-ra-mètres d'en-tre-prise| 
+ []
+
+<images/consultparamcompanysq.png, id=554, 642.4pt x 261.97874pt>
+File: images/consultparamcompanysq.png Graphic file (type png)
+<use images/consultparamcompanysq.png>
+Package pdftex.def Info: images/consultparamcompanysq.png  used on input line 516.
+(pdftex.def)             Requested size: 256.08305pt x 142.2659pt.
+
+
+[56 <./images/consultcompanysq.png (PNG copy)> <./images/deletecompanysq.png (PNG copy)>]
+Overfull \hbox (20.73155pt too wide) in paragraph at lines 520--520
+|[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion des pa-ra-mètres d'en-tre-prise| 
+ []
+
+<images/modifyparamcompanysq.png, id=563, 728.7225pt x 495.8525pt>
+File: images/modifyparamcompanysq.png Graphic file (type png)
+<use images/modifyparamcompanysq.png>
+Package pdftex.def Info: images/modifyparamcompanysq.png  used on input line 523.
+(pdftex.def)             Requested size: 284.52309pt x 256.07431pt.
+<images/createtaxonomysq.png, id=564, 601.24625pt x 479.7925pt>
+File: images/createtaxonomysq.png Graphic file (type png)
+<use images/createtaxonomysq.png>
+Package pdftex.def Info: images/createtaxonomysq.png  used on input line 530.
+(pdftex.def)             Requested size: 284.53072pt x 256.07513pt.
+
+
+[57 <./images/consultparamcompanysq.png (PNG copy)> <./images/modifyparamcompanysq.png (PNG copy)>]
+<images/consulttaxonomysq.png, id=573, 628.3475pt x 495.8525pt>
+File: images/consulttaxonomysq.png Graphic file (type png)
+<use images/consulttaxonomysq.png>
+Package pdftex.def Info: images/consulttaxonomysq.png  used on input line 537.
+(pdftex.def)             Requested size: 284.5275pt x 256.07431pt.
+
+Overfull \hbox (5.18005pt too wide) in paragraph at lines 541--541
+|[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion d'élé-ment de taxo-no-mie| 
+ []
+
+<images/modifytaxonomysq.png, id=574, 670.505pt x 479.7925pt>
+File: images/modifytaxonomysq.png Graphic file (type png)
+<use images/modifytaxonomysq.png>
+Package pdftex.def Info: images/modifytaxonomysq.png  used on input line 544.
+(pdftex.def)             Requested size: 256.07343pt x 227.6256pt.
+
+
+[58 <./images/createtaxonomysq.png (PNG copy)> <./images/consulttaxonomysq.png (PNG copy)>]
+Overfull \hbox (1.63982pt too wide) in paragraph at lines 548--548
+|[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de sup-pres-sion d'élé-ment de taxo-no-mie| 
+ []
+
+<images/deletetaxonomysq.png, id=583, 675.52374pt x 511.9125pt>
+File: images/deletetaxonomysq.png Graphic file (type png)
+<use images/deletetaxonomysq.png>
+Package pdftex.def Info: images/deletetaxonomysq.png  used on input line 551.
+(pdftex.def)             Requested size: 284.53233pt x 256.07278pt.
+
+Overfull \hbox (12.80002pt too wide) in paragraph at lines 555--555
+|[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de gé-né-ra-tion de sug-ges-tion de taxo-no-mie| 
+ []
+
+<images/taxonomyaisq.png, id=584, 754.82pt x 436.63126pt>
+File: images/taxonomyaisq.png Graphic file (type png)
+<use images/taxonomyaisq.png>
+Package pdftex.def Info: images/taxonomyaisq.png  used on input line 558.
+(pdftex.def)             Requested size: 284.51955pt x 256.07118pt.
+
+
+[59 <./images/modifytaxonomysq.png (PNG copy)> <./images/deletetaxonomysq.png (PNG copy)>]
+<images/adminmanageusers.PNG, id=593, 1017.04968pt x 441.14813pt>
+File: images/adminmanageusers.PNG Graphic file (type png)
+<use images/adminmanageusers.PNG>
+Package pdftex.def Info: images/adminmanageusers.PNG  used on input line 570.
+(pdftex.def)             Requested size: 398.33934pt x 256.0815pt.
+
+
+[60 <./images/taxonomyaisq.png (PNG copy)>]
+<images/createusermodal.PNG, id=601, 1028.34187pt x 568.37344pt>
+File: images/createusermodal.PNG Graphic file (type png)
+<use images/createusermodal.PNG>
+Package pdftex.def Info: images/createusermodal.PNG  used on input line 579.
+(pdftex.def)             Requested size: 398.33714pt x 256.08658pt.
+<images/editusermodal.PNG, id=602, 1026.83624pt x 572.1375pt>
+File: images/editusermodal.PNG Graphic file (type png)
+<use images/editusermodal.PNG>
+Package pdftex.def Info: images/editusermodal.PNG  used on input line 588.
+(pdftex.def)             Requested size: 398.33365pt x 256.0714pt.
+
+
+[61 <./images/adminmanageusers.PNG> <./images/createusermodal.PNG>]
+<images/superadminmanageusers.PNG, id=613, 1017.8025pt x 578.16pt>
+File: images/superadminmanageusers.PNG Graphic file (type png)
+<use images/superadminmanageusers.PNG>
+Package pdftex.def Info: images/superadminmanageusers.PNG  used on input line 597.
+(pdftex.def)             Requested size: 398.33913pt x 256.06737pt.
+
+
+[62 <./images/editusermodal.PNG>]
+<images/gestionentreprises.PNG, id=622, 1015.54407pt x 560.8453pt>
+File: images/gestionentreprises.PNG Graphic file (type png)
+<use images/gestionentreprises.PNG>
+Package pdftex.def Info: images/gestionentreprises.PNG  used on input line 606.
+(pdftex.def)             Requested size: 398.3385pt x 256.06647pt.
+
+Overfull \hbox (1.53108pt too wide) in paragraph at lines 612--613
+\T1/ptm/m/n/12 La fi-gure 4.30 pré-sente l'in-ter-face des pa-ra-mètres d'en-tre-prise per-met-tant à l'Ad-min de consul-ter
+ []
+
+<images/parametresentreprise.PNG, id=623, 938.75719pt x 575.90157pt>
+File: images/parametresentreprise.PNG Graphic file (type png)
+<use images/parametresentreprise.PNG>
+Package pdftex.def Info: images/parametresentreprise.PNG  used on input line 616.
+(pdftex.def)             Requested size: 398.3291pt x 256.07767pt.
+
+
+[63 <./images/superadminmanageusers.PNG> <./images/gestionentreprises.PNG>]
+<images/gestiontaxonomy.PNG, id=633, 1016.29688pt x 441.14813pt>
+File: images/gestiontaxonomy.PNG Graphic file (type png)
+<use images/gestiontaxonomy.PNG>
+Package pdftex.def Info: images/gestiontaxonomy.PNG  used on input line 625.
+(pdftex.def)             Requested size: 398.33914pt x 256.0815pt.
+
+
+[64 <./images/parametresentreprise.PNG>]
+<images/suggestiontaxonomy.PNG, id=642, 1015.54407pt x 514.17094pt>
+File: images/suggestiontaxonomy.PNG Graphic file (type png)
+<use images/suggestiontaxonomy.PNG>
+Package pdftex.def Info: images/suggestiontaxonomy.PNG  used on input line 634.
+(pdftex.def)             Requested size: 398.3385pt x 256.0806pt.
+) (chapitre/08-Chapitre4 Release2.tex
+Overfull \hbox (19.02672pt too wide) in paragraph at lines 639--1
+\T1/ptm/m/n/12 d'en-tre-prise et taxo-no-mie tant pour les ad-mi-nis-tra-teurs d'en-tre-prise que pour le su-per ad-mi-nis-tra-teur.
+ []
+
+
+
+[65 <./images/gestiontaxonomy.PNG> <./images/suggestiontaxonomy.PNG>]
+
+[66]
+Chapitre 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+\openout3 = `main.mtc'.
+
+\openout3 = `main.mtc'.
+
+(main.mtc8
+Overfull \hbox (22.33748pt too wide) in paragraph at lines 1--1
+ [][] [][]\T1/cmr/bx/n/10.95 Sprint 1 : Ges-tion des plans d'abon-ne-ment, textes ré-gle-men-taires, 
+ []
+
+
+Overfull \hbox (24.558pt too wide) in paragraph at lines 37--37
+ [][] [][]\T1/cmr/bx/n/10.95 Sprint 2 : Ges-tion des re-vues de di-rec-tion, no-ti-fi-ca-tions, his-to-rique 
+ []
+
+)
+
+[67
+
+]
+Overfull \hbox (7.13452pt too wide) in paragraph at lines 10--11
+\T1/ptm/m/n/12 se com-pose de deux sprints dis-tincts. Cette re-lease se concentre sur l'ex-ten-sion des fonc-tion-na-li-tés
+ []
+
+
+Overfull \hbox (15.34291pt too wide) in paragraph at lines 10--11
+\T1/ptm/m/n/12 sprint. Le se-cond sprint abor-dera les fonc-tion-na-li-tés de ges-tion des re-vues de di-rec-tion, par-ti-ci-pa-tion
+ []
+
+
+Overfull \hbox (50.60023pt too wide) in paragraph at lines 12--12
+|\T1/ptm/b/n/17.28 5.1 Sprint 1 : Ges-tion des plans d'abon-ne-ment, textes ré-gle-men-taires,
+ []
+
+chapitre/08-Chapitre4 Release2.tex:23: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.23 \hline
+           
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+chapitre/08-Chapitre4 Release2.tex:24: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.24 H
+      istoire utilisateur & Description & PrioritÃ© \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+chapitre/08-Chapitre4 Release2.tex:24: Extra alignment tab has been changed to \cr.
+<template> \endtemplate 
+                        
+l.24 H
+      istoire utilisateur & Description & PrioritÃ© \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+[68] [69]
+<images/plansubscriptionuc.png, id=690, 886.31125pt x 499.8675pt>
+File: images/plansubscriptionuc.png Graphic file (type png)
+<use images/plansubscriptionuc.png>
+Package pdftex.def Info: images/plansubscriptionuc.png  used on input line 74.
+(pdftex.def)             Requested size: 341.4405pt x 227.62312pt.
+
+
+[70] [71 <./images/plansubscriptionuc.png>]
+Overfull \hbox (24.931pt too wide) in paragraph at lines 110--111
+\T1/ptm/m/n/12 La fi-gure 4.2 pré-sente le dia-gramme de cas d'uti-li-sa-tion dé-taillé pour la sous-crip-tion aux abon-ne-ments
+ []
+
+<images/subscribeuc.png, id=703, 773.89125pt x 315.1775pt>
+File: images/subscribeuc.png Graphic file (type png)
+<use images/subscribeuc.png>
+Package pdftex.def Info: images/subscribeuc.png  used on input line 114.
+(pdftex.def)             Requested size: 341.43427pt x 227.62495pt.
+
+
+[72 <./images/subscribeuc.png>]
+<images/textsuc.png, id=711, 717.68124pt x 411.5375pt>
+File: images/textsuc.png Graphic file (type png)
+<use images/textsuc.png>
+Package pdftex.def Info: images/textsuc.png  used on input line 157.
+(pdftex.def)             Requested size: 341.43872pt x 227.62108pt.
+
+
+[73] [74 <./images/textsuc.png>]
+<images/complianceuc.png, id=726, 870.25125pt x 395.4775pt>
+File: images/complianceuc.png Graphic file (type png)
+<use images/complianceuc.png>
+Package pdftex.def Info: images/complianceuc.png  used on input line 198.
+(pdftex.def)             Requested size: 341.44157pt x 227.62106pt.
+
+
+[75 <./images/complianceuc.png>]
+<images/actionplansuc.png, id=734, 1503.6175pt x 955.57pt>
+File: images/actionplansuc.png Graphic file (type png)
+<use images/actionplansuc.png>
+Package pdftex.def Info: images/actionplansuc.png  used on input line 237.
+(pdftex.def)             Requested size: 341.41963pt x 227.62094pt.
+
+
+[76] [77 <./images/actionplansuc.png>]
+<images/createplanseq.png, id=748, 799.98875pt x 494.84875pt>
+File: images/createplanseq.png Graphic file (type png)
+<use images/createplanseq.png>
+Package pdftex.def Info: images/createplanseq.png  used on input line 282.
+(pdftex.def)             Requested size: 284.52899pt x 256.0694pt.
+
+
+[78]
+<images/consultplanseq.png, id=753, 706.64pt x 379.4175pt>
+File: images/consultplanseq.png Graphic file (type png)
+<use images/consultplanseq.png>
+Package pdftex.def Info: images/consultplanseq.png  used on input line 289.
+(pdftex.def)             Requested size: 256.07227pt x 227.6233pt.
+
+Overfull \hbox (3.89597pt too wide) in paragraph at lines 293--293
+|[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion d'un plan d'abon-ne-ment| 
+ []
+
+<images/modifyplanseq.png, id=754, 633.36626pt x 420.57124pt>
+File: images/modifyplanseq.png Graphic file (type png)
+<use images/modifyplanseq.png>
+Package pdftex.def Info: images/modifyplanseq.png  used on input line 296.
+(pdftex.def)             Requested size: 284.52896pt x 256.0732pt.
+
+
+[79 <./images/createplanseq.png (PNG copy)> <./images/consultplanseq.png (PNG copy)>]
+Overfull \hbox (0.35573pt too wide) in paragraph at lines 300--300
+|[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de sup-pres-sion d'un plan d'abon-ne-ment| 
+ []
+
+<images/deleteplanseq.png, id=765, 681.54625pt x 453.695pt>
+File: images/deleteplanseq.png Graphic file (type png)
+<use images/deleteplanseq.png>
+Package pdftex.def Info: images/deleteplanseq.png  used on input line 303.
+(pdftex.def)             Requested size: 284.53154pt x 256.07509pt.
+<images/subscribeseq.png, id=766, 637.38126pt x 524.96124pt>
+File: images/subscribeseq.png Graphic file (type png)
+<use images/subscribeseq.png>
+Package pdftex.def Info: images/subscribeseq.png  used on input line 310.
+(pdftex.def)             Requested size: 284.52367pt x 256.07977pt.
+
+
+[80 <./images/modifyplanseq.png (PNG copy)> <./images/deleteplanseq.png (PNG copy)>]
+<images/createtextseq.png, id=775, 639.38875pt x 822.07124pt>
+File: images/createtextseq.png Graphic file (type png)
+<use images/createtextseq.png>
+Package pdftex.def Info: images/createtextseq.png  used on input line 317.
+(pdftex.def)             Requested size: 284.53197pt x 256.06874pt.
+
+Overfull \hbox (3.60754pt too wide) in paragraph at lines 321--321
+|[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de consul-ta-tion des textes ré-gle-men-taires| 
+ []
+
+<images/consulttextseq.png, id=776, 675.52374pt x 554.07pt>
+File: images/consulttextseq.png Graphic file (type png)
+<use images/consulttextseq.png>
+Package pdftex.def Info: images/consulttextseq.png  used on input line 324.
+(pdftex.def)             Requested size: 284.53233pt x 256.07582pt.
+
+Underfull \hbox (badness 2547) in paragraph at lines 325--325
+[]\T1/ptm/b/sc/10.95 Figure 5.12 \T1/ptm/b/n/10.95 ^^U |Dia-gramme de sé-quence pour le scé-na-rio de consul-ta-tion des textes 
+ []
+
+
+
+[81 <./images/subscribeseq.png (PNG copy)> <./images/createtextseq.png (PNG copy)>]
+Overfull \hbox (2.9479pt too wide) in paragraph at lines 328--328
+|[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion d'un texte ré-gle-men-taire| 
+ []
+
+<images/modifytextseq.png, id=785, 803.0pt x 864.22874pt>
+File: images/modifytextseq.png Graphic file (type png)
+<use images/modifytextseq.png>
+Package pdftex.def Info: images/modifytextseq.png  used on input line 331.
+(pdftex.def)             Requested size: 284.534pt x 256.06616pt.
+
+Underfull \hbox (badness 2165) in paragraph at lines 332--332
+[]\T1/ptm/b/sc/10.95 Figure 5.13 \T1/ptm/b/n/10.95 ^^U |Dia-gramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion d'un texte 
+ []
+
+
+Overfull \hbox (5.40767pt too wide) in paragraph at lines 335--335
+|[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de sup-pres-sion d'un texte ré-gle-men-taire| 
+ []
+
+<images/deletetextseq.png, id=786, 624.3325pt x 773.89125pt>
+File: images/deletetextseq.png Graphic file (type png)
+<use images/deletetextseq.png>
+Package pdftex.def Info: images/deletetextseq.png  used on input line 338.
+(pdftex.def)             Requested size: 284.529pt x 256.0698pt.
+
+
+[82 <./images/consulttextseq.png (PNG copy)> <./images/modifytextseq.png (PNG copy)>]
+<images/complianceseq.png, id=795, 663.47874pt x 538.01pt>
+File: images/complianceseq.png Graphic file (type png)
+<use images/complianceseq.png>
+Package pdftex.def Info: images/complianceseq.png  used on input line 345.
+(pdftex.def)             Requested size: 284.531pt x 256.07458pt.
+<images/createactionseq.png, id=796, 673.51625pt x 596.2275pt>
+File: images/createactionseq.png Graphic file (type png)
+<use images/createactionseq.png>
+Package pdftex.def Info: images/createactionseq.png  used on input line 352.
+(pdftex.def)             Requested size: 284.5295pt x 256.0726pt.
+
+
+[83 <./images/deletetextseq.png (PNG copy)> <./images/complianceseq.png (PNG copy)>]
+<images/consultactionseq.png, id=805, 900.36375pt x 600.2425pt>
+File: images/consultactionseq.png Graphic file (type png)
+<use images/consultactionseq.png>
+Package pdftex.def Info: images/consultactionseq.png  used on input line 359.
+(pdftex.def)             Requested size: 284.52281pt x 256.08427pt.
+<images/modifyactionseq.png, id=806, 673.51625pt x 610.28pt>
+File: images/modifyactionseq.png Graphic file (type png)
+<use images/modifyactionseq.png>
+Package pdftex.def Info: images/modifyactionseq.png  used on input line 366.
+(pdftex.def)             Requested size: 284.5295pt x 256.08304pt.
+
+
+[84 <./images/createactionseq.png (PNG copy)> <./images/consultactionseq.png (PNG copy)>]
+<images/deleteactionseq.png, id=815, 694.595pt x 495.8525pt>
+File: images/deleteactionseq.png Graphic file (type png)
+<use images/deleteactionseq.png>
+Package pdftex.def Info: images/deleteactionseq.png  used on input line 373.
+(pdftex.def)             Requested size: 284.53142pt x 256.07431pt.
+<images/aiconseilseq.png, id=816, 800.9925pt x 362.35374pt>
+File: images/aiconseilseq.png Graphic file (type png)
+<use images/aiconseilseq.png>
+Package pdftex.def Info: images/aiconseilseq.png  used on input line 379.
+(pdftex.def)             Requested size: 284.53154pt x 256.07867pt.
+
+
+[85 <./images/modifyactionseq.png (PNG copy)> <./images/deleteactionseq.png (PNG copy)>]
+<images/gestionplansinterface.PNG, id=826, 617.30624pt x 575.90157pt>
+File: images/gestionplansinterface.PNG Graphic file (type png)
+<use images/gestionplansinterface.PNG>
+Package pdftex.def Info: images/gestionplansinterface.PNG  used on input line 391.
+(pdftex.def)             Requested size: 369.89679pt x 256.07767pt.
+
+
+[86 <./images/aiconseilseq.png (PNG copy)>]
+<images/createplanmodal.PNG, id=834, 829.59938pt x 554.82281pt>
+File: images/createplanmodal.PNG Graphic file (type png)
+<use images/createplanmodal.PNG>
+Package pdftex.def Info: images/createplanmodal.PNG  used on input line 400.
+(pdftex.def)             Requested size: 369.88579pt x 256.07664pt.
+<images/subscriptioninterface.PNG, id=835, 465.99094pt x 478.78876pt>
+File: images/subscriptioninterface.PNG Graphic file (type png)
+<use images/subscriptioninterface.PNG>
+Package pdftex.def Info: images/subscriptioninterface.PNG  used on input line 409.
+(pdftex.def)             Requested size: 369.89929pt x 256.07274pt.
+
+
+[87 <./images/gestionplansinterface.PNG> <./images/createplanmodal.PNG>]
+<images/textsinterface.PNG, id=845, 1013.28563pt x 447.92343pt>
+File: images/textsinterface.PNG Graphic file (type png)
+<use images/textsinterface.PNG>
+Package pdftex.def Info: images/textsinterface.PNG  used on input line 418.
+(pdftex.def)             Requested size: 369.88484pt x 227.61775pt.
+
+
+[88 <./images/subscriptioninterface.PNG>]
+<images/createtextmodal.PNG, id=854, 1013.28563pt x 572.1375pt>
+File: images/createtextmodal.PNG Graphic file (type png)
+<use images/createtextmodal.PNG>
+Package pdftex.def Info: images/createtextmodal.PNG  used on input line 427.
+(pdftex.def)             Requested size: 369.88484pt x 256.0714pt.
+<images/complianceinterface.PNG, id=855, 1012.5328pt x 546.54187pt>
+File: images/complianceinterface.PNG Graphic file (type png)
+<use images/complianceinterface.PNG>
+Package pdftex.def Info: images/complianceinterface.PNG  used on input line 436.
+(pdftex.def)             Requested size: 398.347pt x 256.07411pt.
+
+
+[89 <./images/textsinterface.PNG> <./images/createtextmodal.PNG>]
+Overfull \hbox (6.25957pt too wide) in paragraph at lines 441--442
+\T1/ptm/m/n/12 La fi-gure 4.15 pré-sente l'in-ter-face d'éva-lua-tion des exi-gences d'un texte ré-gle-men-taire spé-ci-fique. 
+ []
+
+<images/requirementevaluation.PNG, id=865, 1006.51031pt x 578.16pt>
+File: images/requirementevaluation.PNG Graphic file (type png)
+<use images/requirementevaluation.PNG>
+Package pdftex.def Info: images/requirementevaluation.PNG  used on input line 445.
+(pdftex.def)             Requested size: 398.32744pt x 256.06737pt.
+
+
+[90 <./images/complianceinterface.PNG>]
+<images/actionplansinterface.PNG, id=874, 931.22906pt x 554.07pt>
+File: images/actionplansinterface.PNG Graphic file (type png)
+<use images/actionplansinterface.PNG>
+Package pdftex.def Info: images/actionplansinterface.PNG  used on input line 454.
+(pdftex.def)             Requested size: 398.33191pt x 256.07582pt.
+<images/createactionmodal.PNG, id=875, 1012.5328pt x 561.59813pt>
+File: images/createactionmodal.PNG Graphic file (type png)
+<use images/createactionmodal.PNG>
+Package pdftex.def Info: images/createactionmodal.PNG  used on input line 463.
+(pdftex.def)             Requested size: 398.347pt x 256.07597pt.
+
+
+[91 <./images/requirementevaluation.PNG> <./images/actionplansinterface.PNG>]
+<images/actionplanaiconseil.png, id=886, 1312.905pt x 758.835pt>
+File: images/actionplanaiconseil.png Graphic file (type png)
+<use images/actionplanaiconseil.png>
+Package pdftex.def Info: images/actionplanaiconseil.png  used on input line 472.
+(pdftex.def)             Requested size: 398.34196pt x 256.0784pt.
+
+
+[92 <./images/createactionmodal.PNG>]
+Overfull \hbox (21.19849pt too wide) in paragraph at lines 479--480
+\T1/ptm/m/n/12 sta-tis-tiques, per-met-tant aux en-tre-prises d'or-ga-ni-ser et de suivre les pro-ces-sus d'éva-lua-tion pé-rio-dique
+ []
+
+chapitre/08-Chapitre4 Release2.tex:487: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.487 \hline
+            
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+chapitre/08-Chapitre4 Release2.tex:488: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.488 H
+       istoire utilisateur & Description & PrioritÃ© \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+chapitre/08-Chapitre4 Release2.tex:488: Extra alignment tab has been changed to \cr.
+<template> \endtemplate 
+                        
+l.488 H
+       istoire utilisateur & Description & PrioritÃ© \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+
+[93 <./images/actionplanaiconseil.png>] [94]
+<images/revuedirectionuc.png, id=906, 894.34125pt x 419.5675pt>
+File: images/revuedirectionuc.png Graphic file (type png)
+<use images/revuedirectionuc.png>
+Package pdftex.def Info: images/revuedirectionuc.png  used on input line 515.
+(pdftex.def)             Requested size: 341.4362pt x 227.61942pt.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 547.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 547.
+ [95 <./images/revuedirectionuc.png>]
+Overfull \hbox (0.21165pt too wide) in paragraph at lines 552--552
+|[]\T1/ptm/b/n/12 Diagramme de cas d'uti-li-sa-tion dé-taillé de la par-ti-ci-pa-tion aux re-vues de di-rec-tion| 
+ []
+
+<images/participationrevueuc.png, id=915, 1214.5375pt x 1003.75pt>
+File: images/participationrevueuc.png Graphic file (type png)
+<use images/participationrevueuc.png>
+Package pdftex.def Info: images/participationrevueuc.png  used on input line 557.
+(pdftex.def)             Requested size: 341.42104pt x 227.61066pt.
+
+
+[96] [97 <./images/participationrevueuc.png>]
+Overfull \hbox (4.61491pt too wide) in paragraph at lines 592--593
+\T1/ptm/m/n/12 La fi-gure 4.23 pré-sente le dia-gramme de cas d'uti-li-sa-tion dé-taillé pour la ges-tion des no-ti-fi-ca-tions. 
+ []
+
+<images/notificationsuc.png, id=930, 1519.6775pt x 698.61pt>
+File: images/notificationsuc.png Graphic file (type png)
+<use images/notificationsuc.png>
+Package pdftex.def Info: images/notificationsuc.png  used on input line 596.
+(pdftex.def)             Requested size: 341.42574pt x 227.62119pt.
+
+
+[98] [99 <./images/notificationsuc.png>]
+Overfull \hbox (19.93878pt too wide) in paragraph at lines 628--629
+\T1/ptm/m/n/12 La fi-gure 4.24 pré-sente le dia-gramme de cas d'uti-li-sa-tion dé-taillé pour la consul-ta-tion de l'his-to-rique. 
+ []
+
+<images/historyuc.png, id=943, 1174.3875pt x 570.13pt>
+File: images/historyuc.png Graphic file (type png)
+<use images/historyuc.png>
+Package pdftex.def Info: images/historyuc.png  used on input line 632.
+(pdftex.def)             Requested size: 341.4238pt x 227.62169pt.
+[100 <./images/historyuc.png>]
+<images/statisticsuc.png, id=952, 1616.0375pt x 875.27pt>
+File: images/statisticsuc.png Graphic file (type png)
+<use images/statisticsuc.png>
+Package pdftex.def Info: images/statisticsuc.png  used on input line 667.
+(pdftex.def)             Requested size: 341.42456pt x 227.61826pt.
+ [101 <./images/statisticsuc.png>]
+<images/createrevueseq.png, id=961, 634.37pt x 538.01pt>
+File: images/createrevueseq.png Graphic file (type png)
+<use images/createrevueseq.png>
+Package pdftex.def Info: images/createrevueseq.png  used on input line 705.
+(pdftex.def)             Requested size: 284.5346pt x 256.07458pt.
+
+
+[102]
+<images/consultrevueseq.png, id=966, 636.3775pt x 436.63126pt>
+File: images/consultrevueseq.png Graphic file (type png)
+<use images/consultrevueseq.png>
+Package pdftex.def Info: images/consultrevueseq.png  used on input line 712.
+(pdftex.def)             Requested size: 284.52226pt x 256.07118pt.
+
+Overfull \hbox (0.86002pt too wide) in paragraph at lines 716--716
+|[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion d'une re-vue de di-rec-tion| 
+ []
+
+<images/modifyrevueseq.png, id=967, 616.3025pt x 420.57124pt>
+File: images/modifyrevueseq.png Graphic file (type png)
+<use images/modifyrevueseq.png>
+Package pdftex.def Info: images/modifyrevueseq.png  used on input line 719.
+(pdftex.def)             Requested size: 284.52762pt x 256.0732pt.
+
+
+[103 <./images/createrevueseq.png (PNG copy)> <./images/consultrevueseq.png (PNG copy)>]
+<images/deleterevueseq.png, id=977, 667.49374pt x 378.41376pt>
+File: images/deleterevueseq.png Graphic file (type png)
+<use images/deleterevueseq.png>
+Package pdftex.def Info: images/deleterevueseq.png  used on input line 726.
+(pdftex.def)             Requested size: 284.53156pt x 256.0765pt.
+<images/changestatusrevueseq.png, id=978, 725.71124pt x 395.4775pt>
+File: images/changestatusrevueseq.png Graphic file (type png)
+<use images/changestatusrevueseq.png>
+Package pdftex.def Info: images/changestatusrevueseq.png  used on input line 733.
+(pdftex.def)             Requested size: 256.07347pt x 256.07974pt.
+
+
+[104 <./images/modifyrevueseq.png (PNG copy)> <./images/deleterevueseq.png (PNG copy)>]
+<images/consultelementrevueseq.png, id=987, 918.43124pt x 320.19624pt>
+File: images/consultelementrevueseq.png Graphic file (type png)
+<use images/consultelementrevueseq.png>
+Package pdftex.def Info: images/consultelementrevueseq.png  used on input line 740.
+(pdftex.def)             Requested size: 284.52856pt x 199.16942pt.
+<images/addelementrevueseq.png, id=988, 643.40375pt x 495.8525pt>
+File: images/addelementrevueseq.png Graphic file (type png)
+<use images/addelementrevueseq.png>
+Package pdftex.def Info: images/addelementrevueseq.png  used on input line 747.
+(pdftex.def)             Requested size: 284.53188pt x 256.07431pt.
+
+
+[105 <./images/changestatusrevueseq.png (PNG copy)> <./images/consultelementrevueseq.png (PNG copy)>]
+<images/modifyelementrevueseq.png, id=997, 721.69624pt x 453.695pt>
+File: images/modifyelementrevueseq.png Graphic file (type png)
+<use images/modifyelementrevueseq.png>
+Package pdftex.def Info: images/modifyelementrevueseq.png  used on input line 754.
+(pdftex.def)             Requested size: 284.52179pt x 256.07509pt.
+<images/deleteelementrevueseq.png, id=998, 718.685pt x 453.695pt>
+File: images/deleteelementrevueseq.png Graphic file (type png)
+<use images/deleteelementrevueseq.png>
+Package pdftex.def Info: images/deleteelementrevueseq.png  used on input line 761.
+(pdftex.def)             Requested size: 284.52995pt x 256.07509pt.
+
+
+[106 <./images/addelementrevueseq.png (PNG copy)> <./images/modifyelementrevueseq.png (PNG copy)>]
+<images/generatepdfrevueseq.png, id=1007, 749.80125pt x 437.635pt>
+File: images/generatepdfrevueseq.png Graphic file (type png)
+<use images/generatepdfrevueseq.png>
+Package pdftex.def Info: images/generatepdfrevueseq.png  used on input line 768.
+(pdftex.def)             Requested size: 284.527pt x 256.07887pt.
+<images/consultnotificationsseq.png, id=1008, 594.22pt x 639.38875pt>
+File: images/consultnotificationsseq.png Graphic file (type png)
+<use images/consultnotificationsseq.png>
+Package pdftex.def Info: images/consultnotificationsseq.png  used on input line 776.
+(pdftex.def)             Requested size: 284.54233pt x 256.07292pt.
+
+
+[107 <./images/deleteelementrevueseq.png (PNG copy)> <./images/generatepdfrevueseq.png (PNG copy)>]
+<images/markallreadseq.png, id=1017, 666.49pt x 349.305pt>
+File: images/markallreadseq.png Graphic file (type png)
+<use images/markallreadseq.png>
+Package pdftex.def Info: images/markallreadseq.png  used on input line 783.
+(pdftex.def)             Requested size: 284.5308pt x 227.62651pt.
+<images/consulthistoryseq.png, id=1018, 552.0625pt x 609.27625pt>
+File: images/consulthistoryseq.png Graphic file (type png)
+<use images/consulthistoryseq.png>
+Package pdftex.def Info: images/consulthistoryseq.png  used on input line 790.
+(pdftex.def)             Requested size: 284.53859pt x 256.0802pt.
+
+
+[108 <./images/consultnotificationsseq.png (PNG copy)> <./images/markallreadseq.png (PNG copy)>]
+Overfull \hbox (3.2113pt too wide) in paragraph at lines 795--795
+|[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de consul-ta-tion des sta-tis-tiques glo-bales| 
+ []
+
+<images/consultglobalstatsseq.png, id=1027, 714.67pt x 341.275pt>
+File: images/consultglobalstatsseq.png Graphic file (type png)
+<use images/consultglobalstatsseq.png>
+Package pdftex.def Info: images/consultglobalstatsseq.png  used on input line 798.
+(pdftex.def)             Requested size: 256.07054pt x 227.62718pt.
+<images/consultcompliancestatsseq.png, id=1028, 588.1975pt x 399.4925pt>
+File: images/consultcompliancestatsseq.png Graphic file (type png)
+<use images/consultcompliancestatsseq.png>
+Package pdftex.def Info: images/consultcompliancestatsseq.png  used on input line 805.
+(pdftex.def)             Requested size: 284.5305pt x 256.08884pt.
+
+
+[109 <./images/consulthistoryseq.png (PNG copy)> <./images/consultglobalstatsseq.png (PNG copy)>]
+<images/revuedirectioninterface.PNG, id=1038, 1008.01593pt x 575.14874pt>
+File: images/revuedirectioninterface.PNG Graphic file (type png)
+<use images/revuedirectioninterface.PNG>
+Package pdftex.def Info: images/revuedirectioninterface.PNG  used on input line 817.
+(pdftex.def)             Requested size: 398.3388pt x 256.07642pt.
+
+
+[110 <./images/consultcompliancestatsseq.png (PNG copy)>]
+<images/createrevuemodal.PNG, id=1046, 1014.03844pt x 475.7775pt>
+File: images/createrevuemodal.PNG Graphic file (type png)
+<use images/createrevuemodal.PNG>
+Package pdftex.def Info: images/createrevuemodal.PNG  used on input line 826.
+(pdftex.def)             Requested size: 398.33589pt x 256.0884pt.
+<images/revuedetails.PNG, id=1047, 1017.04968pt x 578.16pt>
+File: images/revuedetails.PNG Graphic file (type png)
+<use images/revuedetails.PNG>
+Package pdftex.def Info: images/revuedetails.PNG  used on input line 835.
+(pdftex.def)             Requested size: 398.33934pt x 256.06737pt.
+
+
+[111 <./images/revuedirectioninterface.PNG> <./images/createrevuemodal.PNG>]
+<images/addelementmodal.PNG, id=1057, 1013.28563pt x 578.16pt>
+File: images/addelementmodal.PNG Graphic file (type png)
+<use images/addelementmodal.PNG>
+Package pdftex.def Info: images/addelementmodal.PNG  used on input line 844.
+(pdftex.def)             Requested size: 398.33395pt x 256.06737pt.
+
+
+[112 <./images/revuedetails.PNG>]
+<images/notificationsdropdown.PNG, id=1066, 274.77657pt x 345.54094pt>
+File: images/notificationsdropdown.PNG Graphic file (type png)
+<use images/notificationsdropdown.PNG>
+Package pdftex.def Info: images/notificationsdropdown.PNG  used on input line 853.
+(pdftex.def)             Requested size: 284.55336pt x 170.71902pt.
+<images/historyinterface.PNG, id=1067, 1016.29688pt x 557.83406pt>
+File: images/historyinterface.PNG Graphic file (type png)
+<use images/historyinterface.PNG>
+Package pdftex.def Info: images/historyinterface.PNG  used on input line 862.
+(pdftex.def)             Requested size: 398.33914pt x 256.07904pt.
+
+
+[113 <./images/addelementmodal.PNG> <./images/notificationsdropdown.PNG>]
+<images/globalstatsinterface.PNG, id=1078, 854.44218pt x 514.17094pt>
+File: images/globalstatsinterface.PNG Graphic file (type png)
+<use images/globalstatsinterface.PNG>
+Package pdftex.def Info: images/globalstatsinterface.PNG  used on input line 871.
+(pdftex.def)             Requested size: 341.43184pt x 199.16856pt.
+<images/compliancestatsinterface.PNG, id=1079, 859.71187pt x 572.1375pt>
+File: images/compliancestatsinterface.PNG Graphic file (type png)
+<use images/compliancestatsinterface.PNG>
+Package pdftex.def Info: images/compliancestatsinterface.PNG  used on input line 880.
+(pdftex.def)             Requested size: 341.43867pt x 199.16858pt.
+
+
+[114 <./images/historyinterface.PNG> <./images/globalstatsinterface.PNG>]) (chapitre/09-ConclusionGenerale.tex
+Overfull \hbox (15.33063pt too wide) in paragraph at lines 885--1
+\T1/ptm/m/n/12 Cette deuxième re-lease a per-mis de com-plé-ter le sys-tème ^^S Pré-ven-tion Plus ^^T avec l'im-plé-men-ta-tion
+ []
+
+
+
+[115 <./images/compliancestatsinterface.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+
+Overfull \hbox (9.24602pt too wide) in paragraph at lines 9--9
+[]\T1/ptm/m/n/12 L'application "Prévention-Plus" re-pré-sente une so-lu-tion com-plète pour les bu-reaux de conseil
+ []
+
+
+Overfull \hbox (1.47128pt too wide) in paragraph at lines 19--19
+[]\T1/ptm/m/n/12 Enfin, nous sou-hai-tons ex-pri-mer notre pro-fonde gra-ti-tude en-vers tous ceux qui ont contri-bué
+ []
+
+
+Overfull \hbox (18.28299pt too wide) in paragraph at lines 19--19
+\T1/ptm/m/n/12 di-recte. Nous sommes en-thou-siastes à l'idée de voir l'ave-nir de "Prévention-Plus" et les op-por-tu-ni-tés
+ []
+
+) (chapitre/10-Bibliographie.tex
+
+[116
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+
+ []
+
+)
+Package minitoc Info: I0009
+(minitoc)             Listing minitoc auxiliary files. 
+(minitoc)             Creating the main.maf file.
+\openout3 = `main.maf'.
+
+Package minitoc(hints) Info: I0053
+(minitoc(hints))             You have loaded the float package; 
+(minitoc(hints))             please be aware that the minitoc package 
+(minitoc(hints))             facilities can not be used for new types 
+(minitoc(hints))             of floats defined by the float package.
+
+
+[117
+
+] (main.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-08-13>
+ ***********
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  38AE8D3F78995632EEBD54AD0E1A1FD4;51325.
+ ) 
+Here is how much of TeX's memory you used:
+ 
+Output written on main.pdf (123 pages, 11619510 bytes).
+PDF statistics:
+ 1356 PDF objects out of 1440 (max. 8388607)
+ 469 named destinations out of 1000 (max. 500000)
+ 593 words of extra memory for PDF output out of 10000 (max. 10000000)
+
