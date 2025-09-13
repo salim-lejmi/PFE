@@ -27,8 +27,7 @@
 
 \subsection{Environnement logiciel}
 
-\noindent Dans cette section, nous présentons les environnements logiciels utilisés pour le projet.
-
+\noindent Dans cette section, nous décrivons en détail les différents environnements logiciels utilisés tout au long du projet, en précisant leurs rôles et leur importance dans le développement et la mise en œuvre de «Prévention Plus».
 \subsubsection{Visual Studio Code}
 
 \begin{figure}[H]%
@@ -123,7 +122,7 @@
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=4cm, height=3cm]{images/react.png}
+    \includegraphics[width=5cm, height=4cm]{images/react.png}
     \caption{Logo React}
 \end{figure}
 
@@ -159,7 +158,7 @@
 
 \subsection{Architecture physique}
 
-\noindent Notre application suit une architecture distribuée basée sur le modèle trois tiers, complétée par un service de traitement du langage naturel. Cette architecture garantit une séparation claire des responsabilités et une évolutivité optimale du système.
+\noindent Notre application suit une architecture distribuée basée sur le modèle trois tiers, complétée par un service de traitement du langage naturel. Cette architecture garantit une séparation claire des responsabilités et une évolutivité optimale du système, permettant à chaque couche et composant de fonctionner de manière indépendante tout en restant coordonné avec l’ensemble de l’application.
 
 \noindent La figure 3.11 illustre l'organisation physique de notre application :
 
@@ -200,7 +199,7 @@
 
 \noindent \textbf{Vue} : Constituée des composants React TypeScript qui gèrent l'affichage et les interactions utilisateur. Cette couche utilise Material UI pour maintenir une interface cohérente et responsive.
 
-\noindent \textbf{Contrôleur (Controller)} : Implémenté par les contrôleurs .NET Core qui orchestrent les requêtes HTTP, valident les données d'entrée et coordonnent les appels entre les différentes couches et services.
+\noindent \textbf{Contrôleur} : Implémenté par les contrôleurs .NET Core qui orchestrent les requêtes HTTP, valident les données d'entrée et coordonnent les appels entre les différentes couches et services.
 
 \noindent \textbf{Architecture Microservices} : Le service NLP Flask fonctionne comme un microservice indépendant, communiquant avec l'API principale via des appels HTTP. Cette approche permet une évolutivité et une maintenabilité optimales des fonctionnalités d'intelligence artificielle.
 

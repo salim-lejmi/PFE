@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.2)  4 SEP 2025 14:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.2)  13 SEP 2025 17:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1073,7 +1073,6 @@ Package caption Info: rotating package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 46.
- (main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
@@ -1095,12 +1094,12 @@ Package minitoc(hints) Info: I0042
 (minitoc(hints))             See the minitoc package documentation 
 (minitoc(hints))             for specific precautions.
  (chapitre/00-PageDeGarde.tex
-<chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, id=645, 597.432pt x 845.07718pt>
+<chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, id=6, 597.432pt x 845.07718pt>
 File: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf Graphic file (type pdf)
 <use chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf>
 Package pdftex.def Info: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf  used on input line 1.
 (pdftex.def)             Requested size: 597.43054pt x 845.07512pt.
-<chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, id=647, page=1, 597.432pt x 845.07718pt>
+<chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, id=8, page=1, 597.432pt x 845.07718pt>
 File: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf Graphic file (type pdf)
 <use chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, page 1>
 Package pdftex.def Info: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf , page1 used on input line 1.
@@ -1126,7 +1125,7 @@ Package pdftex.def Info: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf , pa
 [1
 
 
- <./chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf>]) (chapitre/01-Remerciement.tex
+]) (chapitre/01-Remerciement.tex
 LaTeX Font Info:    Calculating math sizes for size <26> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <26> on input line 1.
@@ -1361,7 +1360,7 @@ Overfull \hbox (5.41895pt too wide) in paragraph at lines 10--11
 \T1/ptm/m/n/12 ob-jec-tifs et le tra-vail de-mandé. Nous pré-sen-te-rons en-suite la mé-tho-do-lo-gie adop-tée et la dé-marche
  []
 
-<images/logoent.jpg, id=1224, 200.75pt x 200.75pt>
+<images/logoent.jpg, id=720, 200.75pt x 200.75pt>
 File: images/logoent.jpg Graphic file (type jpg)
 <use images/logoent.jpg>
 Package pdftex.def Info: images/logoent.jpg  used on input line 32.
@@ -1373,22 +1372,22 @@ Overfull \hbox (5.86269pt too wide) in paragraph at lines 42--43
 \T1/ptm/m/n/12 (Word-Press, HTML5/PHP), ap-pli-ca-tions web sur me-sure (uti-li-sant Zend, La-ra-vel, An-gu-lar)
  []
 
-<images/auditboard.PNG, id=1229, 1434.10782pt x 813.0375pt>
+<images/auditboard.PNG, id=725, 1434.10782pt x 813.0375pt>
 File: images/auditboard.PNG Graphic file (type png)
 <use images/auditboard.PNG>
 Package pdftex.def Info: images/auditboard.PNG  used on input line 63.
 (pdftex.def)             Requested size: 369.8832pt x 227.61172pt.
 
 
-[4 <./images/logoent.jpg>]
-<images/processgene.PNG, id=1235, 1434.86063pt x 758.08218pt>
+[4]
+<images/processgene.PNG, id=731, 1434.86063pt x 758.08218pt>
 File: images/processgene.PNG Graphic file (type png)
 <use images/processgene.PNG>
 Package pdftex.def Info: images/processgene.PNG  used on input line 76.
 (pdftex.def)             Requested size: 369.88031pt x 227.61148pt.
 
 
-[5 <./images/auditboard.PNG> <./images/processgene.PNG>]
+[5]
 Overfull \hbox (10.3151pt too wide) in paragraph at lines 118--119
 \T1/ptm/m/n/12 pro-gres-sive à tra-vers des cycles de dé-ve-lop-pe-ment courts et ré-pé-tés, vi-sant avant tout la sa-tis-fac-tion
  []
@@ -1396,7 +1395,7 @@ Overfull \hbox (10.3151pt too wide) in paragraph at lines 118--119
 
 
 [6]
-<images/scrum method.jpg, id=1248, 469.755pt x 287.57437pt>
+<images/scrum method.jpg, id=742, 469.755pt x 287.57437pt>
 File: images/scrum method.jpg Graphic file (type jpg)
 <use images/scrum method.jpg>
 Package pdftex.def Info: images/scrum method.jpg  used on input line 125.
@@ -1413,7 +1412,7 @@ Overfull \hbox (24.91803pt too wide) in paragraph at lines 136--137
 
 
 
-[7 <./images/scrum method.jpg>]
+[7]
 Overfull \hbox (8.3939pt too wide) in paragraph at lines 138--139
 []\T1/ptm/b/n/12 Équipe de dé-ve-lop-pe-ment Scrum \T1/ptm/m/n/12 : Groupe de pro-fes-sion-nels qui construisent les élé-ments
  []
@@ -1489,38 +1488,36 @@ Overfull \hbox (20.16574pt too wide) in paragraph at lines 63--64
 
 
 [13] [14] [15] [16] [17]
-
-[18]
-<images/UseCaseDiagram.png, id=1309, 3412.75pt x 3798.19pt>
+<images/UseCaseDiagram.png, id=799, 3414.7575pt x 3830.31pt>
 File: images/UseCaseDiagram.png Graphic file (type png)
 <use images/UseCaseDiagram.png>
-Package pdftex.def Info: images/UseCaseDiagram.png  used on input line 215.
-(pdftex.def)             Requested size: 512.15079pt x 569.00845pt.
+Package pdftex.def Info: images/UseCaseDiagram.png  used on input line 213.
+(pdftex.def)             Requested size: 512.13943pt x 540.56474pt.
 
-Overfull \hbox (56.90668pt too wide) in paragraph at lines 215--216
+Overfull \hbox (56.89532pt too wide) in paragraph at lines 213--214
  [][] 
  []
 
 
 
-[19]
-<images/diagramclass.png, id=1314, 1402.23875pt x 1665.22125pt>
+[18]
+<images/diagramclass.png, id=804, 1402.23875pt x 1665.22125pt>
 File: images/diagramclass.png Graphic file (type png)
 <use images/diagramclass.png>
-Package pdftex.def Info: images/diagramclass.png  used on input line 225.
+Package pdftex.def Info: images/diagramclass.png  used on input line 223.
 (pdftex.def)             Requested size: 512.16594pt x 540.6061pt.
 
-Overfull \hbox (56.92183pt too wide) in paragraph at lines 225--226
+Overfull \hbox (56.92183pt too wide) in paragraph at lines 223--224
  [][] 
  []
 
 
 
-[20 <./images/UseCaseDiagram.png>] (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd)
+[19] (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd)
 
-[21 <./images/diagramclass.png (PNG copy)>]) (chapitre/06-Chapitre3.tex
+[20]) (chapitre/06-Chapitre3.tex
 
-[22]
+[21]
 Chapitre 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
@@ -1538,147 +1535,143 @@ File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 
  (main.mtc6)
 
-[23
+[22
 
 ]
 Overfull \hbox (2.22638pt too wide) in paragraph at lines 12--13
 \T1/ptm/m/n/12 dé-ve-lop-pe-ment de l'ap-pli-ca-tion en dé-taillant les tech-no-lo-gies et fra-me-works uti-li-sés. Fi-na-le-ment,
  []
 
-<images/vscode.png, id=1341, 290.58563pt x 152.82094pt>
+<images/vscode.png, id=829, 290.58563pt x 152.82094pt>
 File: images/vscode.png Graphic file (type png)
 <use images/vscode.png>
-Package pdftex.def Info: images/vscode.png  used on input line 37.
+Package pdftex.def Info: images/vscode.png  used on input line 36.
 (pdftex.def)             Requested size: 170.71686pt x 85.35759pt.
 
 
-[24]
-<images/visualstudio.png, id=1349, 803.0pt x 312.16624pt>
+[23]
+<images/visualstudio.png, id=838, 803.0pt x 312.16624pt>
 File: images/visualstudio.png Graphic file (type png)
 <use images/visualstudio.png>
-Package pdftex.def Info: images/visualstudio.png  used on input line 49.
+Package pdftex.def Info: images/visualstudio.png  used on input line 48.
 (pdftex.def)             Requested size: 170.71794pt x 56.90198pt.
 
-Overfull \hbox (1.93929pt too wide) in paragraph at lines 58--59
+Overfull \hbox (1.93929pt too wide) in paragraph at lines 57--58
 \T1/ptm/m/n/12 Dans cette sec-tion, nous pré-sen-tons les lan-gages de pro-gram-ma-tion, bi-blio-thèques et fra-me-works
  []
 
-<images/typescript.png, id=1352, 250.9375pt x 250.9375pt>
+<images/typescript.png, id=841, 250.9375pt x 250.9375pt>
 File: images/typescript.png Graphic file (type png)
 <use images/typescript.png>
-Package pdftex.def Info: images/typescript.png  used on input line 68.
+Package pdftex.def Info: images/typescript.png  used on input line 67.
 (pdftex.def)             Requested size: 85.35973pt x 85.35973pt.
 
 
-[25 <./images/vscode.png> <./images/visualstudio.png>]
-<images/csharp.png, id=1364, 165.61874pt x 165.61874pt>
+[24]
+<images/csharp.png, id=851, 165.61874pt x 165.61874pt>
 File: images/csharp.png Graphic file (type png)
 <use images/csharp.png>
-Package pdftex.def Info: images/csharp.png  used on input line 78.
+Package pdftex.def Info: images/csharp.png  used on input line 77.
 (pdftex.def)             Requested size: 85.3565pt x 85.3565pt.
-<images/python.png, id=1365, 150.5625pt x 165.61874pt>
+<images/python.png, id=852, 150.5625pt x 165.61874pt>
 File: images/python.png Graphic file (type png)
 <use images/python.png>
-Package pdftex.def Info: images/python.png  used on input line 88.
+Package pdftex.def Info: images/python.png  used on input line 87.
 (pdftex.def)             Requested size: 85.36203pt x 85.3565pt.
 
 
-[26 <./images/typescript.png> <./images/csharp.png> <./images/python.png>]
-<images/net.png, id=1378, 250.9375pt x 250.9375pt>
+[25]
+<images/net.png, id=862, 250.9375pt x 250.9375pt>
 File: images/net.png Graphic file (type png)
 <use images/net.png>
-Package pdftex.def Info: images/net.png  used on input line 102.
+Package pdftex.def Info: images/net.png  used on input line 101.
 (pdftex.def)             Requested size: 85.35973pt x 85.35973pt.
-<images/flask.png, id=1379, 250.9375pt x 98.3675pt>
+<images/flask.png, id=863, 250.9375pt x 98.3675pt>
 File: images/flask.png Graphic file (type png)
 <use images/flask.png>
-Package pdftex.def Info: images/flask.png  used on input line 112.
+Package pdftex.def Info: images/flask.png  used on input line 111.
 (pdftex.def)             Requested size: 170.7233pt x 85.35686pt.
 
-Overfull \hbox (1.30324pt too wide) in paragraph at lines 120--121
+Overfull \hbox (1.30324pt too wide) in paragraph at lines 119--120
 \T1/ptm/m/n/12 Pour en-ri-chir les fonc-tion-na-li-tés de notre ap-pli-ca-tion, nous avons in-té-gré plu-sieurs bi-blio-thèques. 
  []
 
 
 
-[27 <./images/net.png> <./images/flask.png>]
-<images/react.png, id=1390, 582.175pt x 358.33875pt>
+[26]
+<images/react.png, id=872, 582.175pt x 358.33875pt>
 File: images/react.png Graphic file (type png)
 <use images/react.png>
-Package pdftex.def Info: images/react.png  used on input line 126.
-(pdftex.def)             Requested size: 113.80348pt x 85.35785pt.
+Package pdftex.def Info: images/react.png  used on input line 125.
+(pdftex.def)             Requested size: 142.25658pt x 113.80682pt.
 
-Overfull \hbox (2.57544pt too wide) in paragraph at lines 130--131
+Overfull \hbox (2.57544pt too wide) in paragraph at lines 129--130
 \T1/ptm/m/n/12 l'avons uti-lisé pour dé-ve-lop-per notre in-ter-face uti-li-sa-teur avec Ty-peS-cript, créant des com-po-sants
  []
 
-<images/mui.png, id=1391, 2509.375pt x 1992.44376pt>
+<images/mui.png, id=873, 2509.375pt x 1992.44376pt>
 File: images/mui.png Graphic file (type png)
 <use images/mui.png>
-Package pdftex.def Info: images/mui.png  used on input line 136.
+Package pdftex.def Info: images/mui.png  used on input line 135.
 (pdftex.def)             Requested size: 85.34825pt x 85.33899pt.
-<images/stripe.png, id=1393, 192.72pt x 192.72pt>
+
+
+[27]
+<images/stripe.png, id=882, 192.72pt x 192.72pt>
 File: images/stripe.png Graphic file (type png)
 <use images/stripe.png>
-Package pdftex.def Info: images/stripe.png  used on input line 150.
+Package pdftex.def Info: images/stripe.png  used on input line 149.
 (pdftex.def)             Requested size: 85.35577pt x 85.35577pt.
 
-
-[28 <./images/react.png> <./images/mui.png>]
-Overfull \hbox (6.82307pt too wide) in paragraph at lines 154--155
+Overfull \hbox (6.82307pt too wide) in paragraph at lines 153--154
 \T1/ptm/m/n/12 Stripe [[]] est une pla-te-forme de paie-ment en ligne qui four-nit des APIs pour trai-ter les paie-ments.
  []
 
 
-Overfull \hbox (15.1259pt too wide) in paragraph at lines 154--155
+Overfull \hbox (15.1259pt too wide) in paragraph at lines 153--154
 \T1/ptm/m/n/12 ma-nière sé-cu-ri-sée, per-met-tant aux uti-li-sa-teurs d'ef-fec-tuer des achats di-rec-te-ment dans l'ap-pli-ca-tion. 
  []
 
-<images/Architecturephysique.PNG, id=1404, 678.28406pt x 517.935pt>
+<images/Architecturephysique.PNG, id=884, 678.28406pt x 517.935pt>
 File: images/Architecturephysique.PNG Graphic file (type png)
 <use images/Architecturephysique.PNG>
-Package pdftex.def Info: images/Architecturephysique.PNG  used on input line 168.
+Package pdftex.def Info: images/Architecturephysique.PNG  used on input line 167.
 (pdftex.def)             Requested size: 455.23454pt x 369.90184pt.
 
 
-[29 <./images/stripe.png>]
-Overfull \hbox (14.75471pt too wide) in paragraph at lines 181--182
+[28]
+Overfull \hbox (14.75471pt too wide) in paragraph at lines 180--181
 \T1/ptm/m/n/12 Google pour l'ana-lyse des des-crip-tions d'ac-tions et la gé-né-ra-tion de re-com-man-da-tions in-tel-li-gentes. 
  []
 
 
 
-[30 <./images/Architecturephysique.PNG>]
-<images/Architecturelogique.PNG, id=1418, 621.82312pt x 569.12625pt>
+[29]
+<images/Architecturelogique.PNG, id=896, 621.82312pt x 569.12625pt>
 File: images/Architecturelogique.PNG Graphic file (type png)
 <use images/Architecturelogique.PNG>
-Package pdftex.def Info: images/Architecturelogique.PNG  used on input line 193.
+Package pdftex.def Info: images/Architecturelogique.PNG  used on input line 192.
 (pdftex.def)             Requested size: 426.79073pt x 369.90163pt.
 
-Overfull \hbox (0.74992pt too wide) in paragraph at lines 201--202
+Overfull \hbox (0.74992pt too wide) in paragraph at lines 200--201
 \T1/ptm/m/n/12 uti-li-sa-teur. Cette couche uti-lise Ma-te-rial UI pour main-te-nir une in-ter-face co-hé-rente et res-pon-sive. 
  []
 
 
-Overfull \hbox (6.12645pt too wide) in paragraph at lines 203--204
-\T1/ptm/b/n/12 Contrôleur (Control-ler) \T1/ptm/m/n/12 : Im-plé-menté par les contrô-leurs .NET Core qui or-chestrent les re-quêtes
- []
 
-
-
-[31 <./images/Architecturelogique.PNG>]
-Overfull \hbox (26.61044pt too wide) in paragraph at lines 205--206
+[30]
+Overfull \hbox (26.61044pt too wide) in paragraph at lines 204--205
 \T1/ptm/b/n/12 Architecture Mi-cro-ser-vices \T1/ptm/m/n/12 : Le ser-vice NLP Flask fonc-tionne comme un mi-cro-ser-vice in-dé-pen-dant,
  []
 
 
-Overfull \hbox (4.07495pt too wide) in paragraph at lines 205--206
+Overfull \hbox (4.07495pt too wide) in paragraph at lines 204--205
 \T1/ptm/m/n/12 com-mu-ni-quant avec l'API prin-ci-pale via des ap-pels HTTP. Cette ap-proche per-met une évo-lu-ti-vité
  []
 
 ) (chapitre/07-Chapitre4 Release1.tex
 
-[32]
+[31]
 Chapitre 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
@@ -1696,7 +1689,7 @@ Overfull \hbox (0.618pt too wide) in paragraph at lines 1--1
 
 )
 
-[33
+[32
 
 ]
 Overfull \hbox (1.99864pt too wide) in paragraph at lines 10--11
@@ -1708,172 +1701,170 @@ Overfull \hbox (22.10512pt too wide) in paragraph at lines 12--12
 |\T1/ptm/b/n/17.28 4.1 Sprint 1 : Au-then-ti-fi-ca-tion, ins-crip-tion, re-quêtes d'ins-crip-tion
  []
 
-[34]
-<images/authuc.png, id=1447, 1278.7775pt x 827.09pt>
+[33]
+<images/authuc.png, id=924, 1278.7775pt x 827.09pt>
 File: images/authuc.png Graphic file (type png)
 <use images/authuc.png>
 Package pdftex.def Info: images/authuc.png  used on input line 49.
 (pdftex.def)             Requested size: 284.53198pt x 170.7156pt.
 
 
-[35 <./images/authuc.png>]
-<images/inscriptionuc.png, id=1454, 717.68124pt x 467.7475pt>
+[34]
+<images/inscriptionuc.png, id=929, 717.68124pt x 467.7475pt>
 File: images/inscriptionuc.png Graphic file (type png)
 <use images/inscriptionuc.png>
 Package pdftex.def Info: images/inscriptionuc.png  used on input line 89.
 (pdftex.def)             Requested size: 341.43872pt x 227.62094pt.
 
 
-[36] [37 <./images/inscriptionuc.png>]
+[35] [36]
 Overfull \hbox (10.26723pt too wide) in paragraph at lines 128--129
 \T1/ptm/m/n/12 La fi-gure 4.3 pré-sente le dia-gramme de cas d'uti-li-sa-tion pour la ges-tion des de-mandes d'ins-crip-tion
  []
 
-<images/approveuc.png, id=1466, 1632.0975pt x 827.09pt>
+<images/approveuc.png, id=941, 1632.0975pt x 827.09pt>
 File: images/approveuc.png Graphic file (type png)
 <use images/approveuc.png>
 Package pdftex.def Info: images/approveuc.png  used on input line 132.
-(pdftex.def)             Requested size: 341.4307pt x 284.52603pt.
-[38 <./images/approveuc.png>]
-<images/profileuc.png, id=1473, 1840.8775pt x 843.15pt>
+(pdftex.def)             Requested size: 398.33582pt x 312.98494pt.
+
+
+[37]
+<images/profileuc.png, id=946, 1840.8775pt x 843.15pt>
 File: images/profileuc.png Graphic file (type png)
 <use images/profileuc.png>
 Package pdftex.def Info: images/profileuc.png  used on input line 170.
-(pdftex.def)             Requested size: 341.42778pt x 227.61494pt.
+(pdftex.def)             Requested size: 369.88245pt x 227.61494pt.
 
+
+[38]
 
 [39]
-
-[40 <./images/profileuc.png>]
-<images/authentifiaction.png, id=1484, 734.745pt x 581.17125pt>
+<images/authentifiaction.png, id=957, 734.745pt x 581.17125pt>
 File: images/authentifiaction.png Graphic file (type png)
 <use images/authentifiaction.png>
 Package pdftex.def Info: images/authentifiaction.png  used on input line 209.
-(pdftex.def)             Requested size: 284.53136pt x 256.07973pt.
-<images/inscription.png, id=1485, 764.8575pt x 655.44875pt>
+(pdftex.def)             Requested size: 426.80264pt x 398.33934pt.
+<images/inscription.png, id=958, 764.8575pt x 655.44875pt>
 File: images/inscription.png Graphic file (type png)
 <use images/inscription.png>
 Package pdftex.def Info: images/inscription.png  used on input line 216.
-(pdftex.def)             Requested size: 284.52171pt x 256.07404pt.
+(pdftex.def)             Requested size: 341.42839pt x 312.9816pt.
 
 
-[41 <./images/authentifiaction.png (PNG copy)>]
-<images/demandeseq.png, id=1491, 772.8875pt x 378.41376pt>
+[40]
+<images/demandeseq.png, id=963, 772.8875pt x 378.41376pt>
 File: images/demandeseq.png Graphic file (type png)
 <use images/demandeseq.png>
 Package pdftex.def Info: images/demandeseq.png  used on input line 223.
-(pdftex.def)             Requested size: 284.52512pt x 170.71767pt.
-<images/profilseq.png, id=1492, 662.475pt x 553.06625pt>
+(pdftex.def)             Requested size: 341.42778pt x 227.62164pt.
+<images/profilseq.png, id=964, 662.475pt x 553.06625pt>
 File: images/profilseq.png Graphic file (type png)
 <use images/profilseq.png>
 Package pdftex.def Info: images/profilseq.png  used on input line 230.
-(pdftex.def)             Requested size: 284.52512pt x 256.06763pt.
+(pdftex.def)             Requested size: 369.88164pt x 341.42912pt.
 
 
-[42 <./images/inscription.png (PNG copy)> <./images/demandeseq.png (PNG copy)>]
-<images/authpic.PNG, id=1497, 1028.34187pt x 481.8pt>
+[41]
+<images/authpic.PNG, id=970, 1028.34187pt x 481.8pt>
 File: images/authpic.PNG Graphic file (type png)
 <use images/authpic.PNG>
 Package pdftex.def Info: images/authpic.PNG  used on input line 242.
-(pdftex.def)             Requested size: 483.69734pt x 312.98984pt.
-
-Overfull \hbox (28.45323pt too wide) in paragraph at lines 242--243
- [][] 
- []
+(pdftex.def)             Requested size: 455.24918pt x 284.53154pt.
 
 
-
-[43 <./images/profilseq.png (PNG copy)>]
-<images/inscpic.PNG, id=1502, 1012.5328pt x 475.7775pt>
+[42]
+<images/inscpic.PNG, id=975, 1012.5328pt x 475.7775pt>
 File: images/inscpic.PNG Graphic file (type png)
 <use images/inscpic.PNG>
 Package pdftex.def Info: images/inscpic.PNG  used on input line 251.
-(pdftex.def)             Requested size: 426.79042pt x 256.0884pt.
+(pdftex.def)             Requested size: 426.79042pt x 227.62283pt.
 
-
-[44 <./images/authpic.PNG>]
 Overfull \hbox (7.83151pt too wide) in paragraph at lines 257--258
 \T1/ptm/m/n/12 La fi-gure 4.11 pré-sente l'in-ter-face per-met-tant au Su-per Ad-min de gé-rer les de-mandes d'ins-crip-tion
  []
 
-<images/approvepic.PNG, id=1508, 1019.30812pt x 335.75438pt>
+<images/approvepic.PNG, id=976, 1019.30812pt x 335.75438pt>
 File: images/approvepic.PNG Graphic file (type png)
 <use images/approvepic.PNG>
 Package pdftex.def Info: images/approvepic.PNG  used on input line 261.
-(pdftex.def)             Requested size: 426.8pt x 227.62344pt.
-<images/profilepic.PNG, id=1509, 447.92343pt x 412.54124pt>
+(pdftex.def)             Requested size: 426.8pt x 199.16924pt.
+
+
+[43]
+<images/profilepic.PNG, id=981, 447.92343pt x 412.54124pt>
 File: images/profilepic.PNG Graphic file (type png)
 <use images/profilepic.PNG>
 Package pdftex.def Info: images/profilepic.PNG  used on input line 270.
-(pdftex.def)             Requested size: 398.34987pt x 256.07507pt.
+(pdftex.def)             Requested size: 369.89679pt x 227.62228pt.
 
 
-[45 <./images/inscpic.PNG> <./images/approvepic.PNG>]
-
-[46 <./images/profilepic.PNG>] [47]
-<images/gestionuseruc.png, id=1527, 932.48375pt x 548.0475pt>
+[44] [45]
+<images/gestionuseruc.png, id=991, 932.48375pt x 548.0475pt>
 File: images/gestionuseruc.png Graphic file (type png)
 <use images/gestionuseruc.png>
 Package pdftex.def Info: images/gestionuseruc.png  used on input line 331.
-(pdftex.def)             Requested size: 369.88507pt x 227.6278pt.
+(pdftex.def)             Requested size: 426.78499pt x 284.53476pt.
 
 
-[48] [49 <./images/gestionuseruc.png>]
-<images/gestioncompanyuc.png, id=1538, 806.01125pt x 459.7175pt>
+[46] [47]
+<images/gestioncompanyuc.png, id=1002, 806.01125pt x 459.7175pt>
 File: images/gestioncompanyuc.png Graphic file (type png)
 <use images/gestioncompanyuc.png>
 Package pdftex.def Info: images/gestioncompanyuc.png  used on input line 370.
 (pdftex.def)             Requested size: 341.42491pt x 227.6275pt.
- [50 <./images/gestioncompanyuc.png>]
-<images/gestionparamcompanyuc.png, id=1545, 806.01125pt x 459.7175pt>
+
+
+[48]
+<images/gestionparamcompanyuc.png, id=1007, 806.01125pt x 459.7175pt>
 File: images/gestionparamcompanyuc.png Graphic file (type png)
 <use images/gestionparamcompanyuc.png>
 Package pdftex.def Info: images/gestionparamcompanyuc.png  used on input line 407.
-(pdftex.def)             Requested size: 341.42491pt x 227.6275pt.
+(pdftex.def)             Requested size: 369.88417pt x 256.0862pt.
 
 
-[51] [52 <./images/gestionparamcompanyuc.png>]
-<images/taxonomyuc.png, id=1556, 902.37125pt x 483.8075pt>
+[49] [50]
+<images/taxonomyuc.png, id=1018, 902.37125pt x 483.8075pt>
 File: images/taxonomyuc.png Graphic file (type png)
 <use images/taxonomyuc.png>
 Package pdftex.def Info: images/taxonomyuc.png  used on input line 445.
-(pdftex.def)             Requested size: 341.43135pt x 199.16702pt.
- [53 <./images/taxonomyuc.png>]
-<images/createusersq.png, id=1564, 599.23875pt x 623.32875pt>
+(pdftex.def)             Requested size: 398.33887pt x 256.08455pt.
+ [51]
+<images/createusersq.png, id=1024, 599.23875pt x 623.32875pt>
 File: images/createusersq.png Graphic file (type png)
 <use images/createusersq.png>
 Package pdftex.def Info: images/createusersq.png  used on input line 486.
 (pdftex.def)             Requested size: 284.53163pt x 256.08005pt.
 
 
-[54]
-<images/consultusersq.png, id=1569, 692.5875pt x 450.68375pt>
+[52]
+<images/consultusersq.png, id=1029, 692.5875pt x 450.68375pt>
 File: images/consultusersq.png Graphic file (type png)
 <use images/consultusersq.png>
 Package pdftex.def Info: images/consultusersq.png  used on input line 493.
 (pdftex.def)             Requested size: 284.53339pt x 256.0878pt.
-<images/modifyusersq.png, id=1570, 689.57625pt x 495.8525pt>
+<images/modifyusersq.png, id=1030, 689.57625pt x 495.8525pt>
 File: images/modifyusersq.png Graphic file (type png)
 <use images/modifyusersq.png>
 Package pdftex.def Info: images/modifyusersq.png  used on input line 500.
 (pdftex.def)             Requested size: 284.52736pt x 256.07431pt.
 
 
-[55 <./images/createusersq.png (PNG copy)> <./images/consultusersq.png (PNG copy)>]
-<images/suppressionutilisateursq.png, id=1575, 687.56876pt x 571.13374pt>
+[53]
+<images/suppressionutilisateursq.png, id=1036, 687.56876pt x 571.13374pt>
 File: images/suppressionutilisateursq.png Graphic file (type png)
 <use images/suppressionutilisateursq.png>
 Package pdftex.def Info: images/suppressionutilisateursq.png  used on input line 507.
 (pdftex.def)             Requested size: 284.52788pt x 256.07533pt.
-<images/consultcompanysq.png, id=1576, 689.57625pt x 362.35374pt>
+<images/consultcompanysq.png, id=1037, 689.57625pt x 362.35374pt>
 File: images/consultcompanysq.png Graphic file (type png)
 <use images/consultcompanysq.png>
 Package pdftex.def Info: images/consultcompanysq.png  used on input line 514.
 (pdftex.def)             Requested size: 284.52736pt x 227.6261pt.
 
 
-[56 <./images/modifyusersq.png (PNG copy)> <./images/suppressionutilisateursq.png (PNG copy)>]
-<images/deletecompanysq.png, id=1581, 877.2775pt x 436.63126pt>
+[54]
+<images/deletecompanysq.png, id=1042, 877.2775pt x 436.63126pt>
 File: images/deletecompanysq.png Graphic file (type png)
 <use images/deletecompanysq.png>
 Package pdftex.def Info: images/deletecompanysq.png  used on input line 521.
@@ -1883,32 +1874,32 @@ Overfull \hbox (19.39943pt too wide) in paragraph at lines 525--525
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de consul-ta-tion des pa-ra-mètres d'en-tre-prise| 
  []
 
-<images/consultparamcompanysq.png, id=1582, 642.4pt x 261.97874pt>
+<images/consultparamcompanysq.png, id=1043, 642.4pt x 261.97874pt>
 File: images/consultparamcompanysq.png Graphic file (type png)
 <use images/consultparamcompanysq.png>
 Package pdftex.def Info: images/consultparamcompanysq.png  used on input line 528.
-(pdftex.def)             Requested size: 256.08305pt x 142.2659pt.
+(pdftex.def)             Requested size: 284.5291pt x 170.71988pt.
 
 
-[57 <./images/consultcompanysq.png (PNG copy)> <./images/deletecompanysq.png (PNG copy)>]
+[55]
 Overfull \hbox (20.73155pt too wide) in paragraph at lines 532--532
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion des pa-ra-mètres d'en-tre-prise| 
  []
 
-<images/modifyparamcompanysq.png, id=1587, 728.7225pt x 495.8525pt>
+<images/modifyparamcompanysq.png, id=1048, 728.7225pt x 495.8525pt>
 File: images/modifyparamcompanysq.png Graphic file (type png)
 <use images/modifyparamcompanysq.png>
 Package pdftex.def Info: images/modifyparamcompanysq.png  used on input line 535.
-(pdftex.def)             Requested size: 284.52309pt x 256.07431pt.
-<images/createtaxonomysq.png, id=1588, 601.24625pt x 479.7925pt>
+(pdftex.def)             Requested size: 341.43216pt x 284.53038pt.
+<images/createtaxonomysq.png, id=1049, 601.24625pt x 479.7925pt>
 File: images/createtaxonomysq.png Graphic file (type png)
 <use images/createtaxonomysq.png>
 Package pdftex.def Info: images/createtaxonomysq.png  used on input line 542.
 (pdftex.def)             Requested size: 284.53072pt x 256.07513pt.
 
 
-[58 <./images/consultparamcompanysq.png (PNG copy)> <./images/modifyparamcompanysq.png (PNG copy)>]
-<images/consulttaxonomysq.png, id=1593, 628.3475pt x 495.8525pt>
+[56]
+<images/consulttaxonomysq.png, id=1054, 628.3475pt x 495.8525pt>
 File: images/consulttaxonomysq.png Graphic file (type png)
 <use images/consulttaxonomysq.png>
 Package pdftex.def Info: images/consulttaxonomysq.png  used on input line 549.
@@ -1918,19 +1909,19 @@ Overfull \hbox (5.18005pt too wide) in paragraph at lines 553--553
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion d'élé-ment de taxo-no-mie| 
  []
 
-<images/modifytaxonomysq.png, id=1594, 670.505pt x 479.7925pt>
+<images/modifytaxonomysq.png, id=1055, 670.505pt x 479.7925pt>
 File: images/modifytaxonomysq.png Graphic file (type png)
 <use images/modifytaxonomysq.png>
 Package pdftex.def Info: images/modifytaxonomysq.png  used on input line 556.
 (pdftex.def)             Requested size: 256.07343pt x 227.6256pt.
 
 
-[59 <./images/createtaxonomysq.png (PNG copy)> <./images/consulttaxonomysq.png (PNG copy)>]
+[57]
 Overfull \hbox (1.63982pt too wide) in paragraph at lines 560--560
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de sup-pres-sion d'élé-ment de taxo-no-mie| 
  []
 
-<images/deletetaxonomysq.png, id=1600, 675.52374pt x 511.9125pt>
+<images/deletetaxonomysq.png, id=1060, 675.52374pt x 511.9125pt>
 File: images/deletetaxonomysq.png Graphic file (type png)
 <use images/deletetaxonomysq.png>
 Package pdftex.def Info: images/deletetaxonomysq.png  used on input line 563.
@@ -1940,74 +1931,74 @@ Overfull \hbox (12.80002pt too wide) in paragraph at lines 567--567
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de gé-né-ra-tion de sug-ges-tion de taxo-no-mie| 
  []
 
-<images/taxonomyaisq.png, id=1601, 754.82pt x 436.63126pt>
+<images/taxonomyaisq.png, id=1061, 754.82pt x 436.63126pt>
 File: images/taxonomyaisq.png Graphic file (type png)
 <use images/taxonomyaisq.png>
 Package pdftex.def Info: images/taxonomyaisq.png  used on input line 570.
 (pdftex.def)             Requested size: 284.51955pt x 256.07118pt.
 
 
-[60 <./images/modifytaxonomysq.png (PNG copy)> <./images/deletetaxonomysq.png (PNG copy)>]
-<images/adminmanageusers.PNG, id=1606, 1017.04968pt x 441.14813pt>
+[58]
+Overfull \hbox (10.18222pt too wide) in paragraph at lines 578--579
+\T1/ptm/m/n/12 La fi-gure 4.24 illustre l'in-ter-face consa-crée à la ges-tion des uti-li-sa-teurs des-ti-née à l'Ad-mi-nis-tra-teur.
+ []
+
+<images/adminmanageusers.PNG, id=1066, 1017.04968pt x 441.14813pt>
 File: images/adminmanageusers.PNG Graphic file (type png)
 <use images/adminmanageusers.PNG>
 Package pdftex.def Info: images/adminmanageusers.PNG  used on input line 582.
 (pdftex.def)             Requested size: 398.33934pt x 256.0815pt.
 
 
-[61 <./images/taxonomyaisq.png (PNG copy)>]
-<images/createusermodal.PNG, id=1611, 1028.34187pt x 568.37344pt>
+[59]
+<images/createusermodal.PNG, id=1072, 1028.34187pt x 568.37344pt>
 File: images/createusermodal.PNG Graphic file (type png)
 <use images/createusermodal.PNG>
 Package pdftex.def Info: images/createusermodal.PNG  used on input line 591.
 (pdftex.def)             Requested size: 398.33714pt x 256.08658pt.
-<images/editusermodal.PNG, id=1612, 1026.83624pt x 572.1375pt>
+<images/editusermodal.PNG, id=1073, 1026.83624pt x 572.1375pt>
 File: images/editusermodal.PNG Graphic file (type png)
 <use images/editusermodal.PNG>
 Package pdftex.def Info: images/editusermodal.PNG  used on input line 600.
-(pdftex.def)             Requested size: 398.33365pt x 256.0714pt.
+(pdftex.def)             Requested size: 398.33365pt x 227.62pt.
 
 
-[62 <./images/adminmanageusers.PNG> <./images/createusermodal.PNG>]
-<images/superadminmanageusers.PNG, id=1619, 1017.8025pt x 578.16pt>
+[60]
+<images/superadminmanageusers.PNG, id=1078, 1017.8025pt x 578.16pt>
 File: images/superadminmanageusers.PNG Graphic file (type png)
 <use images/superadminmanageusers.PNG>
 Package pdftex.def Info: images/superadminmanageusers.PNG  used on input line 609.
-(pdftex.def)             Requested size: 398.33913pt x 256.06737pt.
-
-
-[63 <./images/editusermodal.PNG>]
-<images/gestionentreprises.PNG, id=1625, 1015.54407pt x 560.8453pt>
+(pdftex.def)             Requested size: 369.88744pt x 227.61641pt.
+<images/gestionentreprises.PNG, id=1079, 1015.54407pt x 560.8453pt>
 File: images/gestionentreprises.PNG Graphic file (type png)
 <use images/gestionentreprises.PNG>
 Package pdftex.def Info: images/gestionentreprises.PNG  used on input line 618.
-(pdftex.def)             Requested size: 398.3385pt x 256.06647pt.
+(pdftex.def)             Requested size: 369.88795pt x 199.16565pt.
 
+
+[61]
 Overfull \hbox (1.53108pt too wide) in paragraph at lines 624--625
 \T1/ptm/m/n/12 La fi-gure 4.30 pré-sente l'in-ter-face des pa-ra-mètres d'en-tre-prise per-met-tant à l'Ad-min de consul-ter
  []
 
-<images/parametresentreprise.PNG, id=1626, 938.75719pt x 575.90157pt>
+<images/parametresentreprise.PNG, id=1084, 938.75719pt x 575.90157pt>
 File: images/parametresentreprise.PNG Graphic file (type png)
 <use images/parametresentreprise.PNG>
 Package pdftex.def Info: images/parametresentreprise.PNG  used on input line 628.
-(pdftex.def)             Requested size: 398.3291pt x 256.07767pt.
-
-
-[64 <./images/superadminmanageusers.PNG> <./images/gestionentreprises.PNG>]
-<images/gestiontaxonomy.PNG, id=1633, 1016.29688pt x 441.14813pt>
+(pdftex.def)             Requested size: 369.8811pt x 199.16957pt.
+<images/gestiontaxonomy.PNG, id=1085, 1016.29688pt x 441.14813pt>
 File: images/gestiontaxonomy.PNG Graphic file (type png)
 <use images/gestiontaxonomy.PNG>
 Package pdftex.def Info: images/gestiontaxonomy.PNG  used on input line 637.
-(pdftex.def)             Requested size: 398.33914pt x 256.0815pt.
+(pdftex.def)             Requested size: 398.33914pt x 199.16776pt.
 
 
-[65 <./images/parametresentreprise.PNG>]
-<images/suggestiontaxonomy.PNG, id=1640, 1015.54407pt x 514.17094pt>
+[62]
+<images/suggestiontaxonomy.PNG, id=1090, 1015.54407pt x 514.17094pt>
 File: images/suggestiontaxonomy.PNG Graphic file (type png)
 <use images/suggestiontaxonomy.PNG>
 Package pdftex.def Info: images/suggestiontaxonomy.PNG  used on input line 646.
-(pdftex.def)             Requested size: 398.3385pt x 256.0806pt.
+(pdftex.def)             Requested size: 369.88795pt x 199.16856pt.
 ) (chapitre/08-Chapitre4 Release2.tex
 Overfull \hbox (19.02672pt too wide) in paragraph at lines 651--1
 \T1/ptm/m/n/12 d'en-tre-prise et taxo-no-mie tant pour les ad-mi-nis-tra-teurs d'en-tre-prise que pour le su-per ad-mi-nis-tra-teur.
@@ -2015,9 +2006,9 @@ Overfull \hbox (19.02672pt too wide) in paragraph at lines 651--1
 
 
 
-[66 <./images/gestiontaxonomy.PNG> <./images/suggestiontaxonomy.PNG>]
+[63]
 
-[67]
+[64]
 Chapitre 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
@@ -2040,7 +2031,7 @@ Overfull \hbox (24.558pt too wide) in paragraph at lines 37--37
 
 )
 
-[68
+[65
 
 ]
 Overfull \hbox (7.13452pt too wide) in paragraph at lines 10--11
@@ -2057,58 +2048,60 @@ Overfull \hbox (50.60023pt too wide) in paragraph at lines 12--12
 |\T1/ptm/b/n/17.28 5.1 Sprint 1 : Ges-tion des plans d'abon-ne-ment, textes ré-gle-men-taires,
  []
 
-[69] [70]
-<images/plansubscriptionuc.png, id=1674, 886.31125pt x 499.8675pt>
+[66] [67]
+<images/plansubscriptionuc.png, id=1123, 886.31125pt x 499.8675pt>
 File: images/plansubscriptionuc.png Graphic file (type png)
 <use images/plansubscriptionuc.png>
 Package pdftex.def Info: images/plansubscriptionuc.png  used on input line 80.
 (pdftex.def)             Requested size: 341.4405pt x 227.62312pt.
 
 
-[71] [72 <./images/plansubscriptionuc.png>]
+[68] [69]
 Overfull \hbox (24.931pt too wide) in paragraph at lines 116--117
 \T1/ptm/m/n/12 La fi-gure 4.2 pré-sente le dia-gramme de cas d'uti-li-sa-tion dé-taillé pour la sous-crip-tion aux abon-ne-ments
  []
 
-<images/subscribeuc.png, id=1686, 773.89125pt x 315.1775pt>
+<images/subscribeuc.png, id=1133, 773.89125pt x 315.1775pt>
 File: images/subscribeuc.png Graphic file (type png)
 <use images/subscribeuc.png>
 Package pdftex.def Info: images/subscribeuc.png  used on input line 120.
-(pdftex.def)             Requested size: 341.43427pt x 227.62495pt.
+(pdftex.def)             Requested size: 312.97551pt x 199.16882pt.
 
 
-[73] [74 <./images/subscribeuc.png>]
-<images/textsuc.png, id=1697, 717.68124pt x 411.5375pt>
+[70]
+<images/textsuc.png, id=1138, 717.68124pt x 411.5375pt>
 File: images/textsuc.png Graphic file (type png)
 <use images/textsuc.png>
 Package pdftex.def Info: images/textsuc.png  used on input line 163.
 (pdftex.def)             Requested size: 341.43872pt x 227.62108pt.
- [75 <./images/textsuc.png>]
-<images/complianceuc.png, id=1704, 870.25125pt x 395.4775pt>
+
+
+[71] [72]
+<images/complianceuc.png, id=1150, 870.25125pt x 395.4775pt>
 File: images/complianceuc.png Graphic file (type png)
 <use images/complianceuc.png>
 Package pdftex.def Info: images/complianceuc.png  used on input line 204.
 (pdftex.def)             Requested size: 341.44157pt x 227.62106pt.
 
 
-[76] [77 <./images/complianceuc.png>]
-<images/actionplansuc.png, id=1716, 1503.6175pt x 955.57pt>
+[73]
+<images/actionplansuc.png, id=1155, 1503.6175pt x 955.57pt>
 File: images/actionplansuc.png Graphic file (type png)
 <use images/actionplansuc.png>
 Package pdftex.def Info: images/actionplansuc.png  used on input line 243.
-(pdftex.def)             Requested size: 341.41963pt x 227.62094pt.
+(pdftex.def)             Requested size: 398.34203pt x 284.51524pt.
 
 
-[78] [79 <./images/actionplansuc.png>]
-<images/createplanseq.png, id=1727, 799.98875pt x 494.84875pt>
+[74] [75]
+<images/createplanseq.png, id=1166, 799.98875pt x 494.84875pt>
 File: images/createplanseq.png Graphic file (type png)
 <use images/createplanseq.png>
 Package pdftex.def Info: images/createplanseq.png  used on input line 288.
 (pdftex.def)             Requested size: 284.52899pt x 256.0694pt.
 
 
-[80]
-<images/consultplanseq.png, id=1732, 706.64pt x 379.4175pt>
+[76]
+<images/consultplanseq.png, id=1171, 706.64pt x 379.4175pt>
 File: images/consultplanseq.png Graphic file (type png)
 <use images/consultplanseq.png>
 Package pdftex.def Info: images/consultplanseq.png  used on input line 295.
@@ -2118,32 +2111,32 @@ Overfull \hbox (3.89597pt too wide) in paragraph at lines 299--299
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion d'un plan d'abon-ne-ment| 
  []
 
-<images/modifyplanseq.png, id=1733, 633.36626pt x 420.57124pt>
+<images/modifyplanseq.png, id=1172, 633.36626pt x 420.57124pt>
 File: images/modifyplanseq.png Graphic file (type png)
 <use images/modifyplanseq.png>
 Package pdftex.def Info: images/modifyplanseq.png  used on input line 302.
 (pdftex.def)             Requested size: 284.52896pt x 256.0732pt.
 
 
-[81 <./images/createplanseq.png (PNG copy)> <./images/consultplanseq.png (PNG copy)>]
+[77]
 Overfull \hbox (0.35573pt too wide) in paragraph at lines 306--306
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de sup-pres-sion d'un plan d'abon-ne-ment| 
  []
 
-<images/deleteplanseq.png, id=1738, 681.54625pt x 453.695pt>
+<images/deleteplanseq.png, id=1178, 681.54625pt x 453.695pt>
 File: images/deleteplanseq.png Graphic file (type png)
 <use images/deleteplanseq.png>
 Package pdftex.def Info: images/deleteplanseq.png  used on input line 309.
 (pdftex.def)             Requested size: 284.53154pt x 256.07509pt.
-<images/subscribeseq.png, id=1739, 637.38126pt x 524.96124pt>
+<images/subscribeseq.png, id=1179, 637.38126pt x 524.96124pt>
 File: images/subscribeseq.png Graphic file (type png)
 <use images/subscribeseq.png>
 Package pdftex.def Info: images/subscribeseq.png  used on input line 316.
 (pdftex.def)             Requested size: 284.52367pt x 256.07977pt.
 
 
-[82 <./images/modifyplanseq.png (PNG copy)> <./images/deleteplanseq.png (PNG copy)>]
-<images/createtextseq.png, id=1744, 639.38875pt x 822.07124pt>
+[78]
+<images/createtextseq.png, id=1184, 639.38875pt x 822.07124pt>
 File: images/createtextseq.png Graphic file (type png)
 <use images/createtextseq.png>
 Package pdftex.def Info: images/createtextseq.png  used on input line 323.
@@ -2153,7 +2146,7 @@ Overfull \hbox (3.60754pt too wide) in paragraph at lines 327--327
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de consul-ta-tion des textes ré-gle-men-taires| 
  []
 
-<images/consulttextseq.png, id=1745, 675.52374pt x 554.07pt>
+<images/consulttextseq.png, id=1185, 675.52374pt x 554.07pt>
 File: images/consulttextseq.png Graphic file (type png)
 <use images/consulttextseq.png>
 Package pdftex.def Info: images/consulttextseq.png  used on input line 330.
@@ -2165,12 +2158,12 @@ Underfull \hbox (badness 2547) in paragraph at lines 331--331
 
 
 
-[83 <./images/subscribeseq.png (PNG copy)> <./images/createtextseq.png (PNG copy)>]
+[79]
 Overfull \hbox (2.9479pt too wide) in paragraph at lines 334--334
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion d'un texte ré-gle-men-taire| 
  []
 
-<images/modifytextseq.png, id=1751, 803.0pt x 864.22874pt>
+<images/modifytextseq.png, id=1190, 803.0pt x 864.22874pt>
 File: images/modifytextseq.png Graphic file (type png)
 <use images/modifytextseq.png>
 Package pdftex.def Info: images/modifytextseq.png  used on input line 337.
@@ -2185,359 +2178,360 @@ Overfull \hbox (5.40767pt too wide) in paragraph at lines 341--341
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de sup-pres-sion d'un texte ré-gle-men-taire| 
  []
 
-<images/deletetextseq.png, id=1752, 624.3325pt x 773.89125pt>
+<images/deletetextseq.png, id=1191, 624.3325pt x 773.89125pt>
 File: images/deletetextseq.png Graphic file (type png)
 <use images/deletetextseq.png>
 Package pdftex.def Info: images/deletetextseq.png  used on input line 344.
 (pdftex.def)             Requested size: 284.529pt x 256.0698pt.
 
 
-[84 <./images/consulttextseq.png (PNG copy)> <./images/modifytextseq.png (PNG copy)>]
-<images/complianceseq.png, id=1757, 663.47874pt x 538.01pt>
+[80]
+<images/complianceseq.png, id=1196, 663.47874pt x 538.01pt>
 File: images/complianceseq.png Graphic file (type png)
 <use images/complianceseq.png>
 Package pdftex.def Info: images/complianceseq.png  used on input line 351.
 (pdftex.def)             Requested size: 284.531pt x 256.07458pt.
-<images/createactionseq.png, id=1758, 673.51625pt x 596.2275pt>
+<images/createactionseq.png, id=1197, 673.51625pt x 596.2275pt>
 File: images/createactionseq.png Graphic file (type png)
 <use images/createactionseq.png>
 Package pdftex.def Info: images/createactionseq.png  used on input line 358.
 (pdftex.def)             Requested size: 284.5295pt x 256.0726pt.
 
 
-[85 <./images/deletetextseq.png (PNG copy)> <./images/complianceseq.png (PNG copy)>]
-<images/consultactionseq.png, id=1763, 900.36375pt x 600.2425pt>
+[81]
+<images/consultactionseq.png, id=1202, 900.36375pt x 600.2425pt>
 File: images/consultactionseq.png Graphic file (type png)
 <use images/consultactionseq.png>
 Package pdftex.def Info: images/consultactionseq.png  used on input line 365.
 (pdftex.def)             Requested size: 284.52281pt x 256.08427pt.
-<images/modifyactionseq.png, id=1764, 673.51625pt x 610.28pt>
+<images/modifyactionseq.png, id=1203, 673.51625pt x 610.28pt>
 File: images/modifyactionseq.png Graphic file (type png)
 <use images/modifyactionseq.png>
 Package pdftex.def Info: images/modifyactionseq.png  used on input line 372.
 (pdftex.def)             Requested size: 284.5295pt x 256.08304pt.
 
 
-[86 <./images/createactionseq.png (PNG copy)> <./images/consultactionseq.png (PNG copy)>]
-<images/deleteactionseq.png, id=1769, 694.595pt x 495.8525pt>
+[82]
+<images/deleteactionseq.png, id=1208, 694.595pt x 495.8525pt>
 File: images/deleteactionseq.png Graphic file (type png)
 <use images/deleteactionseq.png>
 Package pdftex.def Info: images/deleteactionseq.png  used on input line 379.
 (pdftex.def)             Requested size: 284.53142pt x 256.07431pt.
-<images/aiconseilseq.png, id=1770, 800.9925pt x 362.35374pt>
+<images/aiconseilseq.png, id=1209, 800.9925pt x 362.35374pt>
 File: images/aiconseilseq.png Graphic file (type png)
 <use images/aiconseilseq.png>
 Package pdftex.def Info: images/aiconseilseq.png  used on input line 385.
-(pdftex.def)             Requested size: 284.53154pt x 256.07867pt.
+(pdftex.def)             Requested size: 369.891pt x 284.53125pt.
 
 
-[87 <./images/modifyactionseq.png (PNG copy)> <./images/deleteactionseq.png (PNG copy)>]
-<images/gestionplansinterface.PNG, id=1775, 617.30624pt x 575.90157pt>
+[83]
+<images/gestionplansinterface.PNG, id=1215, 617.30624pt x 575.90157pt>
 File: images/gestionplansinterface.PNG Graphic file (type png)
 <use images/gestionplansinterface.PNG>
 Package pdftex.def Info: images/gestionplansinterface.PNG  used on input line 397.
 (pdftex.def)             Requested size: 369.89679pt x 256.07767pt.
 
 
-[88 <./images/aiconseilseq.png (PNG copy)>]
-<images/createplanmodal.PNG, id=1780, 829.59938pt x 554.82281pt>
+[84]
+<images/createplanmodal.PNG, id=1220, 829.59938pt x 554.82281pt>
 File: images/createplanmodal.PNG Graphic file (type png)
 <use images/createplanmodal.PNG>
 Package pdftex.def Info: images/createplanmodal.PNG  used on input line 406.
 (pdftex.def)             Requested size: 369.88579pt x 256.07664pt.
-<images/subscriptioninterface.PNG, id=1781, 465.99094pt x 478.78876pt>
+<images/subscriptioninterface.PNG, id=1221, 465.99094pt x 478.78876pt>
 File: images/subscriptioninterface.PNG Graphic file (type png)
 <use images/subscriptioninterface.PNG>
 Package pdftex.def Info: images/subscriptioninterface.PNG  used on input line 415.
-(pdftex.def)             Requested size: 369.89929pt x 256.07274pt.
+(pdftex.def)             Requested size: 312.98734pt x 227.62427pt.
 
 
-[89 <./images/gestionplansinterface.PNG> <./images/createplanmodal.PNG>]
-<images/textsinterface.PNG, id=1789, 1013.28563pt x 447.92343pt>
+[85]
+<images/textsinterface.PNG, id=1226, 1013.28563pt x 447.92343pt>
 File: images/textsinterface.PNG Graphic file (type png)
 <use images/textsinterface.PNG>
 Package pdftex.def Info: images/textsinterface.PNG  used on input line 424.
-(pdftex.def)             Requested size: 369.88484pt x 227.61775pt.
-
-
-[90 <./images/subscriptioninterface.PNG>]
-<images/createtextmodal.PNG, id=1795, 1013.28563pt x 572.1375pt>
+(pdftex.def)             Requested size: 341.42027pt x 199.16467pt.
+<images/createtextmodal.PNG, id=1227, 1013.28563pt x 572.1375pt>
 File: images/createtextmodal.PNG Graphic file (type png)
 <use images/createtextmodal.PNG>
 Package pdftex.def Info: images/createtextmodal.PNG  used on input line 433.
-(pdftex.def)             Requested size: 369.88484pt x 256.0714pt.
-<images/complianceinterface.PNG, id=1796, 1012.5328pt x 546.54187pt>
+(pdftex.def)             Requested size: 341.42027pt x 199.16858pt.
+
+
+[86]
+<images/complianceinterface.PNG, id=1232, 1012.5328pt x 546.54187pt>
 File: images/complianceinterface.PNG Graphic file (type png)
 <use images/complianceinterface.PNG>
 Package pdftex.def Info: images/complianceinterface.PNG  used on input line 442.
-(pdftex.def)             Requested size: 398.347pt x 256.07411pt.
+(pdftex.def)             Requested size: 369.88812pt x 227.61958pt.
 
-
-[91 <./images/textsinterface.PNG> <./images/createtextmodal.PNG>]
 Overfull \hbox (6.25957pt too wide) in paragraph at lines 447--448
 \T1/ptm/m/n/12 La fi-gure 4.15 pré-sente l'in-ter-face d'éva-lua-tion des exi-gences d'un texte ré-gle-men-taire spé-ci-fique. 
  []
 
-<images/requirementevaluation.PNG, id=1803, 1006.51031pt x 578.16pt>
+<images/requirementevaluation.PNG, id=1233, 1006.51031pt x 578.16pt>
 File: images/requirementevaluation.PNG Graphic file (type png)
 <use images/requirementevaluation.PNG>
 Package pdftex.def Info: images/requirementevaluation.PNG  used on input line 451.
-(pdftex.def)             Requested size: 398.32744pt x 256.06737pt.
+(pdftex.def)             Requested size: 369.88426pt x 227.61641pt.
 
 
-[92 <./images/complianceinterface.PNG>]
-<images/actionplansinterface.PNG, id=1809, 931.22906pt x 554.07pt>
+[87]
+<images/actionplansinterface.PNG, id=1238, 931.22906pt x 554.07pt>
 File: images/actionplansinterface.PNG Graphic file (type png)
 <use images/actionplansinterface.PNG>
 Package pdftex.def Info: images/actionplansinterface.PNG  used on input line 460.
-(pdftex.def)             Requested size: 398.33191pt x 256.07582pt.
-<images/createactionmodal.PNG, id=1810, 1012.5328pt x 561.59813pt>
+(pdftex.def)             Requested size: 369.8847pt x 227.61826pt.
+<images/createactionmodal.PNG, id=1239, 1012.5328pt x 561.59813pt>
 File: images/createactionmodal.PNG Graphic file (type png)
 <use images/createactionmodal.PNG>
 Package pdftex.def Info: images/createactionmodal.PNG  used on input line 469.
-(pdftex.def)             Requested size: 398.347pt x 256.07597pt.
+(pdftex.def)             Requested size: 369.88812pt x 199.16734pt.
 
 
-[93 <./images/requirementevaluation.PNG> <./images/actionplansinterface.PNG>]
-<images/actionplanaiconseil.png, id=1817, 1312.905pt x 758.835pt>
+[88]
+<images/actionplanaiconseil.png, id=1244, 1312.905pt x 758.835pt>
 File: images/actionplanaiconseil.png Graphic file (type png)
 <use images/actionplanaiconseil.png>
 Package pdftex.def Info: images/actionplanaiconseil.png  used on input line 478.
-(pdftex.def)             Requested size: 398.34196pt x 256.0784pt.
+(pdftex.def)             Requested size: 369.87466pt x 227.61752pt.
 
-
-[94 <./images/createactionmodal.PNG>]
 Overfull \hbox (21.19849pt too wide) in paragraph at lines 485--486
 \T1/ptm/m/n/12 sta-tis-tiques, per-met-tant aux en-tre-prises d'or-ga-ni-ser et de suivre les pro-ces-sus d'éva-lua-tion pé-rio-dique
  []
 
 
 
-[95 <./images/actionplanaiconseil.png>] [96]
-<images/revuedirectionuc.png, id=1833, 894.34125pt x 419.5675pt>
+[89] [90]
+<images/revuedirectionuc.png, id=1255, 894.34125pt x 419.5675pt>
 File: images/revuedirectionuc.png Graphic file (type png)
 <use images/revuedirectionuc.png>
 Package pdftex.def Info: images/revuedirectionuc.png  used on input line 526.
-(pdftex.def)             Requested size: 341.4362pt x 227.61942pt.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 558.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 558.
+(pdftex.def)             Requested size: 312.98318pt x 199.16858pt.
 
 
-[97 <./images/revuedirectionuc.png>]
-Overfull \hbox (0.21165pt too wide) in paragraph at lines 563--563
+[91]
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 556.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 556.
+ [92]
+Overfull \hbox (0.21165pt too wide) in paragraph at lines 561--561
 |[]\T1/ptm/b/n/12 Diagramme de cas d'uti-li-sa-tion dé-taillé de la par-ti-ci-pa-tion aux re-vues de di-rec-tion| 
  []
 
-<images/participationrevueuc.png, id=1839, 1214.5375pt x 1003.75pt>
+<images/participationrevueuc.png, id=1265, 1214.5375pt x 1003.75pt>
 File: images/participationrevueuc.png Graphic file (type png)
 <use images/participationrevueuc.png>
-Package pdftex.def Info: images/participationrevueuc.png  used on input line 568.
-(pdftex.def)             Requested size: 341.42104pt x 227.61066pt.
+Package pdftex.def Info: images/participationrevueuc.png  used on input line 566.
+(pdftex.def)             Requested size: 312.97392pt x 199.1689pt.
 
 
-[98] [99 <./images/participationrevueuc.png>]
-Overfull \hbox (4.61491pt too wide) in paragraph at lines 603--604
+[93] [94]
+Overfull \hbox (4.61491pt too wide) in paragraph at lines 601--602
 \T1/ptm/m/n/12 La fi-gure 4.23 pré-sente le dia-gramme de cas d'uti-li-sa-tion dé-taillé pour la ges-tion des no-ti-fi-ca-tions. 
  []
 
-<images/notificationsuc.png, id=1852, 1519.6775pt x 698.61pt>
+<images/notificationsuc.png, id=1276, 1519.6775pt x 698.61pt>
 File: images/notificationsuc.png Graphic file (type png)
 <use images/notificationsuc.png>
-Package pdftex.def Info: images/notificationsuc.png  used on input line 607.
+Package pdftex.def Info: images/notificationsuc.png  used on input line 605.
 (pdftex.def)             Requested size: 341.42574pt x 227.62119pt.
-
-
-[100] [101 <./images/notificationsuc.png>]
-Overfull \hbox (19.93878pt too wide) in paragraph at lines 639--640
+[95]
+Overfull \hbox (19.93878pt too wide) in paragraph at lines 637--638
 \T1/ptm/m/n/12 La fi-gure 4.24 pré-sente le dia-gramme de cas d'uti-li-sa-tion dé-taillé pour la consul-ta-tion de l'his-to-rique. 
  []
 
-<images/historyuc.png, id=1864, 1174.3875pt x 570.13pt>
+<images/historyuc.png, id=1283, 1174.3875pt x 570.13pt>
 File: images/historyuc.png Graphic file (type png)
 <use images/historyuc.png>
-Package pdftex.def Info: images/historyuc.png  used on input line 643.
+Package pdftex.def Info: images/historyuc.png  used on input line 641.
 (pdftex.def)             Requested size: 341.4238pt x 227.62169pt.
-[102 <./images/historyuc.png>]
-<images/statisticsuc.png, id=1871, 1616.0375pt x 875.27pt>
+[96]
+<images/statisticsuc.png, id=1289, 1616.0375pt x 875.27pt>
 File: images/statisticsuc.png Graphic file (type png)
 <use images/statisticsuc.png>
-Package pdftex.def Info: images/statisticsuc.png  used on input line 678.
+Package pdftex.def Info: images/statisticsuc.png  used on input line 676.
 (pdftex.def)             Requested size: 341.42456pt x 227.61826pt.
- [103 <./images/statisticsuc.png>]
-<images/createrevueseq.png, id=1878, 634.37pt x 538.01pt>
+
+
+[97]
+Overfull \hbox (14.29875pt too wide) in paragraph at lines 708--709
+\T1/ptm/m/n/12 sé-quence cor-res-pon-dant à cette étape, afin de re-pré-sen-ter clai-re-ment le dé-rou-le-ment des in-ter-ac-tions
+ []
+
+<images/createrevueseq.png, id=1294, 634.37pt x 538.01pt>
 File: images/createrevueseq.png Graphic file (type png)
 <use images/createrevueseq.png>
-Package pdftex.def Info: images/createrevueseq.png  used on input line 716.
+Package pdftex.def Info: images/createrevueseq.png  used on input line 714.
 (pdftex.def)             Requested size: 284.5346pt x 256.07458pt.
 
 
-[104]
-<images/consultrevueseq.png, id=1883, 636.3775pt x 436.63126pt>
+[98]
+<images/consultrevueseq.png, id=1300, 636.3775pt x 436.63126pt>
 File: images/consultrevueseq.png Graphic file (type png)
 <use images/consultrevueseq.png>
-Package pdftex.def Info: images/consultrevueseq.png  used on input line 723.
+Package pdftex.def Info: images/consultrevueseq.png  used on input line 721.
 (pdftex.def)             Requested size: 284.52226pt x 256.07118pt.
 
-Overfull \hbox (0.86002pt too wide) in paragraph at lines 727--727
+Overfull \hbox (0.86002pt too wide) in paragraph at lines 725--725
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion d'une re-vue de di-rec-tion| 
  []
 
-<images/modifyrevueseq.png, id=1884, 616.3025pt x 420.57124pt>
+<images/modifyrevueseq.png, id=1301, 616.3025pt x 420.57124pt>
 File: images/modifyrevueseq.png Graphic file (type png)
 <use images/modifyrevueseq.png>
-Package pdftex.def Info: images/modifyrevueseq.png  used on input line 730.
+Package pdftex.def Info: images/modifyrevueseq.png  used on input line 728.
 (pdftex.def)             Requested size: 284.52762pt x 256.0732pt.
 
 
-[105 <./images/createrevueseq.png (PNG copy)> <./images/consultrevueseq.png (PNG copy)>]
-<images/deleterevueseq.png, id=1889, 667.49374pt x 378.41376pt>
+[99]
+<images/deleterevueseq.png, id=1306, 667.49374pt x 378.41376pt>
 File: images/deleterevueseq.png Graphic file (type png)
 <use images/deleterevueseq.png>
-Package pdftex.def Info: images/deleterevueseq.png  used on input line 737.
+Package pdftex.def Info: images/deleterevueseq.png  used on input line 735.
 (pdftex.def)             Requested size: 284.53156pt x 256.0765pt.
-<images/changestatusrevueseq.png, id=1890, 725.71124pt x 395.4775pt>
+<images/changestatusrevueseq.png, id=1307, 725.71124pt x 395.4775pt>
 File: images/changestatusrevueseq.png Graphic file (type png)
 <use images/changestatusrevueseq.png>
-Package pdftex.def Info: images/changestatusrevueseq.png  used on input line 744.
+Package pdftex.def Info: images/changestatusrevueseq.png  used on input line 742.
 (pdftex.def)             Requested size: 256.07347pt x 256.07974pt.
 
 
-[106 <./images/modifyrevueseq.png (PNG copy)> <./images/deleterevueseq.png (PNG copy)>]
-<images/consultelementrevueseq.png, id=1895, 918.43124pt x 320.19624pt>
+[100]
+<images/consultelementrevueseq.png, id=1312, 918.43124pt x 320.19624pt>
 File: images/consultelementrevueseq.png Graphic file (type png)
 <use images/consultelementrevueseq.png>
-Package pdftex.def Info: images/consultelementrevueseq.png  used on input line 751.
+Package pdftex.def Info: images/consultelementrevueseq.png  used on input line 749.
 (pdftex.def)             Requested size: 284.52856pt x 199.16942pt.
-<images/addelementrevueseq.png, id=1896, 643.40375pt x 495.8525pt>
+<images/addelementrevueseq.png, id=1313, 643.40375pt x 495.8525pt>
 File: images/addelementrevueseq.png Graphic file (type png)
 <use images/addelementrevueseq.png>
-Package pdftex.def Info: images/addelementrevueseq.png  used on input line 758.
+Package pdftex.def Info: images/addelementrevueseq.png  used on input line 756.
 (pdftex.def)             Requested size: 284.53188pt x 256.07431pt.
 
 
-[107 <./images/changestatusrevueseq.png (PNG copy)> <./images/consultelementrevueseq.png (PNG copy)>]
-<images/modifyelementrevueseq.png, id=1902, 721.69624pt x 453.695pt>
+[101]
+<images/modifyelementrevueseq.png, id=1319, 721.69624pt x 453.695pt>
 File: images/modifyelementrevueseq.png Graphic file (type png)
 <use images/modifyelementrevueseq.png>
-Package pdftex.def Info: images/modifyelementrevueseq.png  used on input line 765.
+Package pdftex.def Info: images/modifyelementrevueseq.png  used on input line 763.
 (pdftex.def)             Requested size: 284.52179pt x 256.07509pt.
-<images/deleteelementrevueseq.png, id=1903, 718.685pt x 453.695pt>
+<images/deleteelementrevueseq.png, id=1320, 718.685pt x 453.695pt>
 File: images/deleteelementrevueseq.png Graphic file (type png)
 <use images/deleteelementrevueseq.png>
-Package pdftex.def Info: images/deleteelementrevueseq.png  used on input line 772.
+Package pdftex.def Info: images/deleteelementrevueseq.png  used on input line 770.
 (pdftex.def)             Requested size: 284.52995pt x 256.07509pt.
 
 
-[108 <./images/addelementrevueseq.png (PNG copy)> <./images/modifyelementrevueseq.png (PNG copy)>]
-<images/generatepdfrevueseq.png, id=1908, 749.80125pt x 437.635pt>
+[102]
+<images/generatepdfrevueseq.png, id=1325, 749.80125pt x 437.635pt>
 File: images/generatepdfrevueseq.png Graphic file (type png)
 <use images/generatepdfrevueseq.png>
-Package pdftex.def Info: images/generatepdfrevueseq.png  used on input line 779.
+Package pdftex.def Info: images/generatepdfrevueseq.png  used on input line 777.
 (pdftex.def)             Requested size: 284.527pt x 256.07887pt.
-<images/consultnotificationsseq.png, id=1909, 594.22pt x 639.38875pt>
+<images/consultnotificationsseq.png, id=1326, 594.22pt x 639.38875pt>
 File: images/consultnotificationsseq.png Graphic file (type png)
 <use images/consultnotificationsseq.png>
-Package pdftex.def Info: images/consultnotificationsseq.png  used on input line 787.
+Package pdftex.def Info: images/consultnotificationsseq.png  used on input line 785.
 (pdftex.def)             Requested size: 284.54233pt x 256.07292pt.
 
 
-[109 <./images/deleteelementrevueseq.png (PNG copy)> <./images/generatepdfrevueseq.png (PNG copy)>]
-<images/markallreadseq.png, id=1914, 666.49pt x 349.305pt>
+[103]
+<images/markallreadseq.png, id=1331, 666.49pt x 349.305pt>
 File: images/markallreadseq.png Graphic file (type png)
 <use images/markallreadseq.png>
-Package pdftex.def Info: images/markallreadseq.png  used on input line 794.
+Package pdftex.def Info: images/markallreadseq.png  used on input line 792.
 (pdftex.def)             Requested size: 284.5308pt x 227.62651pt.
-<images/consulthistoryseq.png, id=1915, 552.0625pt x 609.27625pt>
+<images/consulthistoryseq.png, id=1332, 552.0625pt x 609.27625pt>
 File: images/consulthistoryseq.png Graphic file (type png)
 <use images/consulthistoryseq.png>
-Package pdftex.def Info: images/consulthistoryseq.png  used on input line 801.
+Package pdftex.def Info: images/consulthistoryseq.png  used on input line 799.
 (pdftex.def)             Requested size: 284.53859pt x 256.0802pt.
 
 
-[110 <./images/consultnotificationsseq.png (PNG copy)> <./images/markallreadseq.png (PNG copy)>]
-Overfull \hbox (3.2113pt too wide) in paragraph at lines 806--806
+[104]
+Overfull \hbox (3.2113pt too wide) in paragraph at lines 804--804
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de consul-ta-tion des sta-tis-tiques glo-bales| 
  []
 
-<images/consultglobalstatsseq.png, id=1920, 714.67pt x 341.275pt>
+<images/consultglobalstatsseq.png, id=1337, 714.67pt x 341.275pt>
 File: images/consultglobalstatsseq.png Graphic file (type png)
 <use images/consultglobalstatsseq.png>
-Package pdftex.def Info: images/consultglobalstatsseq.png  used on input line 809.
+Package pdftex.def Info: images/consultglobalstatsseq.png  used on input line 807.
 (pdftex.def)             Requested size: 256.07054pt x 227.62718pt.
-<images/consultcompliancestatsseq.png, id=1921, 588.1975pt x 399.4925pt>
+<images/consultcompliancestatsseq.png, id=1338, 588.1975pt x 399.4925pt>
 File: images/consultcompliancestatsseq.png Graphic file (type png)
 <use images/consultcompliancestatsseq.png>
-Package pdftex.def Info: images/consultcompliancestatsseq.png  used on input line 816.
+Package pdftex.def Info: images/consultcompliancestatsseq.png  used on input line 814.
 (pdftex.def)             Requested size: 284.5305pt x 256.08884pt.
 
 
-[111 <./images/consulthistoryseq.png (PNG copy)> <./images/consultglobalstatsseq.png (PNG copy)>]
-<images/revuedirectioninterface.PNG, id=1926, 1008.01593pt x 575.14874pt>
+[105]
+<images/revuedirectioninterface.PNG, id=1343, 1008.01593pt x 575.14874pt>
 File: images/revuedirectioninterface.PNG Graphic file (type png)
 <use images/revuedirectioninterface.PNG>
-Package pdftex.def Info: images/revuedirectioninterface.PNG  used on input line 828.
+Package pdftex.def Info: images/revuedirectioninterface.PNG  used on input line 826.
 (pdftex.def)             Requested size: 398.3388pt x 256.07642pt.
 
 
-[112 <./images/consultcompliancestatsseq.png (PNG copy)>]
-<images/createrevuemodal.PNG, id=1931, 1014.03844pt x 475.7775pt>
+[106]
+<images/createrevuemodal.PNG, id=1348, 1014.03844pt x 475.7775pt>
 File: images/createrevuemodal.PNG Graphic file (type png)
 <use images/createrevuemodal.PNG>
-Package pdftex.def Info: images/createrevuemodal.PNG  used on input line 837.
+Package pdftex.def Info: images/createrevuemodal.PNG  used on input line 835.
 (pdftex.def)             Requested size: 398.33589pt x 256.0884pt.
-<images/revuedetails.PNG, id=1932, 1017.04968pt x 578.16pt>
+<images/revuedetails.PNG, id=1349, 1017.04968pt x 578.16pt>
 File: images/revuedetails.PNG Graphic file (type png)
 <use images/revuedetails.PNG>
-Package pdftex.def Info: images/revuedetails.PNG  used on input line 846.
-(pdftex.def)             Requested size: 398.33934pt x 256.06737pt.
+Package pdftex.def Info: images/revuedetails.PNG  used on input line 844.
+(pdftex.def)             Requested size: 369.87766pt x 227.61641pt.
 
 
-[113 <./images/revuedirectioninterface.PNG> <./images/createrevuemodal.PNG>]
-<images/addelementmodal.PNG, id=1940, 1013.28563pt x 578.16pt>
+[107]
+<images/addelementmodal.PNG, id=1355, 1013.28563pt x 578.16pt>
 File: images/addelementmodal.PNG Graphic file (type png)
 <use images/addelementmodal.PNG>
-Package pdftex.def Info: images/addelementmodal.PNG  used on input line 855.
-(pdftex.def)             Requested size: 398.33395pt x 256.06737pt.
-
-
-[114 <./images/revuedetails.PNG>]
-<images/notificationsdropdown.PNG, id=1946, 274.77657pt x 345.54094pt>
+Package pdftex.def Info: images/addelementmodal.PNG  used on input line 853.
+(pdftex.def)             Requested size: 341.42027pt x 199.16547pt.
+<images/notificationsdropdown.PNG, id=1356, 274.77657pt x 345.54094pt>
 File: images/notificationsdropdown.PNG Graphic file (type png)
 <use images/notificationsdropdown.PNG>
-Package pdftex.def Info: images/notificationsdropdown.PNG  used on input line 864.
+Package pdftex.def Info: images/notificationsdropdown.PNG  used on input line 862.
 (pdftex.def)             Requested size: 284.55336pt x 170.71902pt.
-<images/historyinterface.PNG, id=1947, 1016.29688pt x 557.83406pt>
+
+
+[108]
+<images/historyinterface.PNG, id=1361, 1016.29688pt x 557.83406pt>
 File: images/historyinterface.PNG Graphic file (type png)
 <use images/historyinterface.PNG>
-Package pdftex.def Info: images/historyinterface.PNG  used on input line 873.
+Package pdftex.def Info: images/historyinterface.PNG  used on input line 871.
 (pdftex.def)             Requested size: 398.33914pt x 256.07904pt.
-
-
-[115 <./images/addelementmodal.PNG> <./images/notificationsdropdown.PNG>]
-<images/globalstatsinterface.PNG, id=1954, 854.44218pt x 514.17094pt>
+<images/globalstatsinterface.PNG, id=1362, 854.44218pt x 514.17094pt>
 File: images/globalstatsinterface.PNG Graphic file (type png)
 <use images/globalstatsinterface.PNG>
-Package pdftex.def Info: images/globalstatsinterface.PNG  used on input line 882.
+Package pdftex.def Info: images/globalstatsinterface.PNG  used on input line 880.
 (pdftex.def)             Requested size: 341.43184pt x 199.16856pt.
-<images/compliancestatsinterface.PNG, id=1955, 859.71187pt x 572.1375pt>
+
+
+[109]
+<images/compliancestatsinterface.PNG, id=1367, 859.71187pt x 572.1375pt>
 File: images/compliancestatsinterface.PNG Graphic file (type png)
 <use images/compliancestatsinterface.PNG>
-Package pdftex.def Info: images/compliancestatsinterface.PNG  used on input line 891.
+Package pdftex.def Info: images/compliancestatsinterface.PNG  used on input line 889.
 (pdftex.def)             Requested size: 341.43867pt x 199.16858pt.
-
-
-[116 <./images/historyinterface.PNG> <./images/globalstatsinterface.PNG>]) (chapitre/09-ConclusionGenerale.tex
-Overfull \hbox (15.33063pt too wide) in paragraph at lines 896--1
+) (chapitre/09-ConclusionGenerale.tex
+Overfull \hbox (15.33063pt too wide) in paragraph at lines 894--1
 \T1/ptm/m/n/12 Cette deuxième re-lease a per-mis de com-plé-ter le sys-tème ^^S Pré-ven-tion Plus ^^T avec l'im-plé-men-ta-tion
  []
 
 
 
-[117 <./images/compliancestatsinterface.PNG>]
+[110]
+
+[111]
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
 
  []
@@ -2559,7 +2553,7 @@ Overfull \hbox (18.28299pt too wide) in paragraph at lines 19--19
 
 ) (chapitre/10-Bibliographie.tex
 
-[118
+[112
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 4--4
@@ -2579,10 +2573,10 @@ Package minitoc(hints) Info: I0053
 (minitoc(hints))             of floats defined by the float package.
 
 
-[119
+[113
 
 ]
-runsystem(latexminted cleantemp  --timestamp 20250904145822 FAD58DE7366495DB4650CFEFAC2FCD61)...disabled (restricted).
+runsystem(latexminted cleantemp  --timestamp 20250913171747 FAD58DE7366495DB4650CFEFAC2FCD61)...disabled (restricted).
 
  (main.aux)
  ***********
@@ -2593,17 +2587,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 38AE8D3F78995632EEBD54AD0E1A1FD4;51325.
  ) 
 Here is how much of TeX's memory you used:
- 39303 strings out of 468132
- 805795 string characters out of 5430692
- 1372546 words of memory out of 5000000
- 66753 multiletter control sequences out of 15000+600000
+ 39130 strings out of 468132
+ 802282 string characters out of 5430692
+ 1372544 words of memory out of 5000000
+ 66590 multiletter control sequences out of 15000+600000
  677235 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  113i,17n,115p,741b,891s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\GAMER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\GAMER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\GAMER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\GAMER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Users/GAMER/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/GAMER/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (133 pages, 11781794 bytes).
+
+pdfTeX warning: \pdfdraftmode enabled, not changing output pdf
+
 PDF statistics:
- 2218 PDF objects out of 2487 (max. 8388607)
- 479 named destinations out of 1000 (max. 500000)
- 1873 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1390 PDF objects out of 1440 (max. 8388607)
+ 473 named destinations out of 1000 (max. 500000)
+ 593 words of extra memory for PDF output out of 10000 (max. 10000000)
 
