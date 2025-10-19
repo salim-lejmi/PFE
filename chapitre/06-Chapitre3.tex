@@ -8,7 +8,7 @@
 \newpage
 
 \section*{Introduction}
-
+\addcontentsline{toc}{section}{Introduction}
 \noindent Après avoir présenté le cadre général de notre projet, nous présenterons l'étude technique de notre projet dans laquelle nous commencerons par une description de l'environnement de développement de l'application en détaillant les technologies et frameworks utilisés. Finalement, nous présenterons l'architecture de notre système.
 
 \section{Environnement de développement}
@@ -138,6 +138,20 @@
 
 \noindent Material UI \cite{mui} est une bibliothèque de composants React qui implémente le Material Design de Google. Nous l'avons utilisé pour créer une interface utilisateur cohérente et moderne, accélérant le développement avec ses composants pré-conçus.
 
+\subsubsection{Systèmes de gestion de base de données}
+
+\noindent Pour gérer la persistance des données, nous avons utilisé un système de gestion de base de données relationnel.
+
+\paragraph{SQL Server}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=3cm, height=3cm]{images/sqlserver.png}
+    \caption{Logo SQL Server}
+\end{figure}
+
+\noindent SQL Server \cite{sqlserver} est un système de gestion de base de données relationnel développé par Microsoft. Dans notre projet, nous l'avons utilisé avec Entity Framework Core \cite{entityframework} pour assurer la gestion des données, les opérations CRUD et la persistance des informations de l'application.
+
 \subsubsection{APIs}
 
 \noindent Notre application intègre des services externes via des APIs pour étendre ses fonctionnalités.
@@ -164,7 +178,7 @@
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=16cm, height=13cm]{images/Architecturephysique.PNG}
+    \includegraphics[width=14cm, height=10cm]{images/Architecturephysique.PNG}
     \label{fig:arch_physique}
     \caption{Architecture physique de l'application}
 \end{figure}
@@ -189,7 +203,7 @@
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=15cm, height=13cm]{images/Architecturelogique.PNG}
+    \includegraphics[width=13cm, height=9cm]{images/Architecturelogique.PNG}
     \label{fig:arch_logique}
     \caption{Architecture logique de l'application}
 \end{figure}
@@ -204,5 +218,5 @@
 \noindent \textbf{Architecture Microservices} : Le service NLP Flask fonctionne comme un microservice indépendant, communiquant avec l'API principale via des appels HTTP. Cette approche permet une évolutivité et une maintenabilité optimales des fonctionnalités d'intelligence artificielle.
 
 \section*{Conclusion}
-
+\addcontentsline{toc}{section}{Conclusion}
 \noindent Ce chapitre a été consacré à la présentation des divers environnements de développement utilisés dans notre projet, ainsi qu'aux technologies employées pour la création de notre application web. Nous avons également abordé l'architecture N-tiers de notre système, illustrant comment les différentes couches interagissent pour fournir une solution complète et évolutive. Dans le prochain chapitre, nous procéderons à une analyse détaillée de la première release de notre projet.
