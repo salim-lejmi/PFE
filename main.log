@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.19)  22 OCT 2025 14:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.2)  26 OCT 2025 18:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/salim/OneDrive/Documents/PFE/main.tex
-(c:/Users/salim/OneDrive/Documents/PFE/main.tex
+**c:/Users/GAMER/Documents/PFE__Salim_Lejmi/main.tex
+(c:/Users/GAMER/Documents/PFE__Salim_Lejmi/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
-(enetcom-pfe-report.cls (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/silence\silence.sty
+(enetcom-pfe-report.cls (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/silence\silence.sty
 Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error messages
 \sl@Save=\count275
 \sl@StateNumber=\count276
@@ -29,9 +29,9 @@ LaTeX Info: Redefining \GenericWarning on input line 433.
 \sl@TempBOE=\toks23
 \sl@BankOfErrors=\toks24
 LaTeX Info: Redefining \GenericError on input line 601.
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
-(C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+(C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count285
@@ -46,14 +46,14 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks25
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count294
@@ -68,13 +68,13 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen155
 \Gm@layoutvoffset=\dimen156
 \Gm@dimlist=\toks26
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
 \@envbody=\toks27
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/verse\verse.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/verse\verse.sty
 Package: verse 2014/05/10 v2.4b verse typesetting
 \c@vslineno=\count297
 \c@poemline=\count298
@@ -90,15 +90,15 @@ Package: verse 2014/05/10 v2.4b verse typesetting
 \c@chrsinstr=\count302
 \beforepoemtitleskip=\skip57
 \afterpoemtitleskip=\skip58
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -108,9 +108,9 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \col@sep=\dimen157
 \ar@mcellbox=\box53
@@ -123,7 +123,7 @@ Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \everycr=\toks29
 \minrowclearance=\skip61
 \rownum=\count303
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box55
 \beforetitleunit=\skip62
@@ -134,11 +134,11 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen161
 \titlewidthlast=\dimen162
 \titlewidthfirst=\dimen163
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.sty
 Package: chngcntr 2018/04/09 v1.1a change counter resetting
 Package chngcntr Info: \counterwithout already defined.
 (chngcntr)             Quitting chngcntr on input line 21.
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@headwidth=\skip64
 \f@nch@offset@elh=\skip65
@@ -155,9 +155,9 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip76
 \f@nch@widthR=\skip77
 \@temptokenb=\toks31
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen164
 \captionmargin=\dimen165
@@ -171,60 +171,60 @@ Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count304
 \c@continuedfloat=\count305
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count306
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count307
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count308
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count309
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen172
 \Hy@linkcounter=\count310
 \Hy@pagecounter=\count311
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count312
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -237,15 +237,15 @@ Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
 \c@Hy@tempcnt=\count313
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen173
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count314
@@ -263,25 +263,25 @@ Package hyperref Info: PDF/A mode OFF on input line 6108.
 \c@Hfootnote=\count317
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
 \Fld@listcount=\count318
 \c@bookmark@seq@number=\count319
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip78
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
 Package: needspace 2025/03/13 v1.3e reserve vertical space
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
 Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count320
 \calc@Bcount=\count321
@@ -293,17 +293,17 @@ LaTeX Info: Redefining \setlength on input line 86.
 LaTeX Info: Redefining \addtolength on input line 87.
 \calc@Ccount=\count322
 \calc@Cskip=\skip81
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen178
 \ESO@tempdimb=\dimen179
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
@@ -314,7 +314,7 @@ Package graphics Info: Driver file: pdftex.def on input line 106.
 \AM@pagewidth=\dimen182
 \AM@pageheight=\dimen183
 \AM@fboxrule=\dimen184
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
 File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
 )
 \pdfpages@includegraphics@status=\count323
@@ -325,7 +325,7 @@ File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
 \AM@lof@heading=\toks34
 \c@AM@survey=\count325
 \AM@templatesizebox=\box57
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip82
 \enit@outerparindent=\dimen185
@@ -333,7 +333,7 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@inbox=\box58
 \enit@count@id=\count326
 \enitdp@description=\count327
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
 Package: footmisc 2025/05/09 v7.0b a miscellany of footnote facilities
 \FN@temptoken=\toks36
 \footnotemargin=\dimen186
@@ -343,7 +343,7 @@ Package footmisc Info: Declaring symbol style wiley on input line 566.
 Package footmisc Info: Declaring symbol style lamport-robust on input line 577.
 Package footmisc Info: Declaring symbol style lamport* on input line 597.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 618.
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2025/08/03 v25.12 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
 \babel@savecnt=\count328
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2045.
@@ -355,21 +355,21 @@ LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) o
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2078.
 \U@D=\dimen187
 \l@unhyphenated=\language79
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count329
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.ldf
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.ldf
 Language: french 2025-08-15 v4.0e French support from the babel system
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel-french.tex
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel-french.tex
 Package babel Info: Importing font and identification data for french
 (babel)             from babel-fr.ini. Reported on input line 12.
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french3.ldf
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french3.ldf
 Language: french 2025-08-15 v3.7e French support from the babel system
 \FB@stdchar=\count330
 Package babel Info: Making : an active character on input line 273.
@@ -392,23 +392,23 @@ Package babel Info: Making ? an active character on input line 276.
 \leftmarginFB=\dimen194
 \parindentFFN=\dimen195
 \FBfnindent=\dimen196
-))) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/tools\varioref.sty
+))) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tools\varioref.sty
 Package: varioref 2025/01/14 v1.6g package for extended references (FMi)
 \c@vrcnt=\count337
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/acronym\acronym.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/acronym\acronym.sty
 Package: acronym 2025/01/17 v1.50 Support for acronyms (Tobias Oetiker)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\suffix.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\suffix.sty
 Package: suffix 2006/07/15 1.5a Variant command support
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
 \xs_counta=\count338
 \xs_countb=\count339
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
 \AC@clearlist=\toks38
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\minitoc.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\minitoc.sty
 Package: minitoc 2018/07/12 v62 Package minitoc
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\mtcmess.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\mtcmess.sty
 Package: mtcmess 2006/03/14
 )
 Package minitoc Info: I0001
@@ -449,40 +449,40 @@ Package minitoc Info: I0031
 Package minitoc Info: I0010
 (minitoc)             The english language is selected.
 (minitoc)              on input line 4910.
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
 File: english.mld 2006/01/13
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\english.mld
 File: english.mld 2006/01/13
 )
 Package minitoc Info: I0010
 (minitoc)             The french language is selected.
 (minitoc)              on input line 4911.
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\french.mld
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/minitoc\french.mld
 File: french.mld 2006/03/21
-)) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks40
 \inpenc@posthook=\toks41
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
 Package: tcolorbox 2025/07/08 version 6.7.1 text color boxes
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks42
 \pgfutil@tempdima=\dimen197
 \pgfutil@tempdimb=\dimen198
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box61
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
 ))
 Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks43
 \pgfkeys@temptoks=\toks44
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks45
 ))
 \pgf@x=\dimen199
@@ -505,32 +505,32 @@ Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 \t@pgf@tokb=\toks47
 \t@pgf@tokc=\toks48
 \pgf@sys@id@count=\count348
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
 Driver file for pgf: pgfsys-pdftex.def
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
-))) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+))) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfsyssoftpath@smallbuffer@items=\count349
 \pgfsyssoftpath@bigbuffer@items=\count350
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen265
 \pgfmath@count=\count351
 \pgfmath@box=\box62
 \pgfmath@toks=\toks49
 \pgfmath@stack@operand=\toks50
 \pgfmath@stack@operation=\toks51
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count352
-)) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@picminx=\dimen266
 \pgf@picmaxx=\dimen267
@@ -546,75 +546,75 @@ File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@yy=\dimen277
 \pgf@zx=\dimen278
 \pgf@zy=\dimen279
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@path@lastx=\dimen280
 \pgf@path@lasty=\dimen281
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@shorten@end@additional=\dimen282
 \pgf@shorten@start@additional=\dimen283
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box63
 \pgf@hbox=\box64
 \pgf@layerbox@main=\box65
 \pgf@picture@serial@count=\count353
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgflinewidth=\dimen284
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@pt@x=\dimen285
 \pgf@pt@y=\dimen286
 \pgf@pt@temp=\dimen287
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowsep=\dimen288
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@max=\dimen289
 \pgf@sys@shading@range@num=\count354
 \pgf@shadingcount=\count355
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfexternal@startupbox=\box66
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+))) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfnodeparttextbox=\box67
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@nodesepstart=\dimen290
 \pgf@nodesepend=\dimen291
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
-)) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen292
 \pgffor@skip=\dimen293
 \pgffor@stack=\toks52
 \pgffor@toks=\toks53
-)) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@plot@mark@count=\count356
 \pgfplotmarksize=\dimen294
@@ -635,16 +635,16 @@ File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \tikznumberofchildren=\count358
 \tikznumberofcurrentchild=\count359
 \tikz@fig@count=\count360
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfmatrixcurrentrow=\count361
 \pgfmatrixcurrentcolumn=\count362
 \pgf@matrix@numberofcolumns=\count363
 )
 \tikz@expandcount=\count364
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+))) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks54
 \verbatim@line=\toks55
@@ -663,32 +663,32 @@ Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \tcb@temp=\box78
 \tcb@temp=\box79
 \tcb@temp=\box80
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code.tex
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code.tex
 Library (tcolorbox): 'tcbskins.code.tex' version '6.7.1'
-(C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image.sty
+(C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image.sty
 Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill-common.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill-common.sty
 Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfill.image.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfill.image.code.tex
 File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
 \l__tikzfill_img_box=\box81
-)) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.7.1'
-))) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+))) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks56
 \XKV@tempa@toks=\toks57
 )
 \XKV@depth=\count368
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
 Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \collectedbox=\box82
 )
@@ -697,7 +697,7 @@ Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \tc@urx=\dimen306
 \tc@ury=\dimen307
 Package trimclip Info: Using driver 'tc-pdftex.def'.
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen308
@@ -708,10 +708,10 @@ File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
 \adjbox@pheight=\dimen313
 \adjbox@pdepth=\dimen314
 \adjbox@ptotalheight=\dimen315
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
 \c@checkoddpage=\count369
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box83
 \sift@deathcycles=\count370
@@ -719,17 +719,17 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@roff=\dimen317
 )
 ==> First Aid for varwidth.sty applied!
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/minted\minted.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/minted\minted.sty
 Package: minted 2025/05/14 v3.7.0 Yet another Pygments shim for LaTeX
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/catchfile\catchfile.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/catchfile\catchfile.sty
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/fvextra\fvextra.sty
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/fvextra\fvextra.sty
 Package: fvextra 2025/05/29 v1.13.2 fvextra - extensions and patches for fancyvrb
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
 Package: fancyvrb 2025/07/28 4.6 verbatim text (tvz,hv)
 \FV@CodeLineNo=\count371
 \FV@InFile=\read5
@@ -737,11 +737,11 @@ Package: fancyvrb 2025/07/28 4.6 verbatim text (tvz,hv)
 \c@FancyVerbLine=\count372
 \FV@StepNumber=\count373
 \FV@OutFile=\write5
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
-)) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
+)) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
 Package: lineno 2025/05/13 line numbers on paragraphs v5.5
 \linenopenalty=\count374
 \output=\toks58
@@ -784,16 +784,16 @@ Package: lineno 2025/05/13 line numbers on paragraphs v5.5
 \FV@LineIndentBox=\box90
 \c@FV@BreakBufferDepth=\count394
 \FV@LineWidth=\dimen328
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/latex2pydata\latex2pydata.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/latex2pydata\latex2pydata.sty
 Package: latex2pydata 2025/03/26 v0.6.0 latex2pydata - write data to file in Python literal format
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pgfopts\pgfopts.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pgfopts\pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
 \pgfopts@list@add@a@toks=\toks59
 \pgfopts@list@add@b@toks=\toks60
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
 Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count395
 \float@exts=\toks61
@@ -804,7 +804,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@minted@FancyVerbLineTemp=\count396
 \@float@every@listing=\toks63
 \c@listing=\count397
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@col@width=\dimen329
 \TX@old@table=\dimen330
@@ -813,11 +813,11 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@delta=\dimen333
 \TX@cols=\count398
 \TX@ftn=\toks64
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/ctable\ctable.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/ctable\ctable.sty
 Package: ctable 2025/07/10 v1.32 package for flexible key/value driven typesetting of floats
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen334
 \lightrulewidth=\dimen335
@@ -836,7 +836,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count401
 \@lastruleclass=\count402
 \@thisrulewidth=\dimen346
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
 \c@r@tfl@t=\count403
 \rotFPtop=\skip87
@@ -864,27 +864,27 @@ Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
 \@CToldrule=\dimen364
 \CT@t=\box94
 \@CTcurftwidth=\dimen365
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip89
 \multirow@cntb=\count404
 \multirow@dima=\skip90
 \bigstrutjot=\dimen366
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/seqsplit\seqsplit.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/seqsplit\seqsplit.sty
 Package: seqsplit 2006/08/07 v0.1 Splitting long sequences (DNA, RNA, proteins, etc.) 
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
 \wrapoverhang=\dimen367
 \WF@size=\dimen368
 \c@WF@wrappedlines=\count405
 \WF@box=\box95
 \WF@everypar=\toks66
 Package: wrapfig 2003/01/31  v 3.6
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/nowidow\nowidow.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/nowidow\nowidow.sty
 Package: nowidow 2011/09/20 1.0 Easily prevent widows and orphans
 Package: nowidow 
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip91
 \RaggedLeftLeftskip=\skip92
@@ -900,7 +900,7 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedLeftParindent=\skip102
 \RaggedRightParindent=\skip103
 \JustifyingParindent=\skip104
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@pps=\count406
 \c@@ppsavesec=\count407
@@ -908,7 +908,7 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 )
 \BoxWd=\skip105
 \Aux=\skip106
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
 \LTleft=\skip107
 \LTright=\skip108
@@ -926,7 +926,7 @@ Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
 \c@LT@tables=\count412
 \c@LT@chunks=\count413
 \LT@p@ftn=\toks67
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\ltxtable.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\ltxtable.sty
 Package: ltxtable 2021/06/13 v0.4 longtable/tabularx merge (DPC)
 ) (Commands.tex)
 Package minitoc Info: I0024
@@ -978,9 +978,9 @@ Package french3.ldf Info: Setting StandardEnumerateEnv=true for
 (french3.ldf)             compatibility with enumitem package,
 (french3.ldf)             reported on input line 46.
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 46.
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count414
 ) (main.aux
@@ -1042,7 +1042,7 @@ LaTeX Font Info:    ... okay on input line 46.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+(C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count415
 \scratchdimen=\dimen370
@@ -1055,10 +1055,10 @@ LaTeX Font Info:    ... okay on input line 46.
 \MPnumerator=\count419
 \makeMPintoPDFobject=\count420
 \everyMPtoPDFconversion=\toks69
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
@@ -1066,22 +1066,21 @@ Package caption Info: french babel package is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 46.
- (main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
 Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
- (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+ (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
@@ -1095,12 +1094,12 @@ Package minitoc(hints) Info: I0042
 (minitoc(hints))             See the minitoc package documentation 
 (minitoc(hints))             for specific precautions.
  (chapitre/00-PageDeGarde.tex
-<chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, id=688, 597.432pt x 845.07718pt>
+<chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, id=6, 597.432pt x 845.07718pt>
 File: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf Graphic file (type pdf)
 <use chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf>
 Package pdftex.def Info: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf  used on input line 1.
 (pdftex.def)             Requested size: 597.43054pt x 845.07512pt.
-<chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, id=690, page=1, 597.432pt x 845.07718pt>
+<chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, id=8, page=1, 597.432pt x 845.07718pt>
 File: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf Graphic file (type pdf)
 <use chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf, page 1>
 Package pdftex.def Info: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf , page1 used on input line 1.
@@ -1126,7 +1125,7 @@ Package pdftex.def Info: chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf , pa
 [1
 
 
- <./chapitre/Page de Garde-Rapport de Stage-ESPRIM.pdf>]) (chapitre/01-Remerciement.tex
+]) (chapitre/01-Remerciement.tex
 LaTeX Font Info:    Calculating math sizes for size <26> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <26> on input line 1.
@@ -1148,7 +1147,7 @@ Overfull \hbox (13.94876pt too wide) in paragraph at lines 13--14
 
 [1
 
-{C:/Users/salim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/salim/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+{C:/Users/GAMER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/GAMER/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
 Underfull \hbox (badness 10000) in paragraph at lines 57--57
 
  []
@@ -1363,88 +1362,110 @@ Overfull \hbox (5.41895pt too wide) in paragraph at lines 11--12
 \T1/ptm/m/n/12 ob-jec-tifs et le tra-vail de-mandé. Nous pré-sen-te-rons en-suite la mé-tho-do-lo-gie adop-tée et la dé-marche
  []
 
-<images/logoent.jpg, id=1283, 200.75pt x 200.75pt>
+<images/logoent.jpg, id=746, 200.75pt x 200.75pt>
 File: images/logoent.jpg Graphic file (type jpg)
 <use images/logoent.jpg>
 Package pdftex.def Info: images/logoent.jpg  used on input line 28.
 (pdftex.def)             Requested size: 142.27312pt x 113.81297pt.
 
 
-[3 <./images/logoent.jpg>]
+[3]
 Overfull \hbox (5.86269pt too wide) in paragraph at lines 38--39
 \T1/ptm/m/n/12 (Word-Press, HTML5/PHP), ap-pli-ca-tions web sur me-sure (uti-li-sant Zend, La-ra-vel, An-gu-lar)
  []
 
-<images/auditboard.PNG, id=1288, 1434.10782pt x 813.0375pt>
-File: images/auditboard.PNG Graphic file (type png)
-<use images/auditboard.PNG>
-Package pdftex.def Info: images/auditboard.PNG  used on input line 65.
-(pdftex.def)             Requested size: 369.8832pt x 227.61172pt.
 
 
 [4]
-<images/processgene.PNG, id=1295, 1434.86063pt x 758.08218pt>
+<images/auditboard.PNG, id=756, 1434.10782pt x 813.0375pt>
+File: images/auditboard.PNG Graphic file (type png)
+<use images/auditboard.PNG>
+Package pdftex.def Info: images/auditboard.PNG  used on input line 67.
+(pdftex.def)             Requested size: 369.8832pt x 227.61172pt.
+<images/processgene.PNG, id=758, 1434.86063pt x 758.08218pt>
 File: images/processgene.PNG Graphic file (type png)
 <use images/processgene.PNG>
-Package pdftex.def Info: images/processgene.PNG  used on input line 78.
+Package pdftex.def Info: images/processgene.PNG  used on input line 80.
 (pdftex.def)             Requested size: 369.88031pt x 227.61148pt.
 
 
-[5 <./images/auditboard.PNG> <./images/processgene.PNG>]
-Overfull \hbox (10.3151pt too wide) in paragraph at lines 120--121
-\T1/ptm/m/n/12 pro-gres-sive à tra-vers des cycles de dé-ve-lop-pe-ment courts et ré-pé-tés, vi-sant avant tout la sa-tis-fac-tion
+[5]
+Overfull \hbox (16.45921pt too wide) in paragraph at lines 108--109
+\T1/ptm/m/n/12 L'analyse du ta-bleau montre clai-re-ment qu'au-cune des so-lu-tions exis-tantes ne ré-pond com-plè-te-ment
+ []
+
+
+Overfull \hbox (17.94576pt too wide) in paragraph at lines 111--112
+\T1/ptm/m/n/12 nu-mé-rique spé-cia-li-sée com-bi-nant l'au-to-ma-ti-sa-tion, la ges-tion col-la-bo-ra-tive des rôles, et la tra-ça-bi-lité
+ []
+
+
+Overfull \hbox (20.97072pt too wide) in paragraph at lines 111--112
+\T1/ptm/m/n/12 com-plète. Cette ap-proche per-met-trait de trans-for-mer les pro-ces-sus ma-nuels frag-men-tés en work-flows
  []
 
 
 
 [6]
-<images/scrum method.jpg, id=1307, 469.755pt x 287.57437pt>
+Overfull \hbox (17.87378pt too wide) in paragraph at lines 121--122
+[]\T1/ptm/m/n/12 Développée pour les PME, ``Pré-ven-tion Plus'' offre ainsi une so-lu-tion ac-ces-sible et prag-ma-tique
+ []
+
+
+Overfull \hbox (10.3151pt too wide) in paragraph at lines 126--127
+\T1/ptm/m/n/12 pro-gres-sive à tra-vers des cycles de dé-ve-lop-pe-ment courts et ré-pé-tés, vi-sant avant tout la sa-tis-fac-tion
+ []
+
+
+
+[7]
+<images/scrum method.jpg, id=772, 469.755pt x 287.57437pt>
 File: images/scrum method.jpg Graphic file (type jpg)
 <use images/scrum method.jpg>
-Package pdftex.def Info: images/scrum method.jpg  used on input line 127.
+Package pdftex.def Info: images/scrum method.jpg  used on input line 133.
 (pdftex.def)             Requested size: 341.43456pt x 170.72054pt.
 
-Overfull \hbox (21.34064pt too wide) in paragraph at lines 136--137
+Overfull \hbox (21.34064pt too wide) in paragraph at lines 142--143
 \T1/ptm/m/n/12 Sa mis-sion consiste à tra-duire les be-soins des uti-li-sa-teurs et à main-te-nir la via-bi-lité éco-no-mique
  []
 
 
-Overfull \hbox (24.91803pt too wide) in paragraph at lines 138--139
+Overfull \hbox (24.91803pt too wide) in paragraph at lines 144--145
 \T1/ptm/m/n/12 fonc-tion prin-ci-pale est d'ac-com-pa-gner l'équipe vers une maî-trise et une ap-pli-ca-tion ap-pro-priées
  []
 
 
-
-[7 <./images/scrum method.jpg>]
-Overfull \hbox (8.3939pt too wide) in paragraph at lines 140--141
+Overfull \hbox (8.3939pt too wide) in paragraph at lines 146--147
 []\T1/ptm/b/n/12 Équipe de dé-ve-lop-pe-ment Scrum \T1/ptm/m/n/12 : Groupe de pro-fes-sion-nels qui construisent les élé-ments
  []
 
 
-Overfull \hbox (42.0661pt too wide) in paragraph at lines 147--148
+
+[8]
+Overfull \hbox (42.0661pt too wide) in paragraph at lines 153--154
 \T1/ptm/m/n/12 pour per-fec-tion-ner le pro-duit. Il re-groupe des élé-ments va-riés comme des nou-velles fonc-tion-na-li-tés,
  []
 
 
-Overfull \hbox (2.65865pt too wide) in paragraph at lines 147--148
+Overfull \hbox (2.65865pt too wide) in paragraph at lines 153--154
 \T1/ptm/m/n/12 des exi-gences, des op-ti-mi-sa-tions ou des ré-so-lu-tions de bugs, sous la su-per-vi-sion du Pro-duct
  []
 
 
-Overfull \hbox (4.00171pt too wide) in paragraph at lines 160--161
+Overfull \hbox (4.00171pt too wide) in paragraph at lines 166--167
 \T1/ptm/m/n/12 ba-ck-log pro-duit, échange sur les prio-ri-tés et s'ac-corde sur le pé-ri-mètre et les fonc-tion-na-li-tés
  []
 
 
 
-[8]) (chapitre/05-Chapitre2.tex
-Overfull \hbox (0.18758pt too wide) in paragraph at lines 172--1
+[9]) (chapitre/05-Chapitre2.tex
+Overfull \hbox (0.18758pt too wide) in paragraph at lines 178--1
 \T1/ptm/m/n/12 pro-blé-ma-tique, puis nous avons dé-crit l'or-ga-nisme d'ac-cueil, étu-dié quelques exemples exis-tants
  []
 
 
 
-[9]
+[10]
 Chapitre 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
@@ -1457,7 +1478,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--1
 
 (main.mtc5)
 
-[10
+[11
 
 ]
 Overfull \hbox (8.66995pt too wide) in paragraph at lines 20--21
@@ -1471,7 +1492,7 @@ Overfull \hbox (23.03328pt too wide) in paragraph at lines 36--37
 
 
 
-[11]
+[12]
 Overfull \hbox (5.2015pt too wide) in paragraph at lines 45--46
 []\T1/ptm/m/n/12 Gérer la taxo-no-mie : créer, consul-ter et sup-pri-mer les élé-ments de clas-si-fi-ca-tion du sys-tème. 
  []
@@ -1483,53 +1504,53 @@ Overfull \hbox (7.37424pt too wide) in paragraph at lines 60--61
 
 
 
-[12]
+[13]
 Overfull \hbox (20.16574pt too wide) in paragraph at lines 64--65
 []\T1/ptm/m/n/12 Consulter l'éva-lua-tion de la confor-mité : ac-cé-der aux éva-lua-tions de confor-mité ré-gle-men-taire. 
  []
 
 
 
-[13] [14] [15] [16] [17]
-<images/UseCaseDiagram.png, id=1366, 3414.7575pt x 3830.31pt>
+[14] [15] [16] [17] [18]
+<images/UseCaseDiagram.png, id=831, 3412.75pt x 3830.31pt>
 File: images/UseCaseDiagram.png Graphic file (type png)
 <use images/UseCaseDiagram.png>
 Package pdftex.def Info: images/UseCaseDiagram.png  used on input line 214.
-(pdftex.def)             Requested size: 512.13943pt x 540.56474pt.
+(pdftex.def)             Requested size: 512.15079pt x 540.56474pt.
 
-Overfull \hbox (56.89532pt too wide) in paragraph at lines 214--215
+Overfull \hbox (56.90668pt too wide) in paragraph at lines 214--215
  [][] 
  []
 
 
 
-[18]
-<images/diagramclass.png, id=1371, 1402.23875pt x 1665.22125pt>
+[19]
+<images/diagramclass.png, id=836, 2810.5pt x 2083.785pt>
 File: images/diagramclass.png Graphic file (type png)
 <use images/diagramclass.png>
 Package pdftex.def Info: images/diagramclass.png  used on input line 224.
-(pdftex.def)             Requested size: 512.16594pt x 540.6061pt.
+(pdftex.def)             Requested size: 512.12935pt x 512.1375pt.
 
-Overfull \hbox (56.92183pt too wide) in paragraph at lines 224--225
+Overfull \hbox (56.88524pt too wide) in paragraph at lines 224--225
  [][] 
  []
 
 
 
-[19 <./images/UseCaseDiagram.png>] (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd)
+[20] (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd)
 
-[20 <./images/diagramclass.png (PNG copy)>]) (chapitre/06-Chapitre3.tex
+[21]) (chapitre/06-Chapitre3.tex
 
-[21]
+[22]
 Chapitre 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
 
  []
 
-(C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+(C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\salim\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
+) (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 \openout3 = `main.mtc'.
@@ -1538,22 +1559,22 @@ File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 
  (main.mtc6)
 
-[22
+[23
 
 ]
 Overfull \hbox (2.22638pt too wide) in paragraph at lines 12--13
 \T1/ptm/m/n/12 dé-ve-lop-pe-ment de l'ap-pli-ca-tion en dé-taillant les tech-no-lo-gies et fra-me-works uti-li-sés. Fi-na-le-ment,
  []
 
-<images/vscode.png, id=1399, 290.58563pt x 152.82094pt>
+<images/vscode.png, id=863, 290.58563pt x 152.82094pt>
 File: images/vscode.png Graphic file (type png)
 <use images/vscode.png>
 Package pdftex.def Info: images/vscode.png  used on input line 36.
 (pdftex.def)             Requested size: 170.71686pt x 85.35759pt.
 
 
-[23]
-<images/visualstudio.png, id=1407, 803.0pt x 312.16624pt>
+[24]
+<images/visualstudio.png, id=871, 803.0pt x 312.16624pt>
 File: images/visualstudio.png Graphic file (type png)
 <use images/visualstudio.png>
 Package pdftex.def Info: images/visualstudio.png  used on input line 48.
@@ -1563,33 +1584,33 @@ Overfull \hbox (1.93929pt too wide) in paragraph at lines 57--58
 \T1/ptm/m/n/12 Dans cette sec-tion, nous pré-sen-tons les lan-gages de pro-gram-ma-tion, bi-blio-thèques et fra-me-works
  []
 
-<images/typescript.png, id=1410, 250.9375pt x 250.9375pt>
+<images/typescript.png, id=874, 250.9375pt x 250.9375pt>
 File: images/typescript.png Graphic file (type png)
 <use images/typescript.png>
 Package pdftex.def Info: images/typescript.png  used on input line 67.
 (pdftex.def)             Requested size: 85.35973pt x 85.35973pt.
 
 
-[24 <./images/vscode.png> <./images/visualstudio.png>]
-<images/csharp.png, id=1422, 165.61874pt x 165.61874pt>
+[25]
+<images/csharp.png, id=884, 165.61874pt x 165.61874pt>
 File: images/csharp.png Graphic file (type png)
 <use images/csharp.png>
 Package pdftex.def Info: images/csharp.png  used on input line 77.
 (pdftex.def)             Requested size: 85.3565pt x 85.3565pt.
-<images/python.png, id=1423, 150.5625pt x 165.61874pt>
+<images/python.png, id=885, 150.5625pt x 165.61874pt>
 File: images/python.png Graphic file (type png)
 <use images/python.png>
 Package pdftex.def Info: images/python.png  used on input line 87.
 (pdftex.def)             Requested size: 85.36203pt x 85.3565pt.
 
 
-[25 <./images/typescript.png> <./images/csharp.png> <./images/python.png>]
-<images/net.png, id=1436, 250.9375pt x 250.9375pt>
+[26]
+<images/net.png, id=895, 250.9375pt x 250.9375pt>
 File: images/net.png Graphic file (type png)
 <use images/net.png>
 Package pdftex.def Info: images/net.png  used on input line 101.
 (pdftex.def)             Requested size: 85.35973pt x 85.35973pt.
-<images/flask.png, id=1437, 250.9375pt x 98.3675pt>
+<images/flask.png, id=896, 250.9375pt x 98.3675pt>
 File: images/flask.png Graphic file (type png)
 <use images/flask.png>
 Package pdftex.def Info: images/flask.png  used on input line 111.
@@ -1601,8 +1622,8 @@ Overfull \hbox (1.30324pt too wide) in paragraph at lines 119--120
 
 
 
-[26 <./images/net.png> <./images/flask.png>]
-<images/react.png, id=1448, 582.175pt x 358.33875pt>
+[27]
+<images/react.png, id=905, 582.175pt x 358.33875pt>
 File: images/react.png Graphic file (type png)
 <use images/react.png>
 Package pdftex.def Info: images/react.png  used on input line 125.
@@ -1612,20 +1633,20 @@ Overfull \hbox (2.57544pt too wide) in paragraph at lines 129--130
 \T1/ptm/m/n/12 l'avons uti-lisé pour dé-ve-lop-per notre in-ter-face uti-li-sa-teur avec Ty-peS-cript, créant des com-po-sants
  []
 
-<images/mui.png, id=1449, 2509.375pt x 1992.44376pt>
+<images/mui.png, id=906, 2509.375pt x 1992.44376pt>
 File: images/mui.png Graphic file (type png)
 <use images/mui.png>
 Package pdftex.def Info: images/mui.png  used on input line 135.
 (pdftex.def)             Requested size: 85.34825pt x 85.33899pt.
 
 
-[27 <./images/react.png> <./images/mui.png>]
-<images/sqlserver.png, id=1460, 1000.73875pt x 1096.095pt>
+[28]
+<images/sqlserver.png, id=916, 1000.73875pt x 1096.095pt>
 File: images/sqlserver.png Graphic file (type png)
 <use images/sqlserver.png>
 Package pdftex.def Info: images/sqlserver.png  used on input line 149.
 (pdftex.def)             Requested size: 85.34416pt x 85.34789pt.
-<images/stripe.png, id=1463, 192.72pt x 192.72pt>
+<images/stripe.png, id=919, 192.72pt x 192.72pt>
 File: images/stripe.png Graphic file (type png)
 <use images/stripe.png>
 Package pdftex.def Info: images/stripe.png  used on input line 163.
@@ -1642,27 +1663,27 @@ Overfull \hbox (15.1259pt too wide) in paragraph at lines 167--168
 
 
 
-[28 <./images/sqlserver.png> <./images/stripe.png>]
-<images/Architecturephysique.PNG, id=1477, 678.28406pt x 517.935pt>
+[29]
+<images/Architecturephysique.PNG, id=930, 678.28406pt x 517.935pt>
 File: images/Architecturephysique.PNG Graphic file (type png)
 <use images/Architecturephysique.PNG>
 Package pdftex.def Info: images/Architecturephysique.PNG  used on input line 181.
 (pdftex.def)             Requested size: 398.33151pt x 284.54109pt.
 
 
-[29 <./images/Architecturephysique.PNG>]
+[30]
 Overfull \hbox (14.75471pt too wide) in paragraph at lines 194--195
 \T1/ptm/m/n/12 Google pour l'ana-lyse des des-crip-tions d'ac-tions et la gé-né-ra-tion de re-com-man-da-tions in-tel-li-gentes. 
  []
 
-<images/Architecturelogique.PNG, id=1483, 621.82312pt x 569.12625pt>
+<images/Architecturelogique.PNG, id=935, 621.82312pt x 569.12625pt>
 File: images/Architecturelogique.PNG Graphic file (type png)
 <use images/Architecturelogique.PNG>
 Package pdftex.def Info: images/Architecturelogique.PNG  used on input line 206.
 (pdftex.def)             Requested size: 369.88972pt x 256.08708pt.
 
 
-[30 <./images/Architecturelogique.PNG>]
+[31]
 Overfull \hbox (0.74992pt too wide) in paragraph at lines 214--215
 \T1/ptm/m/n/12 uti-li-sa-teur. Cette couche uti-lise Ma-te-rial UI pour main-te-nir une in-ter-face co-hé-rente et res-pon-sive. 
  []
@@ -1679,7 +1700,7 @@ Overfull \hbox (4.07495pt too wide) in paragraph at lines 218--219
 
 ) (chapitre/07-Chapitre4 Release1.tex
 
-[31]
+[32]
 Chapitre 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
@@ -1697,7 +1718,7 @@ Overfull \hbox (0.618pt too wide) in paragraph at lines 2--2
 
 )
 
-[32
+[33
 
 ]
 Overfull \hbox (1.99864pt too wide) in paragraph at lines 11--12
@@ -1709,80 +1730,80 @@ Overfull \hbox (22.10512pt too wide) in paragraph at lines 13--13
 |\T1/ptm/b/n/17.28 4.1 Sprint 1 : Au-then-ti-fi-ca-tion, ins-crip-tion, re-quêtes d'ins-crip-tion
  []
 
-[33]
-<images/authuc.png, id=1514, 1278.7775pt x 827.09pt>
+[34]
+<images/authuc.png, id=966, 1278.7775pt x 827.09pt>
 File: images/authuc.png Graphic file (type png)
 <use images/authuc.png>
 Package pdftex.def Info: images/authuc.png  used on input line 50.
 (pdftex.def)             Requested size: 284.53198pt x 170.7156pt.
 
 
-[34 <./images/authuc.png>]
-<images/inscriptionuc.png, id=1521, 717.68124pt x 467.7475pt>
+[35]
+<images/inscriptionuc.png, id=971, 2033.5975pt x 794.97pt>
 File: images/inscriptionuc.png Graphic file (type png)
 <use images/inscriptionuc.png>
 Package pdftex.def Info: images/inscriptionuc.png  used on input line 90.
-(pdftex.def)             Requested size: 341.43872pt x 227.62094pt.
+(pdftex.def)             Requested size: 341.42484pt x 227.62413pt.
 
 
-[35] [36 <./images/inscriptionuc.png>]
+[36] [37]
 Overfull \hbox (10.26723pt too wide) in paragraph at lines 129--130
 \T1/ptm/m/n/12 La fi-gure 4.3 pré-sente le dia-gramme de cas d'uti-li-sa-tion pour la ges-tion des de-mandes d'ins-crip-tion
  []
 
-<images/approveuc.png, id=1533, 1632.0975pt x 827.09pt>
+<images/approveuc.png, id=982, 1632.0975pt x 827.09pt>
 File: images/approveuc.png Graphic file (type png)
 <use images/approveuc.png>
 Package pdftex.def Info: images/approveuc.png  used on input line 133.
 (pdftex.def)             Requested size: 398.33582pt x 312.98494pt.
 
 
-[37 <./images/approveuc.png>]
-<images/profileuc.png, id=1539, 1840.8775pt x 843.15pt>
+[38]
+<images/profileuc.png, id=987, 1808.7575pt x 762.85pt>
 File: images/profileuc.png Graphic file (type png)
 <use images/profileuc.png>
 Package pdftex.def Info: images/profileuc.png  used on input line 171.
-(pdftex.def)             Requested size: 369.88245pt x 227.61494pt.
+(pdftex.def)             Requested size: 369.85931pt x 227.62291pt.
 
 
-[38]
+[39]
 
-[39 <./images/profileuc.png>]
-<images/authentifiaction.png, id=1551, 734.745pt x 581.17125pt>
+[40]
+<images/authentifiaction.png, id=999, 734.745pt x 581.17125pt>
 File: images/authentifiaction.png Graphic file (type png)
 <use images/authentifiaction.png>
 Package pdftex.def Info: images/authentifiaction.png  used on input line 210.
 (pdftex.def)             Requested size: 426.80264pt x 398.33934pt.
-<images/inscription.png, id=1552, 764.8575pt x 655.44875pt>
+<images/inscription.png, id=1000, 764.8575pt x 655.44875pt>
 File: images/inscription.png Graphic file (type png)
 <use images/inscription.png>
 Package pdftex.def Info: images/inscription.png  used on input line 217.
 (pdftex.def)             Requested size: 341.42839pt x 312.9816pt.
 
 
-[40 <./images/authentifiaction.png (PNG copy)>]
-<images/demandeseq.png, id=1558, 772.8875pt x 378.41376pt>
+[41]
+<images/demandeseq.png, id=1005, 772.8875pt x 378.41376pt>
 File: images/demandeseq.png Graphic file (type png)
 <use images/demandeseq.png>
 Package pdftex.def Info: images/demandeseq.png  used on input line 224.
 (pdftex.def)             Requested size: 341.42778pt x 227.62164pt.
-<images/profilseq.png, id=1559, 662.475pt x 553.06625pt>
+<images/profilseq.png, id=1006, 662.475pt x 553.06625pt>
 File: images/profilseq.png Graphic file (type png)
 <use images/profilseq.png>
 Package pdftex.def Info: images/profilseq.png  used on input line 231.
 (pdftex.def)             Requested size: 369.88164pt x 341.42912pt.
 
 
-[41 <./images/inscription.png (PNG copy)> <./images/demandeseq.png (PNG copy)>]
-<images/authpic.PNG, id=1564, 1028.34187pt x 481.8pt>
+[42]
+<images/authpic.PNG, id=1011, 1028.34187pt x 481.8pt>
 File: images/authpic.PNG Graphic file (type png)
 <use images/authpic.PNG>
 Package pdftex.def Info: images/authpic.PNG  used on input line 243.
 (pdftex.def)             Requested size: 455.24918pt x 284.53154pt.
 
 
-[42 <./images/profilseq.png (PNG copy)>]
-<images/inscpic.PNG, id=1569, 1012.5328pt x 475.7775pt>
+[43]
+<images/inscpic.PNG, id=1016, 1012.5328pt x 475.7775pt>
 File: images/inscpic.PNG Graphic file (type png)
 <use images/inscpic.PNG>
 Package pdftex.def Info: images/inscpic.PNG  used on input line 252.
@@ -1792,87 +1813,87 @@ Overfull \hbox (7.83151pt too wide) in paragraph at lines 258--259
 \T1/ptm/m/n/12 La fi-gure 4.11 pré-sente l'in-ter-face per-met-tant au Su-per Ad-min de gé-rer les de-mandes d'ins-crip-tion
  []
 
-<images/approvepic.PNG, id=1570, 1019.30812pt x 335.75438pt>
+<images/approvepic.PNG, id=1017, 1019.30812pt x 335.75438pt>
 File: images/approvepic.PNG Graphic file (type png)
 <use images/approvepic.PNG>
 Package pdftex.def Info: images/approvepic.PNG  used on input line 262.
 (pdftex.def)             Requested size: 426.8pt x 199.16924pt.
 
 
-[43 <./images/authpic.PNG> <./images/inscpic.PNG>]
-<images/profilepic.PNG, id=1577, 447.92343pt x 412.54124pt>
+[44]
+<images/profilepic.PNG, id=1022, 447.92343pt x 412.54124pt>
 File: images/profilepic.PNG Graphic file (type png)
 <use images/profilepic.PNG>
 Package pdftex.def Info: images/profilepic.PNG  used on input line 271.
 (pdftex.def)             Requested size: 369.89679pt x 227.62228pt.
 
 
-[44 <./images/approvepic.PNG> <./images/profilepic.PNG>] [45]
-<images/gestionuseruc.png, id=1589, 932.48375pt x 548.0475pt>
+[45] [46]
+<images/gestionuseruc.png, id=1033, 932.48375pt x 548.0475pt>
 File: images/gestionuseruc.png Graphic file (type png)
 <use images/gestionuseruc.png>
 Package pdftex.def Info: images/gestionuseruc.png  used on input line 332.
 (pdftex.def)             Requested size: 426.78499pt x 284.53476pt.
 
 
-[46] [47 <./images/gestionuseruc.png>]
-<images/gestioncompanyuc.png, id=1601, 806.01125pt x 459.7175pt>
+[47] [48]
+<images/gestioncompanyuc.png, id=1043, 806.01125pt x 459.7175pt>
 File: images/gestioncompanyuc.png Graphic file (type png)
 <use images/gestioncompanyuc.png>
 Package pdftex.def Info: images/gestioncompanyuc.png  used on input line 371.
 (pdftex.def)             Requested size: 341.42491pt x 227.6275pt.
 
 
-[48 <./images/gestioncompanyuc.png>]
-<images/gestionparamcompanyuc.png, id=1607, 806.01125pt x 459.7175pt>
+[49]
+<images/gestionparamcompanyuc.png, id=1048, 806.01125pt x 459.7175pt>
 File: images/gestionparamcompanyuc.png Graphic file (type png)
 <use images/gestionparamcompanyuc.png>
 Package pdftex.def Info: images/gestionparamcompanyuc.png  used on input line 408.
 (pdftex.def)             Requested size: 369.88417pt x 256.0862pt.
 
 
-[49] [50 <./images/gestionparamcompanyuc.png>]
-<images/taxonomyuc.png, id=1619, 902.37125pt x 483.8075pt>
+[50] [51]
+<images/taxonomyuc.png, id=1059, 902.37125pt x 483.8075pt>
 File: images/taxonomyuc.png Graphic file (type png)
 <use images/taxonomyuc.png>
 Package pdftex.def Info: images/taxonomyuc.png  used on input line 446.
 (pdftex.def)             Requested size: 426.79951pt x 284.53592pt.
- [51 <./images/taxonomyuc.png>]
-<images/createusersq.png, id=1626, 599.23875pt x 623.32875pt>
+ [52]
+<images/createusersq.png, id=1066, 599.23875pt x 623.32875pt>
 File: images/createusersq.png Graphic file (type png)
 <use images/createusersq.png>
 Package pdftex.def Info: images/createusersq.png  used on input line 487.
 (pdftex.def)             Requested size: 284.53163pt x 256.08005pt.
 
 
-[52]
-<images/consultusersq.png, id=1632, 692.5875pt x 450.68375pt>
+[53]
+<images/consultusersq.png, id=1071, 692.5875pt x 450.68375pt>
 File: images/consultusersq.png Graphic file (type png)
 <use images/consultusersq.png>
 Package pdftex.def Info: images/consultusersq.png  used on input line 494.
 (pdftex.def)             Requested size: 284.53339pt x 256.0878pt.
-<images/modifyusersq.png, id=1633, 689.57625pt x 495.8525pt>
+<images/modifyusersq.png, id=1072, 689.57625pt x 495.8525pt>
 File: images/modifyusersq.png Graphic file (type png)
 <use images/modifyusersq.png>
 Package pdftex.def Info: images/modifyusersq.png  used on input line 501.
 (pdftex.def)             Requested size: 284.52736pt x 256.07431pt.
 
 
-[53 <./images/createusersq.png (PNG copy)> <./images/consultusersq.png (PNG copy)>]
-<images/suppressionutilisateursq.png, id=1638, 687.56876pt x 571.13374pt>
+[54]
+<images/suppressionutilisateursq.png, id=1077, 687.56876pt x 571.13374pt>
 File: images/suppressionutilisateursq.png Graphic file (type png)
 <use images/suppressionutilisateursq.png>
 Package pdftex.def Info: images/suppressionutilisateursq.png  used on input line 508.
 (pdftex.def)             Requested size: 284.52788pt x 256.07533pt.
-<images/consultcompanysq.png, id=1639, 689.57625pt x 362.35374pt>
+<images/consultcompanysq.png, id=1078, 689.57625pt x 362.35374pt>
 File: images/consultcompanysq.png Graphic file (type png)
 <use images/consultcompanysq.png>
 Package pdftex.def Info: images/consultcompanysq.png  used on input line 515.
 (pdftex.def)             Requested size: 284.52736pt x 227.6261pt.
 
 
-[54 <./images/modifyusersq.png (PNG copy)> <./images/suppressionutilisateursq.png (PNG copy)>]
-<images/deletecompanysq.png, id=1644, 877.2775pt x 436.63126pt>
+[55]
+<images/deletecompanysq.png, id=1083, 877.2775pt x 436.63126pt>
 File: images/deletecompanysq.png Graphic file (type png)
 <use images/deletecompanysq.png>
 Package pdftex.def Info: images/deletecompanysq.png  used on input line 522.
@@ -1882,32 +1903,32 @@ Overfull \hbox (19.39943pt too wide) in paragraph at lines 526--526
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de consul-ta-tion des pa-ra-mètres d'en-tre-prise| 
  []
 
-<images/consultparamcompanysq.png, id=1645, 642.4pt x 261.97874pt>
+<images/consultparamcompanysq.png, id=1084, 642.4pt x 261.97874pt>
 File: images/consultparamcompanysq.png Graphic file (type png)
 <use images/consultparamcompanysq.png>
 Package pdftex.def Info: images/consultparamcompanysq.png  used on input line 529.
 (pdftex.def)             Requested size: 284.5291pt x 170.71988pt.
 
 
-[55 <./images/consultcompanysq.png (PNG copy)> <./images/deletecompanysq.png (PNG copy)>]
+[56]
 Overfull \hbox (20.73155pt too wide) in paragraph at lines 533--533
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion des pa-ra-mètres d'en-tre-prise| 
  []
 
-<images/modifyparamcompanysq.png, id=1650, 728.7225pt x 495.8525pt>
+<images/modifyparamcompanysq.png, id=1089, 728.7225pt x 495.8525pt>
 File: images/modifyparamcompanysq.png Graphic file (type png)
 <use images/modifyparamcompanysq.png>
 Package pdftex.def Info: images/modifyparamcompanysq.png  used on input line 536.
 (pdftex.def)             Requested size: 341.43216pt x 284.53038pt.
-<images/createtaxonomysq.png, id=1651, 601.24625pt x 479.7925pt>
+<images/createtaxonomysq.png, id=1090, 601.24625pt x 479.7925pt>
 File: images/createtaxonomysq.png Graphic file (type png)
 <use images/createtaxonomysq.png>
 Package pdftex.def Info: images/createtaxonomysq.png  used on input line 543.
 (pdftex.def)             Requested size: 284.53072pt x 256.07513pt.
 
 
-[56 <./images/consultparamcompanysq.png (PNG copy)> <./images/modifyparamcompanysq.png (PNG copy)>]
-<images/consulttaxonomysq.png, id=1656, 628.3475pt x 495.8525pt>
+[57]
+<images/consulttaxonomysq.png, id=1095, 628.3475pt x 495.8525pt>
 File: images/consulttaxonomysq.png Graphic file (type png)
 <use images/consulttaxonomysq.png>
 Package pdftex.def Info: images/consulttaxonomysq.png  used on input line 550.
@@ -1917,19 +1938,19 @@ Overfull \hbox (5.18005pt too wide) in paragraph at lines 554--554
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion d'élé-ment de taxo-no-mie| 
  []
 
-<images/modifytaxonomysq.png, id=1657, 670.505pt x 479.7925pt>
+<images/modifytaxonomysq.png, id=1096, 670.505pt x 479.7925pt>
 File: images/modifytaxonomysq.png Graphic file (type png)
 <use images/modifytaxonomysq.png>
 Package pdftex.def Info: images/modifytaxonomysq.png  used on input line 557.
 (pdftex.def)             Requested size: 256.07343pt x 227.6256pt.
 
 
-[57 <./images/createtaxonomysq.png (PNG copy)> <./images/consulttaxonomysq.png (PNG copy)>]
+[58]
 Overfull \hbox (1.63982pt too wide) in paragraph at lines 561--561
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de sup-pres-sion d'élé-ment de taxo-no-mie| 
  []
 
-<images/deletetaxonomysq.png, id=1662, 675.52374pt x 511.9125pt>
+<images/deletetaxonomysq.png, id=1102, 675.52374pt x 511.9125pt>
 File: images/deletetaxonomysq.png Graphic file (type png)
 <use images/deletetaxonomysq.png>
 Package pdftex.def Info: images/deletetaxonomysq.png  used on input line 564.
@@ -1939,70 +1960,70 @@ Overfull \hbox (12.80002pt too wide) in paragraph at lines 568--568
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de gé-né-ra-tion de sug-ges-tion de taxo-no-mie| 
  []
 
-<images/taxonomyaisq.png, id=1663, 754.82pt x 436.63126pt>
+<images/taxonomyaisq.png, id=1103, 754.82pt x 436.63126pt>
 File: images/taxonomyaisq.png Graphic file (type png)
 <use images/taxonomyaisq.png>
 Package pdftex.def Info: images/taxonomyaisq.png  used on input line 571.
 (pdftex.def)             Requested size: 312.97957pt x 284.52649pt.
 
 
-[58 <./images/modifytaxonomysq.png (PNG copy)> <./images/deletetaxonomysq.png (PNG copy)>]
+[59]
 Overfull \hbox (10.18222pt too wide) in paragraph at lines 579--580
 \T1/ptm/m/n/12 La fi-gure 4.24 illustre l'in-ter-face consa-crée à la ges-tion des uti-li-sa-teurs des-ti-née à l'Ad-mi-nis-tra-teur.
  []
 
-<images/adminmanageusers.PNG, id=1669, 1017.04968pt x 441.14813pt>
+<images/adminmanageusers.PNG, id=1108, 1017.04968pt x 441.14813pt>
 File: images/adminmanageusers.PNG Graphic file (type png)
 <use images/adminmanageusers.PNG>
 Package pdftex.def Info: images/adminmanageusers.PNG  used on input line 583.
 (pdftex.def)             Requested size: 398.33934pt x 256.0815pt.
 
 
-[59 <./images/taxonomyaisq.png (PNG copy)>]
-<images/createusermodal.PNG, id=1674, 1028.34187pt x 568.37344pt>
+[60]
+<images/createusermodal.PNG, id=1113, 1028.34187pt x 568.37344pt>
 File: images/createusermodal.PNG Graphic file (type png)
 <use images/createusermodal.PNG>
 Package pdftex.def Info: images/createusermodal.PNG  used on input line 592.
 (pdftex.def)             Requested size: 398.33714pt x 256.08658pt.
-<images/editusermodal.PNG, id=1675, 1026.83624pt x 572.1375pt>
+<images/editusermodal.PNG, id=1114, 1026.83624pt x 572.1375pt>
 File: images/editusermodal.PNG Graphic file (type png)
 <use images/editusermodal.PNG>
 Package pdftex.def Info: images/editusermodal.PNG  used on input line 601.
 (pdftex.def)             Requested size: 398.33365pt x 227.62pt.
 
 
-[60 <./images/adminmanageusers.PNG> <./images/createusermodal.PNG>]
-<images/superadminmanageusers.PNG, id=1682, 1017.8025pt x 578.16pt>
+[61]
+<images/superadminmanageusers.PNG, id=1119, 1017.8025pt x 578.16pt>
 File: images/superadminmanageusers.PNG Graphic file (type png)
 <use images/superadminmanageusers.PNG>
 Package pdftex.def Info: images/superadminmanageusers.PNG  used on input line 610.
 (pdftex.def)             Requested size: 369.88744pt x 227.61641pt.
-<images/gestionentreprises.PNG, id=1683, 1015.54407pt x 560.8453pt>
+<images/gestionentreprises.PNG, id=1120, 1015.54407pt x 560.8453pt>
 File: images/gestionentreprises.PNG Graphic file (type png)
 <use images/gestionentreprises.PNG>
 Package pdftex.def Info: images/gestionentreprises.PNG  used on input line 619.
 (pdftex.def)             Requested size: 369.88795pt x 199.16565pt.
 
 
-[61 <./images/editusermodal.PNG> <./images/superadminmanageusers.PNG>]
+[62]
 Overfull \hbox (1.53108pt too wide) in paragraph at lines 625--626
 \T1/ptm/m/n/12 La fi-gure 4.30 pré-sente l'in-ter-face des pa-ra-mètres d'en-tre-prise per-met-tant à l'Ad-min de consul-ter
  []
 
-<images/parametresentreprise.PNG, id=1690, 938.75719pt x 575.90157pt>
+<images/parametresentreprise.PNG, id=1125, 938.75719pt x 575.90157pt>
 File: images/parametresentreprise.PNG Graphic file (type png)
 <use images/parametresentreprise.PNG>
 Package pdftex.def Info: images/parametresentreprise.PNG  used on input line 629.
 (pdftex.def)             Requested size: 369.8811pt x 199.16957pt.
-<images/gestiontaxonomy.PNG, id=1691, 1016.29688pt x 441.14813pt>
+<images/gestiontaxonomy.PNG, id=1126, 1016.29688pt x 441.14813pt>
 File: images/gestiontaxonomy.PNG Graphic file (type png)
 <use images/gestiontaxonomy.PNG>
 Package pdftex.def Info: images/gestiontaxonomy.PNG  used on input line 638.
 (pdftex.def)             Requested size: 398.33914pt x 199.16776pt.
 
 
-[62 <./images/gestionentreprises.PNG> <./images/parametresentreprise.PNG>]
-<images/suggestiontaxonomy.PNG, id=1698, 1015.54407pt x 514.17094pt>
+[63]
+<images/suggestiontaxonomy.PNG, id=1131, 1015.54407pt x 514.17094pt>
 File: images/suggestiontaxonomy.PNG Graphic file (type png)
 <use images/suggestiontaxonomy.PNG>
 Package pdftex.def Info: images/suggestiontaxonomy.PNG  used on input line 647.
@@ -2014,9 +2035,9 @@ Overfull \hbox (19.02672pt too wide) in paragraph at lines 653--1
 
 
 
-[63 <./images/gestiontaxonomy.PNG> <./images/suggestiontaxonomy.PNG>]
-
 [64]
+
+[65]
 Chapitre 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
@@ -2039,7 +2060,7 @@ Overfull \hbox (24.558pt too wide) in paragraph at lines 38--38
 
 )
 
-[65
+[66
 
 ]
 Overfull \hbox (7.13452pt too wide) in paragraph at lines 11--12
@@ -2056,60 +2077,60 @@ Overfull \hbox (50.60023pt too wide) in paragraph at lines 13--13
 |\T1/ptm/b/n/17.28 5.1 Sprint 1 : Ges-tion des plans d'abon-ne-ment, textes ré-gle-men-taires,
  []
 
-[66] [67]
-<images/plansubscriptionuc.png, id=1735, 886.31125pt x 499.8675pt>
+[67] [68]
+<images/plansubscriptionuc.png, id=1166, 1696.3375pt x 891.33pt>
 File: images/plansubscriptionuc.png Graphic file (type png)
 <use images/plansubscriptionuc.png>
 Package pdftex.def Info: images/plansubscriptionuc.png  used on input line 81.
-(pdftex.def)             Requested size: 341.4405pt x 227.62312pt.
+(pdftex.def)             Requested size: 341.43575pt x 227.61935pt.
 
 
-[68] [69 <./images/plansubscriptionuc.png>]
+[69] [70]
 Overfull \hbox (24.931pt too wide) in paragraph at lines 117--118
 \T1/ptm/m/n/12 La fi-gure 4.2 pré-sente le dia-gramme de cas d'uti-li-sa-tion dé-taillé pour la sous-crip-tion aux abon-ne-ments
  []
 
-<images/subscribeuc.png, id=1746, 773.89125pt x 315.1775pt>
+<images/subscribeuc.png, id=1177, 773.89125pt x 315.1775pt>
 File: images/subscribeuc.png Graphic file (type png)
 <use images/subscribeuc.png>
 Package pdftex.def Info: images/subscribeuc.png  used on input line 121.
 (pdftex.def)             Requested size: 312.97551pt x 199.16882pt.
 
 
-[70 <./images/subscribeuc.png>]
-<images/textsuc.png, id=1753, 717.68124pt x 411.5375pt>
+[71]
+<images/textsuc.png, id=1182, 1375.1375pt x 762.85pt>
 File: images/textsuc.png Graphic file (type png)
 <use images/textsuc.png>
 Package pdftex.def Info: images/textsuc.png  used on input line 164.
-(pdftex.def)             Requested size: 341.43872pt x 227.62108pt.
+(pdftex.def)             Requested size: 341.43344pt x 227.62291pt.
 
 
-[71] [72 <./images/textsuc.png>]
-<images/complianceuc.png, id=1765, 870.25125pt x 395.4775pt>
+[72] [73]
+<images/complianceuc.png, id=1193, 1680.2775pt x 730.73pt>
 File: images/complianceuc.png Graphic file (type png)
 <use images/complianceuc.png>
 Package pdftex.def Info: images/complianceuc.png  used on input line 205.
-(pdftex.def)             Requested size: 369.89836pt x 256.07974pt.
+(pdftex.def)             Requested size: 369.86731pt x 256.07153pt.
 
 
-[73 <./images/complianceuc.png>]
-<images/actionplansuc.png, id=1771, 1503.6175pt x 955.57pt>
+[74]
+<images/actionplansuc.png, id=1198, 1503.6175pt x 955.57pt>
 File: images/actionplansuc.png Graphic file (type png)
 <use images/actionplansuc.png>
 Package pdftex.def Info: images/actionplansuc.png  used on input line 244.
 (pdftex.def)             Requested size: 398.34203pt x 284.51524pt.
 
 
-[74] [75 <./images/actionplansuc.png>]
-<images/createplanseq.png, id=1783, 799.98875pt x 494.84875pt>
+[75] [76]
+<images/createplanseq.png, id=1210, 799.98875pt x 494.84875pt>
 File: images/createplanseq.png Graphic file (type png)
 <use images/createplanseq.png>
 Package pdftex.def Info: images/createplanseq.png  used on input line 289.
 (pdftex.def)             Requested size: 284.52899pt x 256.0694pt.
 
 
-[76]
-<images/consultplanseq.png, id=1789, 706.64pt x 379.4175pt>
+[77]
+<images/consultplanseq.png, id=1215, 706.64pt x 379.4175pt>
 File: images/consultplanseq.png Graphic file (type png)
 <use images/consultplanseq.png>
 Package pdftex.def Info: images/consultplanseq.png  used on input line 296.
@@ -2119,32 +2140,32 @@ Overfull \hbox (3.89597pt too wide) in paragraph at lines 300--300
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion d'un plan d'abon-ne-ment| 
  []
 
-<images/modifyplanseq.png, id=1790, 633.36626pt x 420.57124pt>
+<images/modifyplanseq.png, id=1216, 633.36626pt x 420.57124pt>
 File: images/modifyplanseq.png Graphic file (type png)
 <use images/modifyplanseq.png>
 Package pdftex.def Info: images/modifyplanseq.png  used on input line 303.
 (pdftex.def)             Requested size: 284.52896pt x 256.0732pt.
 
 
-[77 <./images/createplanseq.png (PNG copy)> <./images/consultplanseq.png (PNG copy)>]
+[78]
 Overfull \hbox (0.35573pt too wide) in paragraph at lines 307--307
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de sup-pres-sion d'un plan d'abon-ne-ment| 
  []
 
-<images/deleteplanseq.png, id=1795, 681.54625pt x 453.695pt>
+<images/deleteplanseq.png, id=1221, 681.54625pt x 453.695pt>
 File: images/deleteplanseq.png Graphic file (type png)
 <use images/deleteplanseq.png>
 Package pdftex.def Info: images/deleteplanseq.png  used on input line 310.
 (pdftex.def)             Requested size: 284.53154pt x 256.07509pt.
-<images/subscribeseq.png, id=1796, 637.38126pt x 524.96124pt>
+<images/subscribeseq.png, id=1222, 637.38126pt x 524.96124pt>
 File: images/subscribeseq.png Graphic file (type png)
 <use images/subscribeseq.png>
 Package pdftex.def Info: images/subscribeseq.png  used on input line 317.
 (pdftex.def)             Requested size: 284.52367pt x 256.07977pt.
 
 
-[78 <./images/modifyplanseq.png (PNG copy)> <./images/deleteplanseq.png (PNG copy)>]
-<images/createtextseq.png, id=1801, 639.38875pt x 822.07124pt>
+[79]
+<images/createtextseq.png, id=1227, 639.38875pt x 822.07124pt>
 File: images/createtextseq.png Graphic file (type png)
 <use images/createtextseq.png>
 Package pdftex.def Info: images/createtextseq.png  used on input line 324.
@@ -2154,7 +2175,7 @@ Overfull \hbox (3.60754pt too wide) in paragraph at lines 328--328
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de consul-ta-tion des textes ré-gle-men-taires| 
  []
 
-<images/consulttextseq.png, id=1802, 675.52374pt x 554.07pt>
+<images/consulttextseq.png, id=1228, 675.52374pt x 554.07pt>
 File: images/consulttextseq.png Graphic file (type png)
 <use images/consulttextseq.png>
 Package pdftex.def Info: images/consulttextseq.png  used on input line 331.
@@ -2166,12 +2187,12 @@ Underfull \hbox (badness 2547) in paragraph at lines 332--332
 
 
 
-[79 <./images/subscribeseq.png (PNG copy)> <./images/createtextseq.png (PNG copy)>]
+[80]
 Overfull \hbox (2.9479pt too wide) in paragraph at lines 335--335
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion d'un texte ré-gle-men-taire| 
  []
 
-<images/modifytextseq.png, id=1807, 803.0pt x 864.22874pt>
+<images/modifytextseq.png, id=1233, 803.0pt x 864.22874pt>
 File: images/modifytextseq.png Graphic file (type png)
 <use images/modifytextseq.png>
 Package pdftex.def Info: images/modifytextseq.png  used on input line 338.
@@ -2186,88 +2207,88 @@ Overfull \hbox (5.40767pt too wide) in paragraph at lines 342--342
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de sup-pres-sion d'un texte ré-gle-men-taire| 
  []
 
-<images/deletetextseq.png, id=1808, 624.3325pt x 773.89125pt>
+<images/deletetextseq.png, id=1234, 624.3325pt x 773.89125pt>
 File: images/deletetextseq.png Graphic file (type png)
 <use images/deletetextseq.png>
 Package pdftex.def Info: images/deletetextseq.png  used on input line 345.
 (pdftex.def)             Requested size: 284.529pt x 256.0698pt.
 
 
-[80 <./images/consulttextseq.png (PNG copy)> <./images/modifytextseq.png (PNG copy)>]
-<images/complianceseq.png, id=1813, 663.47874pt x 538.01pt>
+[81]
+<images/complianceseq.png, id=1239, 663.47874pt x 538.01pt>
 File: images/complianceseq.png Graphic file (type png)
 <use images/complianceseq.png>
 Package pdftex.def Info: images/complianceseq.png  used on input line 352.
 (pdftex.def)             Requested size: 284.531pt x 256.07458pt.
-<images/createactionseq.png, id=1814, 673.51625pt x 596.2275pt>
+<images/createactionseq.png, id=1240, 673.51625pt x 596.2275pt>
 File: images/createactionseq.png Graphic file (type png)
 <use images/createactionseq.png>
 Package pdftex.def Info: images/createactionseq.png  used on input line 359.
 (pdftex.def)             Requested size: 284.5295pt x 256.0726pt.
 
 
-[81 <./images/deletetextseq.png (PNG copy)> <./images/complianceseq.png (PNG copy)>]
-<images/consultactionseq.png, id=1819, 900.36375pt x 600.2425pt>
+[82]
+<images/consultactionseq.png, id=1246, 900.36375pt x 600.2425pt>
 File: images/consultactionseq.png Graphic file (type png)
 <use images/consultactionseq.png>
 Package pdftex.def Info: images/consultactionseq.png  used on input line 366.
 (pdftex.def)             Requested size: 284.52281pt x 256.08427pt.
-<images/modifyactionseq.png, id=1820, 673.51625pt x 610.28pt>
+<images/modifyactionseq.png, id=1247, 673.51625pt x 610.28pt>
 File: images/modifyactionseq.png Graphic file (type png)
 <use images/modifyactionseq.png>
 Package pdftex.def Info: images/modifyactionseq.png  used on input line 373.
 (pdftex.def)             Requested size: 284.5295pt x 256.08304pt.
 
 
-[82 <./images/createactionseq.png (PNG copy)> <./images/consultactionseq.png (PNG copy)>]
-<images/deleteactionseq.png, id=1826, 694.595pt x 495.8525pt>
+[83]
+<images/deleteactionseq.png, id=1252, 694.595pt x 495.8525pt>
 File: images/deleteactionseq.png Graphic file (type png)
 <use images/deleteactionseq.png>
 Package pdftex.def Info: images/deleteactionseq.png  used on input line 380.
 (pdftex.def)             Requested size: 284.53142pt x 256.07431pt.
-<images/aiconseilseq.png, id=1827, 800.9925pt x 362.35374pt>
+<images/aiconseilseq.png, id=1253, 800.9925pt x 362.35374pt>
 File: images/aiconseilseq.png Graphic file (type png)
 <use images/aiconseilseq.png>
 Package pdftex.def Info: images/aiconseilseq.png  used on input line 386.
 (pdftex.def)             Requested size: 369.891pt x 284.53125pt.
 
 
-[83 <./images/modifyactionseq.png (PNG copy)> <./images/deleteactionseq.png (PNG copy)>]
-<images/gestionplansinterface.PNG, id=1832, 617.30624pt x 575.90157pt>
+[84]
+<images/gestionplansinterface.PNG, id=1258, 617.30624pt x 575.90157pt>
 File: images/gestionplansinterface.PNG Graphic file (type png)
 <use images/gestionplansinterface.PNG>
 Package pdftex.def Info: images/gestionplansinterface.PNG  used on input line 398.
 (pdftex.def)             Requested size: 369.89679pt x 256.07767pt.
 
 
-[84 <./images/aiconseilseq.png (PNG copy)>]
-<images/createplanmodal.PNG, id=1837, 829.59938pt x 554.82281pt>
+[85]
+<images/createplanmodal.PNG, id=1263, 829.59938pt x 554.82281pt>
 File: images/createplanmodal.PNG Graphic file (type png)
 <use images/createplanmodal.PNG>
 Package pdftex.def Info: images/createplanmodal.PNG  used on input line 407.
 (pdftex.def)             Requested size: 369.88579pt x 256.07664pt.
-<images/subscriptioninterface.PNG, id=1838, 465.99094pt x 478.78876pt>
+<images/subscriptioninterface.PNG, id=1264, 465.99094pt x 478.78876pt>
 File: images/subscriptioninterface.PNG Graphic file (type png)
 <use images/subscriptioninterface.PNG>
 Package pdftex.def Info: images/subscriptioninterface.PNG  used on input line 416.
 (pdftex.def)             Requested size: 312.98734pt x 227.62427pt.
 
 
-[85 <./images/gestionplansinterface.PNG> <./images/createplanmodal.PNG>]
-<images/textsinterface.PNG, id=1845, 1013.28563pt x 447.92343pt>
+[86]
+<images/textsinterface.PNG, id=1269, 1013.28563pt x 447.92343pt>
 File: images/textsinterface.PNG Graphic file (type png)
 <use images/textsinterface.PNG>
 Package pdftex.def Info: images/textsinterface.PNG  used on input line 425.
 (pdftex.def)             Requested size: 341.42027pt x 199.16467pt.
-<images/createtextmodal.PNG, id=1846, 1013.28563pt x 572.1375pt>
+<images/createtextmodal.PNG, id=1270, 1013.28563pt x 572.1375pt>
 File: images/createtextmodal.PNG Graphic file (type png)
 <use images/createtextmodal.PNG>
 Package pdftex.def Info: images/createtextmodal.PNG  used on input line 434.
 (pdftex.def)             Requested size: 341.42027pt x 199.16858pt.
 
 
-[86 <./images/subscriptioninterface.PNG> <./images/textsinterface.PNG>]
-<images/complianceinterface.PNG, id=1853, 1012.5328pt x 546.54187pt>
+[87]
+<images/complianceinterface.PNG, id=1275, 1012.5328pt x 546.54187pt>
 File: images/complianceinterface.PNG Graphic file (type png)
 <use images/complianceinterface.PNG>
 Package pdftex.def Info: images/complianceinterface.PNG  used on input line 443.
@@ -2277,28 +2298,28 @@ Overfull \hbox (6.25957pt too wide) in paragraph at lines 448--449
 \T1/ptm/m/n/12 La fi-gure 4.15 pré-sente l'in-ter-face d'éva-lua-tion des exi-gences d'un texte ré-gle-men-taire spé-ci-fique. 
  []
 
-<images/requirementevaluation.PNG, id=1854, 1006.51031pt x 578.16pt>
+<images/requirementevaluation.PNG, id=1276, 1006.51031pt x 578.16pt>
 File: images/requirementevaluation.PNG Graphic file (type png)
 <use images/requirementevaluation.PNG>
 Package pdftex.def Info: images/requirementevaluation.PNG  used on input line 452.
 (pdftex.def)             Requested size: 369.88426pt x 227.61641pt.
 
 
-[87 <./images/createtextmodal.PNG> <./images/complianceinterface.PNG>]
-<images/actionplansinterface.PNG, id=1861, 931.22906pt x 554.07pt>
+[88]
+<images/actionplansinterface.PNG, id=1282, 931.22906pt x 554.07pt>
 File: images/actionplansinterface.PNG Graphic file (type png)
 <use images/actionplansinterface.PNG>
 Package pdftex.def Info: images/actionplansinterface.PNG  used on input line 461.
 (pdftex.def)             Requested size: 369.8847pt x 227.61826pt.
-<images/createactionmodal.PNG, id=1862, 1012.5328pt x 561.59813pt>
+<images/createactionmodal.PNG, id=1283, 1012.5328pt x 561.59813pt>
 File: images/createactionmodal.PNG Graphic file (type png)
 <use images/createactionmodal.PNG>
 Package pdftex.def Info: images/createactionmodal.PNG  used on input line 470.
 (pdftex.def)             Requested size: 369.88812pt x 199.16734pt.
 
 
-[88 <./images/requirementevaluation.PNG> <./images/actionplansinterface.PNG>]
-<images/actionplanaiconseil.png, id=1870, 1312.905pt x 758.835pt>
+[89]
+<images/actionplanaiconseil.png, id=1288, 1312.905pt x 758.835pt>
 File: images/actionplanaiconseil.png Graphic file (type png)
 <use images/actionplanaiconseil.png>
 Package pdftex.def Info: images/actionplanaiconseil.png  used on input line 479.
@@ -2310,75 +2331,75 @@ Overfull \hbox (21.19849pt too wide) in paragraph at lines 486--487
 
 
 
-[89 <./images/createactionmodal.PNG> <./images/actionplanaiconseil.png>] [90]
-<images/revuedirectionuc.png, id=1881, 894.34125pt x 419.5675pt>
+[90] [91]
+<images/revuedirectionuc.png, id=1298, 894.34125pt x 419.5675pt>
 File: images/revuedirectionuc.png Graphic file (type png)
 <use images/revuedirectionuc.png>
 Package pdftex.def Info: images/revuedirectionuc.png  used on input line 527.
 (pdftex.def)             Requested size: 312.98318pt x 199.16858pt.
 
 
-[91]
+[92]
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 557.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 557.
- [92 <./images/revuedirectionuc.png>]
+ [93]
 Overfull \hbox (0.21165pt too wide) in paragraph at lines 562--562
 |[]\T1/ptm/b/n/12 Diagramme de cas d'uti-li-sa-tion dé-taillé de la par-ti-ci-pa-tion aux re-vues de di-rec-tion| 
  []
 
-<images/participationrevueuc.png, id=1892, 1214.5375pt x 1003.75pt>
+<images/participationrevueuc.png, id=1308, 1214.5375pt x 1003.75pt>
 File: images/participationrevueuc.png Graphic file (type png)
 <use images/participationrevueuc.png>
 Package pdftex.def Info: images/participationrevueuc.png  used on input line 567.
 (pdftex.def)             Requested size: 312.97392pt x 199.1689pt.
 
 
-[93 <./images/participationrevueuc.png>] [94]
+[94] [95]
 Overfull \hbox (4.61491pt too wide) in paragraph at lines 602--603
 \T1/ptm/m/n/12 La fi-gure 4.23 pré-sente le dia-gramme de cas d'uti-li-sa-tion dé-taillé pour la ges-tion des no-ti-fi-ca-tions. 
  []
 
-<images/notificationsuc.png, id=1905, 1519.6775pt x 698.61pt>
+<images/notificationsuc.png, id=1320, 1519.6775pt x 698.61pt>
 File: images/notificationsuc.png Graphic file (type png)
 <use images/notificationsuc.png>
 Package pdftex.def Info: images/notificationsuc.png  used on input line 606.
 (pdftex.def)             Requested size: 341.42574pt x 227.62119pt.
-[95 <./images/notificationsuc.png>]
+[96]
 Overfull \hbox (19.93878pt too wide) in paragraph at lines 638--639
 \T1/ptm/m/n/12 La fi-gure 4.24 pré-sente le dia-gramme de cas d'uti-li-sa-tion dé-taillé pour la consul-ta-tion de l'his-to-rique. 
  []
 
-<images/historyuc.png, id=1912, 1174.3875pt x 570.13pt>
+<images/historyuc.png, id=1326, 1174.3875pt x 570.13pt>
 File: images/historyuc.png Graphic file (type png)
 <use images/historyuc.png>
 Package pdftex.def Info: images/historyuc.png  used on input line 642.
 (pdftex.def)             Requested size: 341.4238pt x 227.62169pt.
-[96 <./images/historyuc.png>]
-<images/statisticsuc.png, id=1919, 1616.0375pt x 875.27pt>
+[97]
+<images/statisticsuc.png, id=1332, 1616.0375pt x 875.27pt>
 File: images/statisticsuc.png Graphic file (type png)
 <use images/statisticsuc.png>
 Package pdftex.def Info: images/statisticsuc.png  used on input line 677.
 (pdftex.def)             Requested size: 341.42456pt x 227.61826pt.
 
 
-[97 <./images/statisticsuc.png>]
+[98]
 Overfull \hbox (14.29875pt too wide) in paragraph at lines 709--710
 \T1/ptm/m/n/12 sé-quence cor-res-pon-dant à cette étape, afin de re-pré-sen-ter clai-re-ment le dé-rou-le-ment des in-ter-ac-tions
  []
 
-<images/createrevueseq.png, id=1925, 634.37pt x 538.01pt>
+<images/createrevueseq.png, id=1337, 634.37pt x 538.01pt>
 File: images/createrevueseq.png Graphic file (type png)
 <use images/createrevueseq.png>
 Package pdftex.def Info: images/createrevueseq.png  used on input line 715.
 (pdftex.def)             Requested size: 284.5346pt x 256.07458pt.
 
 
-[98]
-<images/consultrevueseq.png, id=1931, 636.3775pt x 436.63126pt>
+[99]
+<images/consultrevueseq.png, id=1343, 636.3775pt x 436.63126pt>
 File: images/consultrevueseq.png Graphic file (type png)
 <use images/consultrevueseq.png>
 Package pdftex.def Info: images/consultrevueseq.png  used on input line 722.
@@ -2388,144 +2409,144 @@ Overfull \hbox (0.86002pt too wide) in paragraph at lines 726--726
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de mo-di-fi-ca-tion d'une re-vue de di-rec-tion| 
  []
 
-<images/modifyrevueseq.png, id=1932, 616.3025pt x 420.57124pt>
+<images/modifyrevueseq.png, id=1344, 616.3025pt x 420.57124pt>
 File: images/modifyrevueseq.png Graphic file (type png)
 <use images/modifyrevueseq.png>
 Package pdftex.def Info: images/modifyrevueseq.png  used on input line 729.
 (pdftex.def)             Requested size: 284.52762pt x 256.0732pt.
 
 
-[99 <./images/createrevueseq.png (PNG copy)> <./images/consultrevueseq.png (PNG copy)>]
-<images/deleterevueseq.png, id=1937, 667.49374pt x 378.41376pt>
+[100]
+<images/deleterevueseq.png, id=1350, 667.49374pt x 378.41376pt>
 File: images/deleterevueseq.png Graphic file (type png)
 <use images/deleterevueseq.png>
 Package pdftex.def Info: images/deleterevueseq.png  used on input line 736.
 (pdftex.def)             Requested size: 284.53156pt x 256.0765pt.
-<images/changestatusrevueseq.png, id=1938, 725.71124pt x 395.4775pt>
+<images/changestatusrevueseq.png, id=1351, 725.71124pt x 395.4775pt>
 File: images/changestatusrevueseq.png Graphic file (type png)
 <use images/changestatusrevueseq.png>
 Package pdftex.def Info: images/changestatusrevueseq.png  used on input line 743.
 (pdftex.def)             Requested size: 256.07347pt x 256.07974pt.
 
 
-[100 <./images/modifyrevueseq.png (PNG copy)> <./images/deleterevueseq.png (PNG copy)>]
-<images/consultelementrevueseq.png, id=1944, 918.43124pt x 320.19624pt>
+[101]
+<images/consultelementrevueseq.png, id=1356, 918.43124pt x 320.19624pt>
 File: images/consultelementrevueseq.png Graphic file (type png)
 <use images/consultelementrevueseq.png>
 Package pdftex.def Info: images/consultelementrevueseq.png  used on input line 750.
 (pdftex.def)             Requested size: 284.52856pt x 199.16942pt.
-<images/addelementrevueseq.png, id=1945, 643.40375pt x 495.8525pt>
+<images/addelementrevueseq.png, id=1357, 643.40375pt x 495.8525pt>
 File: images/addelementrevueseq.png Graphic file (type png)
 <use images/addelementrevueseq.png>
 Package pdftex.def Info: images/addelementrevueseq.png  used on input line 757.
 (pdftex.def)             Requested size: 284.53188pt x 256.07431pt.
 
 
-[101 <./images/changestatusrevueseq.png (PNG copy)> <./images/consultelementrevueseq.png (PNG copy)>]
-<images/modifyelementrevueseq.png, id=1950, 721.69624pt x 453.695pt>
+[102]
+<images/modifyelementrevueseq.png, id=1362, 721.69624pt x 453.695pt>
 File: images/modifyelementrevueseq.png Graphic file (type png)
 <use images/modifyelementrevueseq.png>
 Package pdftex.def Info: images/modifyelementrevueseq.png  used on input line 764.
 (pdftex.def)             Requested size: 284.52179pt x 256.07509pt.
-<images/deleteelementrevueseq.png, id=1951, 718.685pt x 453.695pt>
+<images/deleteelementrevueseq.png, id=1363, 718.685pt x 453.695pt>
 File: images/deleteelementrevueseq.png Graphic file (type png)
 <use images/deleteelementrevueseq.png>
 Package pdftex.def Info: images/deleteelementrevueseq.png  used on input line 771.
 (pdftex.def)             Requested size: 284.52995pt x 256.07509pt.
 
 
-[102 <./images/addelementrevueseq.png (PNG copy)> <./images/modifyelementrevueseq.png (PNG copy)>]
-<images/generatepdfrevueseq.png, id=1956, 749.80125pt x 437.635pt>
+[103]
+<images/generatepdfrevueseq.png, id=1368, 749.80125pt x 437.635pt>
 File: images/generatepdfrevueseq.png Graphic file (type png)
 <use images/generatepdfrevueseq.png>
 Package pdftex.def Info: images/generatepdfrevueseq.png  used on input line 778.
 (pdftex.def)             Requested size: 284.527pt x 256.07887pt.
-<images/consultnotificationsseq.png, id=1957, 594.22pt x 639.38875pt>
+<images/consultnotificationsseq.png, id=1369, 594.22pt x 639.38875pt>
 File: images/consultnotificationsseq.png Graphic file (type png)
 <use images/consultnotificationsseq.png>
 Package pdftex.def Info: images/consultnotificationsseq.png  used on input line 786.
 (pdftex.def)             Requested size: 284.54233pt x 256.07292pt.
 
 
-[103 <./images/deleteelementrevueseq.png (PNG copy)> <./images/generatepdfrevueseq.png (PNG copy)>]
-<images/markallreadseq.png, id=1962, 666.49pt x 349.305pt>
+[104]
+<images/markallreadseq.png, id=1374, 666.49pt x 349.305pt>
 File: images/markallreadseq.png Graphic file (type png)
 <use images/markallreadseq.png>
 Package pdftex.def Info: images/markallreadseq.png  used on input line 793.
 (pdftex.def)             Requested size: 284.5308pt x 227.62651pt.
-<images/consulthistoryseq.png, id=1963, 552.0625pt x 609.27625pt>
+<images/consulthistoryseq.png, id=1375, 552.0625pt x 609.27625pt>
 File: images/consulthistoryseq.png Graphic file (type png)
 <use images/consulthistoryseq.png>
 Package pdftex.def Info: images/consulthistoryseq.png  used on input line 800.
 (pdftex.def)             Requested size: 284.53859pt x 256.0802pt.
 
 
-[104 <./images/consultnotificationsseq.png (PNG copy)> <./images/markallreadseq.png (PNG copy)>]
+[105]
 Overfull \hbox (3.2113pt too wide) in paragraph at lines 805--805
 |[]\T1/ptm/b/n/12 Diagramme de sé-quence pour le scé-na-rio de consul-ta-tion des sta-tis-tiques glo-bales| 
  []
 
-<images/consultglobalstatsseq.png, id=1968, 714.67pt x 341.275pt>
+<images/consultglobalstatsseq.png, id=1380, 714.67pt x 341.275pt>
 File: images/consultglobalstatsseq.png Graphic file (type png)
 <use images/consultglobalstatsseq.png>
 Package pdftex.def Info: images/consultglobalstatsseq.png  used on input line 808.
 (pdftex.def)             Requested size: 256.07054pt x 227.62718pt.
-<images/consultcompliancestatsseq.png, id=1969, 588.1975pt x 399.4925pt>
+<images/consultcompliancestatsseq.png, id=1381, 588.1975pt x 399.4925pt>
 File: images/consultcompliancestatsseq.png Graphic file (type png)
 <use images/consultcompliancestatsseq.png>
 Package pdftex.def Info: images/consultcompliancestatsseq.png  used on input line 815.
 (pdftex.def)             Requested size: 284.5305pt x 256.08884pt.
 
 
-[105 <./images/consulthistoryseq.png (PNG copy)> <./images/consultglobalstatsseq.png (PNG copy)>]
-<images/revuedirectioninterface.PNG, id=1974, 1008.01593pt x 575.14874pt>
+[106]
+<images/revuedirectioninterface.PNG, id=1387, 1008.01593pt x 575.14874pt>
 File: images/revuedirectioninterface.PNG Graphic file (type png)
 <use images/revuedirectioninterface.PNG>
 Package pdftex.def Info: images/revuedirectioninterface.PNG  used on input line 827.
 (pdftex.def)             Requested size: 398.3388pt x 256.07642pt.
 
 
-[106 <./images/consultcompliancestatsseq.png (PNG copy)>]
-<images/createrevuemodal.PNG, id=1980, 1014.03844pt x 475.7775pt>
+[107]
+<images/createrevuemodal.PNG, id=1392, 1014.03844pt x 475.7775pt>
 File: images/createrevuemodal.PNG Graphic file (type png)
 <use images/createrevuemodal.PNG>
 Package pdftex.def Info: images/createrevuemodal.PNG  used on input line 836.
 (pdftex.def)             Requested size: 398.33589pt x 256.0884pt.
-<images/revuedetails.PNG, id=1981, 1017.04968pt x 578.16pt>
+<images/revuedetails.PNG, id=1393, 1017.04968pt x 578.16pt>
 File: images/revuedetails.PNG Graphic file (type png)
 <use images/revuedetails.PNG>
 Package pdftex.def Info: images/revuedetails.PNG  used on input line 845.
 (pdftex.def)             Requested size: 369.87766pt x 227.61641pt.
 
 
-[107 <./images/revuedirectioninterface.PNG> <./images/createrevuemodal.PNG>]
-<images/addelementmodal.PNG, id=1988, 1013.28563pt x 578.16pt>
+[108]
+<images/addelementmodal.PNG, id=1398, 1013.28563pt x 578.16pt>
 File: images/addelementmodal.PNG Graphic file (type png)
 <use images/addelementmodal.PNG>
 Package pdftex.def Info: images/addelementmodal.PNG  used on input line 854.
 (pdftex.def)             Requested size: 369.88484pt x 199.16547pt.
-<images/notificationsdropdown.PNG, id=1989, 274.77657pt x 345.54094pt>
+<images/notificationsdropdown.PNG, id=1399, 274.77657pt x 345.54094pt>
 File: images/notificationsdropdown.PNG Graphic file (type png)
 <use images/notificationsdropdown.PNG>
 Package pdftex.def Info: images/notificationsdropdown.PNG  used on input line 863.
 (pdftex.def)             Requested size: 284.55336pt x 170.71902pt.
 
 
-[108 <./images/revuedetails.PNG> <./images/addelementmodal.PNG>]
-<images/historyinterface.PNG, id=1996, 1016.29688pt x 557.83406pt>
+[109]
+<images/historyinterface.PNG, id=1404, 1016.29688pt x 557.83406pt>
 File: images/historyinterface.PNG Graphic file (type png)
 <use images/historyinterface.PNG>
 Package pdftex.def Info: images/historyinterface.PNG  used on input line 872.
 (pdftex.def)             Requested size: 398.33914pt x 256.07904pt.
-<images/globalstatsinterface.PNG, id=1997, 854.44218pt x 514.17094pt>
+<images/globalstatsinterface.PNG, id=1405, 854.44218pt x 514.17094pt>
 File: images/globalstatsinterface.PNG Graphic file (type png)
 <use images/globalstatsinterface.PNG>
 Package pdftex.def Info: images/globalstatsinterface.PNG  used on input line 881.
 (pdftex.def)             Requested size: 341.43184pt x 199.16856pt.
 
 
-[109 <./images/notificationsdropdown.PNG> <./images/historyinterface.PNG>]
-<images/compliancestatsinterface.PNG, id=2004, 859.71187pt x 572.1375pt>
+[110]
+<images/compliancestatsinterface.PNG, id=1410, 859.71187pt x 572.1375pt>
 File: images/compliancestatsinterface.PNG Graphic file (type png)
 <use images/compliancestatsinterface.PNG>
 Package pdftex.def Info: images/compliancestatsinterface.PNG  used on input line 890.
@@ -2537,9 +2558,9 @@ Overfull \hbox (15.33063pt too wide) in paragraph at lines 896--1
 
 
 
-[110 <./images/globalstatsinterface.PNG> <./images/compliancestatsinterface.PNG>]
-
 [111]
+
+[112]
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
 
  []
@@ -2549,26 +2570,20 @@ Overfull \hbox (9.24602pt too wide) in paragraph at lines 9--9
 []\T1/ptm/m/n/12 L'application "Prévention-Plus" re-pré-sente une so-lu-tion com-plète pour les bu-reaux de conseil
  []
 
-
-Overfull \hbox (1.47128pt too wide) in paragraph at lines 19--19
-[]\T1/ptm/m/n/12 Enfin, nous sou-hai-tons ex-pri-mer notre pro-fonde gra-ti-tude en-vers tous ceux qui ont contri-bué
- []
-
-
-Overfull \hbox (18.28299pt too wide) in paragraph at lines 19--19
-\T1/ptm/m/n/12 di-recte. Nous sommes en-thou-siastes à l'idée de voir l'ave-nir de "Prévention-Plus" et les op-por-tu-ni-tés
- []
-
 ) (chapitre/10-Bibliographie.tex
 
-[112
+[113
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 4--4
 
  []
 
-)
+
+
+[114
+
+])
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the main.maf file.
@@ -2581,10 +2596,8 @@ Package minitoc(hints) Info: I0053
 (minitoc(hints))             of floats defined by the float package.
 
 
-[113
-
-]
-runsystem(latexminted cleantemp  --timestamp 20251022141112 FAD58DE7366495DB4650CFEFAC2FCD61)...disabled (restricted).
+[115]
+runsystem(latexminted cleantemp  --timestamp 20251026184846 FAD58DE7366495DB4650CFEFAC2FCD61)...disabled (restricted).
 
  (main.aux)
  ***********
@@ -2592,20 +2605,21 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 752BBE99D80BE7C3EE07D3B2B94FE540;52750.
+(rerunfilecheck)             Checksum: 62065514F2F532D09190A060E08B4388;52740.
  ) 
 Here is how much of TeX's memory you used:
- 39323 strings out of 468132
- 806100 string characters out of 5430690
- 1372546 words of memory out of 5000000
- 66770 multiletter control sequences out of 15000+600000
- 677235 words of font info for 90 fonts, out of 8000000 for 9000
+ 39151 strings out of 468132
+ 802640 string characters out of 5430692
+ 1371544 words of memory out of 5000000
+ 66598 multiletter control sequences out of 15000+600000
+ 680083 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,17n,115p,737b,866s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\salim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\salim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\salim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\salim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Users/salim/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/salim/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (128 pages, 11986534 bytes).
+ 113i,17n,115p,732b,866s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning: \pdfdraftmode enabled, not changing output pdf
+
 PDF statistics:
- 2267 PDF objects out of 2487 (max. 8388607)
- 482 named destinations out of 1000 (max. 500000)
- 1966 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1436 PDF objects out of 1440 (max. 8388607)
+ 484 named destinations out of 1000 (max. 500000)
+ 598 words of extra memory for PDF output out of 10000 (max. 10000000)
 
