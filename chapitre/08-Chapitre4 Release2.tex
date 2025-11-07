@@ -40,6 +40,9 @@ Supprimer des plans d'abonnement & En tant que Super Admin, je veux supprimer de
 \hline
 Désactiver des plans d'abonnement & En tant que Super Admin, je veux désactiver des plans d'abonnement pour contrôler leur disponibilité & Moyenne \\
 \hline
+Optimiser les plans d'abonnement & En tant que Super Admin, je peux consulter et appliquer les suggestions d'optimisation de plans & Moyenne \\
+\hline
+
 Consulter les plans d'abonnement disponibles & En tant qu'Admin, je veux consulter les plans d'abonnement disponibles pour évaluer les options & Élevée \\
 \hline
 Souscrire à un plan d'abonnement & En tant qu'Admin, je veux souscrire à un plan d'abonnement pour accéder aux fonctionnalités premium & Élevée \\
@@ -92,12 +95,12 @@ Obtenir des suggestions IA & En tant qu'Auditeur, je veux recevoir des conseils 
 \hline
 \textbf{Précondition} & Être authentifié en tant que Super Admin \\
 \hline
-\textbf{Postcondition} & Plans d'abonnement créés, modifiés, supprimés ou désactivés selon l'action \\
+\textbf{Postcondition} & Plans d'abonnement créés, modifiés, supprimés, désactivés ou optimisés selon l'action \\
 \hline
 \textbf{Scénario nominal} & 
 1. Le Super Admin accède à la page de gestion des plans d'abonnement \\
 & 2. Le système affiche la liste des plans existants \\
-& 3. Le Super Admin sélectionne une action (créer, modifier, supprimer, désactiver) \\
+& 3. Le Super Admin sélectionne une action (créer, modifier, supprimer, désactiver, optimiser) \\
 & 4. Le système affiche le formulaire correspondant \\
 & 5. Le Super Admin saisit ou modifie les informations du plan \\
 & 6. Le système valide les données (prix, limite d'utilisateurs, fonctionnalités) \\
@@ -109,10 +112,12 @@ Obtenir des suggestions IA & En tant qu'Auditeur, je veux recevoir des conseils 
 & - Modification : mise à jour des champs modifiables \\
 & - Suppression : vérification qu'aucune entreprise n'utilise le plan \\
 & - Désactivation : masquage du plan pour les nouvelles souscriptions \\
+& - Optimisation : analyse NLP des performances et suggestions d'amélioration \\
 & - Utilisation de templates prédéfinis pour accélérer la création \\
 \hline
 \end{longtable}
-
+\vspace{1cm}
+\vspace{1cm}
 \subsubsection{Diagramme de cas d'utilisation détaillé de la souscription aux abonnements}
 \noindent La figure 4.2 présente le diagramme de cas d'utilisation détaillé pour la souscription aux abonnements par l'Admin.
 
@@ -199,7 +204,7 @@ Obtenir des suggestions IA & En tant qu'Auditeur, je veux recevoir des conseils 
 
 \subsubsection{Diagramme de cas d'utilisation détaillé de l'évaluation de conformité}
 \noindent La figure 4.4 présente le diagramme de cas d'utilisation détaillé pour l'évaluation de conformité des textes réglementaires par l'Admin.
-
+\vspace{1cm}
 \begin{figure}[H]
     \centering
     \includegraphics[width=13cm,height=9cm]{images/complianceuc.png}
@@ -276,8 +281,7 @@ Obtenir des suggestions IA & En tant qu'Auditeur, je veux recevoir des conseils 
 & - Notifications : envoi automatique lors des assignations \\
 \hline
 \end{longtable}
-
-
+ 
 \subsection{Conception}
 \noindent Dans cette partie, nous passons à la seconde phase de notre sprint. Notre objectif est de créer les diagrammes de séquence correspondant à cette étape.
 
@@ -310,7 +314,12 @@ Obtenir des suggestions IA & En tant qu'Auditeur, je veux recevoir des conseils 
     \includegraphics[width=10cm,height=9cm]{images/deleteplanseq.png}
     \caption{Diagramme de séquence pour le scénario de suppression d'un plan d'abonnement}
 \end{figure}
-
+\subsubsection{Diagramme de séquence pour le scénario d'optimisation des plans d'abonnement}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=11cm,height=10cm]{images/planoptimizationseq.png}
+    \caption{Diagramme de séquence pour le scénario d'optimisation des plans d'abonnement}
+\end{figure}
 \subsubsection{Diagramme de séquence pour le scénario de souscription à un abonnement}
 \begin{figure}[H]
     \centering
@@ -407,7 +416,14 @@ Obtenir des suggestions IA & En tant qu'Auditeur, je veux recevoir des conseils 
     \includegraphics[width=13cm,height=9cm]{images/createplanmodal.PNG}
     \caption{Interface de création d'un plan d'abonnement}
 \end{figure}
+\subsubsection{Interface d'optimisation des plans d'abonnement}
+\noindent La figure 4.X présente l'interface des suggestions d'optimisation générées par le service NLP.
 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=13cm,height=9cm]{images/planoptimizationinterface.PNG}
+    \caption{Interface des suggestions d'optimisation des plans}
+\end{figure}
 \subsubsection{Interface de souscription aux abonnements}
 \noindent La figure 4.9 présente l'interface de souscription aux abonnements pour l'Admin permettant de visualiser et souscrire aux plans disponibles.
 
@@ -478,7 +494,7 @@ La figure 4.16 présente l'interface des conseils IA permettant aux auditeurs de
     \includegraphics[width=13cm,height=8cm]{images/actionplanaiconseil.png
 }
     \caption{Interface des conseils IA pour les plans d'action}
-\end{figure}
+\end{figure} 
 
 \section{Sprint 2 : Gestion des revues de direction, notifications, historique et statistiques}
 
@@ -513,10 +529,12 @@ Consulter l'historique & En tant que Super Admin, je veux consulter l'historique
 Consulter l'historique & En tant qu'Admin, je veux consulter l'historique des utilisateurs de mon entreprise pour assurer la traçabilité & Moyenne \\
 \hline
 Consulter l'historique & En tant qu'Auditeur, je veux consulter mon historique pour suivre mes actions & Moyenne \\
-\hline
+\hline 
 Consulter les statistiques & En tant que Super Admin, je veux consulter les statistiques globales du système pour analyser les performances & Faible \\
 \hline
 Consulter les statistiques & En tant qu'Admin, je veux consulter les statistiques de conformité de mon entreprise pour analyser les performances & Faible \\
+\hline
+Consulter les statistiques & En tant que Super Admin, je peux générer et exporter un rapport de performance au format PDF & Moyenne \\
 \hline
 \end{longtable}
 \subsubsection{Diagramme de cas d'utilisation détaillé de la gestion des revues de direction}
@@ -682,13 +700,13 @@ Consulter les statistiques & En tant qu'Admin, je veux consulter les statistique
 \caption{Description textuelle du cas d'utilisation - Consultation des statistiques}
 \label{tab:consult_statistics_usecase} \\
 \hline
-\textbf{Cas d'utilisation} & \textbf{Consulter les statistiques} \\  % untouched
+\textbf{Cas d'utilisation} & \textbf{Consulter les statistiques} \\
 \hline
 \textbf{Acteur} & Super Admin, Admin \\
 \hline
-\textbf{Précondition} & Être correctement authentifié en tant que Super Admin ou Admin \\ % subtle addition
+\textbf{Précondition} & Être correctement authentifié en tant que Super Admin ou Admin \\
 \hline
-\textbf{Postcondition} & Statistiques consultées selon les droits d'accès disponibles \\ % subtle addition
+\textbf{Postcondition} & Statistiques consultées selon les droits d'accès disponibles \\
 \hline
 \textbf{Scénario nominal} & 
 1. L'utilisateur accède à la page de statistiques \\
@@ -696,19 +714,19 @@ Consulter les statistiques & En tant qu'Admin, je veux consulter les statistique
 & 3. L'utilisateur consulte les graphiques et indicateurs \\
 & 4. L'utilisateur peut filtrer les données si applicable \\
 & 5. Le système affiche les résultats actualisés \\
+& 6. Le Super Admin peut générer un rapport PDF \\
+& 7. Le système génère et télécharge le rapport PDF \\
 \hline
 \textbf{Scénario alternatif} & 
 - Super Admin : accès aux statistiques globales du système (entreprises, utilisateurs, demandes) \\
 & - Admin : accès aux statistiques de conformité de son entreprise (textes, exigences, actions) \\
 & - Filtrage par domaine : pour les Admins, filtrage des statistiques par domaine spécifique \\
+& - Génération de rapport PDF : disponible uniquement pour Super Admin \\
 & - Aucune donnée : affichage d'un message approprié \\
 \hline
 \end{longtable}
-
 \subsection{Conception}
-\noindent Dans cette partie, nous passons à la seconde phase de notre sprint, qui consiste à aborder la conception détaillée du système. Notre objectif principal est de créer les diagrammes de séquence correspondant à cette étape, afin de représenter clairement le déroulement des interactions entre les différents acteurs et le système.
-
-
+\noindent Cette partie traite la seconde phase du sprint : conception détaillée du système. L’objectif est de créer des diagrammes de séquence illustrant les interactions entre acteurs et système.
 \subsubsection{Diagramme de séquence pour le scénario de création d'une revue de direction}
 \begin{figure}[H]
     \centering

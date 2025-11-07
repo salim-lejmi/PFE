@@ -82,15 +82,17 @@
 
 \subsection{Besoins non fonctionnels :}
 
-\noindent \textbf{Sécurité} : L'application doit protéger les données contre les accès non autorisés, en utilisant l'authentification par e-mail unique et des protocoles sécurisés pour les connexions et la gestion des données sensibles.
+\noindent \textbf{Sécurité} : L'application doit protéger les données via une authentification unique, des sessions sécurisées, le hachage des mots de passe et des protocoles sûrs pour les données sensibles.
 
-\noindent\textbf{Responsivité} : L'interface doit s'adapter automatiquement aux différents appareils pour garantir une expérience utilisateur fluide, conformément aux principes du Responsive Web Design.
+\noindent \textbf{Responsivité} : L'interface doit s’adapter à tout appareil pour une expérience fluide, selon les principes du Responsive Web Design et du CSS adaptatif.
 
-\noindent\textbf{Performance} : L'application doit permettre une navigation rapide et un accès en temps réel aux statistiques et aux tableaux de bord, même avec un grand volume de données réglementaires.
-
+\noindent \textbf{Performance} : L'application doit assurer une navigation rapide et un accès en temps réel aux tableaux de bord grâce à l’architecture React, même avec un grand volume de données.
 \section{Backlog}
 
-\begin{longtable}{|>{\raggedright\arraybackslash}p{0.5cm}|>{\raggedright\arraybackslash}p{3cm}|>{\raggedright\arraybackslash}p{8cm}|>{\raggedright\arraybackslash}p{2cm}|}
+\begin{longtable}{|>{\raggedright\arraybackslash}p{0.5cm}|
+                  >{\raggedright\arraybackslash}p{3cm}|
+                  >{\raggedright\arraybackslash}p{9cm}|
+                  >{\raggedright\arraybackslash}p{2.5cm}|}
 \caption{Backlog produit}\label{tab:user_stories}\\
 \hline
 ID & Thème & User Stories & Priorité \\
@@ -111,7 +113,7 @@ ID & Thème & User Stories & Priorité \\
 \cline{3-4}
 & & En tant qu'utilisateur, je veux modifier mon profil pour mettre à jour mes informations personnelles. & Moyenne \\
 \hline
-5 & Gérer les notifications & En tant qu'utilisateur, je veux consulter mes notifications pour rester informé des activités du système. & Faible \\
+5 & Gérer les notifications & En tant qu'utilisateur, je veux consulter mes notifications pour rester informé des activités du système. & Moyenne \\
 \hline
 6 & Gérer les textes & En tant qu'Admin, je veux créer des textes réglementaires pour maintenir la conformité de mon entreprise. & Élevée \\
 \cline{3-4}
@@ -125,7 +127,9 @@ ID & Thème & User Stories & Priorité \\
 \cline{3-4}
 & & En tant que Super Admin, je veux supprimer et filtrer les textes réglementaires pour superviser le contenu. & Moyenne \\
 \hline
-7 & Consulter les statistiques & En tant qu'utilisateur, je veux consulter les statistiques appropriées à mon rôle pour analyser les performances et la conformité. & Faible \\
+7 & Consulter les statistiques & En tant qu'utilisateur, je veux consulter les statistiques appropriées à mon rôle pour analyser les performances et la conformité. & Moyenne \\
+\cline{3-4}
+& & En tant que Super Admin, je peux générer et exporter un rapport de performance au format PDF. & Faible \\
 \hline
 8 & Gérer les utilisateurs & En tant qu'Admin, je veux créer des utilisateurs dans mon entreprise pour organiser mon équipe. & Élevée \\
 \cline{3-4}
@@ -172,6 +176,8 @@ ID & Thème & User Stories & Priorité \\
 & & En tant que Super Admin, je veux désactiver des plans d'abonnement pour contrôler leur disponibilité. & Moyenne \\
 \cline{3-4}
 & & En tant que Super Admin, je veux consulter les plans d'abonnement pour superviser les offres. & Moyenne \\
+\hline
+& & En tant que Super Admin, je peux consulter et appliquer les suggestions d'optimisation de plans. & Moyenne \\
 \hline
 15 & Consulter l'évaluation de conformité & En tant qu'Admin, je veux consulter l'évaluation de la conformité pour surveiller le respect des normes. & Élevée \\
 \hline

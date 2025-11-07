@@ -67,60 +67,62 @@
 \addvspace {10\p@ }
 \contentsline {xchapter}{Release 2}{67}{chapter.5}%
 \contentsline {figure}{\numberline {5.1}{\ignorespaces Diagramme de cas d'utilisation - Gestion des plans d'abonnement}}{71}{figure.caption.69}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Diagramme de cas d'utilisation - Souscription aux abonnements}}{72}{figure.caption.70}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Diagramme de cas d'utilisation - Souscription aux abonnements}}{73}{figure.caption.70}%
 \contentsline {figure}{\numberline {5.3}{\ignorespaces Diagramme de cas d'utilisation - Gestion des textes réglementaires}}{74}{figure.caption.71}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Diagramme de cas d'utilisation - Évaluation de conformité}}{75}{figure.caption.72}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Diagramme de cas d'utilisation - Gestion des plans d'action}}{77}{figure.caption.73}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Diagramme de séquence pour le scénario de création d'un plan d'abonnement}}{79}{figure.caption.74}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Diagramme de séquence pour le scénario de consultation des plans d'abonnement}}{79}{figure.caption.75}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Diagramme de séquence pour le scénario de modification d'un plan d'abonnement}}{80}{figure.caption.76}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Diagramme de séquence pour le scénario de suppression d'un plan d'abonnement}}{80}{figure.caption.77}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Diagramme de séquence pour le scénario de souscription à un abonnement}}{81}{figure.caption.78}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Diagramme de séquence pour le scénario de création d'un texte réglementaire}}{81}{figure.caption.79}%
-\contentsline {figure}{\numberline {5.12}{\ignorespaces Diagramme de séquence pour le scénario de consultation des textes réglementaires}}{82}{figure.caption.80}%
-\contentsline {figure}{\numberline {5.13}{\ignorespaces Diagramme de séquence pour le scénario de modification d'un texte réglementaire}}{82}{figure.caption.81}%
-\contentsline {figure}{\numberline {5.14}{\ignorespaces Diagramme de séquence pour le scénario de suppression d'un texte réglementaire}}{83}{figure.caption.82}%
-\contentsline {figure}{\numberline {5.15}{\ignorespaces Diagramme de séquence pour le scénario d'évaluation de conformité}}{83}{figure.caption.83}%
-\contentsline {figure}{\numberline {5.16}{\ignorespaces Diagramme de séquence pour le scénario de création d'un plan d'action}}{84}{figure.caption.84}%
-\contentsline {figure}{\numberline {5.17}{\ignorespaces Diagramme de séquence pour le scénario de consultation des plans d'action}}{84}{figure.caption.85}%
-\contentsline {figure}{\numberline {5.18}{\ignorespaces Diagramme de séquence pour le scénario de modification d'un plan d'action}}{85}{figure.caption.86}%
-\contentsline {figure}{\numberline {5.19}{\ignorespaces Diagramme de séquence pour le scénario de suppression d'un plan d'action}}{85}{figure.caption.87}%
-\contentsline {figure}{\numberline {5.20}{\ignorespaces Diagramme de séquence pour le scénario de génération de conseils IA}}{86}{figure.caption.88}%
-\contentsline {figure}{\numberline {5.21}{\ignorespaces Interface de gestion des plans d'abonnement}}{87}{figure.caption.89}%
-\contentsline {figure}{\numberline {5.22}{\ignorespaces Interface de création d'un plan d'abonnement}}{87}{figure.caption.90}%
-\contentsline {figure}{\numberline {5.23}{\ignorespaces Interface de souscription aux abonnements}}{88}{figure.caption.91}%
-\contentsline {figure}{\numberline {5.24}{\ignorespaces Interface de gestion des textes réglementaires}}{88}{figure.caption.92}%
-\contentsline {figure}{\numberline {5.25}{\ignorespaces Interface de création d'un texte réglementaire}}{89}{figure.caption.93}%
-\contentsline {figure}{\numberline {5.26}{\ignorespaces Interface d'évaluation de conformité}}{89}{figure.caption.94}%
-\contentsline {figure}{\numberline {5.27}{\ignorespaces Interface d'évaluation des exigences}}{90}{figure.caption.95}%
-\contentsline {figure}{\numberline {5.28}{\ignorespaces Interface de gestion des plans d'action}}{90}{figure.caption.96}%
-\contentsline {figure}{\numberline {5.29}{\ignorespaces Interface de création d'un plan d'action}}{91}{figure.caption.97}%
-\contentsline {figure}{\numberline {5.30}{\ignorespaces Interface des conseils IA pour les plans d'action}}{91}{figure.caption.98}%
-\contentsline {figure}{\numberline {5.31}{\ignorespaces Diagramme de cas d'utilisation - Gestion des revues de direction}}{94}{figure.caption.99}%
-\contentsline {figure}{\numberline {5.32}{\ignorespaces Diagramme de cas d'utilisation - Participation aux revues de direction}}{95}{figure.caption.100}%
-\contentsline {figure}{\numberline {5.33}{\ignorespaces Diagramme de cas d'utilisation - Gestion des notifications}}{97}{figure.caption.101}%
-\contentsline {figure}{\numberline {5.34}{\ignorespaces Diagramme de cas d'utilisation - Consultation de l'historique}}{98}{figure.caption.102}%
-\contentsline {figure}{\numberline {5.35}{\ignorespaces Diagramme de cas d'utilisation - Consultation des statistiques}}{99}{figure.caption.103}%
-\contentsline {figure}{\numberline {5.36}{\ignorespaces Diagramme de séquence pour le scénario de création d'une revue de direction}}{101}{figure.caption.104}%
-\contentsline {figure}{\numberline {5.37}{\ignorespaces Diagramme de séquence pour le scénario de consultation des revues de direction}}{101}{figure.caption.105}%
-\contentsline {figure}{\numberline {5.38}{\ignorespaces Diagramme de séquence pour le scénario de modification d'une revue de direction}}{102}{figure.caption.106}%
-\contentsline {figure}{\numberline {5.39}{\ignorespaces Diagramme de séquence pour le scénario de suppression d'une revue de direction}}{102}{figure.caption.107}%
-\contentsline {figure}{\numberline {5.40}{\ignorespaces Diagramme de séquence pour le scénario de changement de statut d'une revue}}{103}{figure.caption.108}%
-\contentsline {figure}{\numberline {5.41}{\ignorespaces Diagramme de séquence pour le scénario de consultation des éléments d'une revue}}{103}{figure.caption.109}%
-\contentsline {figure}{\numberline {5.42}{\ignorespaces Diagramme de séquence pour le scénario d'ajout d'un élément à une revue}}{104}{figure.caption.110}%
-\contentsline {figure}{\numberline {5.43}{\ignorespaces Diagramme de séquence pour le scénario de modification d'un élément de revue}}{104}{figure.caption.111}%
-\contentsline {figure}{\numberline {5.44}{\ignorespaces Diagramme de séquence pour le scénario de suppression d'un élément de revue}}{105}{figure.caption.112}%
-\contentsline {figure}{\numberline {5.45}{\ignorespaces Diagramme de séquence pour le scénario de génération de PDF d'une revue}}{105}{figure.caption.113}%
-\contentsline {figure}{\numberline {5.46}{\ignorespaces Diagramme de séquence pour le scénario de consultation des notifications}}{106}{figure.caption.114}%
-\contentsline {figure}{\numberline {5.47}{\ignorespaces Diagramme de séquence pour le scénario de marquage de toutes les notifications comme lues}}{106}{figure.caption.115}%
-\contentsline {figure}{\numberline {5.48}{\ignorespaces Diagramme de séquence pour le scénario de consultation de l'historique}}{107}{figure.caption.116}%
-\contentsline {figure}{\numberline {5.49}{\ignorespaces Diagramme de séquence pour le scénario de consultation des statistiques globales}}{107}{figure.caption.117}%
-\contentsline {figure}{\numberline {5.50}{\ignorespaces Diagramme de séquence pour le scénario de consultation des statistiques de conformité}}{108}{figure.caption.118}%
-\contentsline {figure}{\numberline {5.51}{\ignorespaces Interface de gestion des revues de direction}}{109}{figure.caption.119}%
-\contentsline {figure}{\numberline {5.52}{\ignorespaces Interface de création d'une revue de direction}}{109}{figure.caption.120}%
-\contentsline {figure}{\numberline {5.53}{\ignorespaces Interface de détails d'une revue}}{110}{figure.caption.121}%
-\contentsline {figure}{\numberline {5.54}{\ignorespaces Interface d'ajout d'un élément à une revue}}{110}{figure.caption.122}%
-\contentsline {figure}{\numberline {5.55}{\ignorespaces Interface du dropdown des notifications}}{111}{figure.caption.123}%
-\contentsline {figure}{\numberline {5.56}{\ignorespaces Interface de consultation de l'historique}}{111}{figure.caption.124}%
-\contentsline {figure}{\numberline {5.57}{\ignorespaces Interface des statistiques globales}}{112}{figure.caption.125}%
-\contentsline {figure}{\numberline {5.58}{\ignorespaces Interface des statistiques de conformité}}{112}{figure.caption.126}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Diagramme de cas d'utilisation - Évaluation de conformité}}{76}{figure.caption.72}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Diagramme de cas d'utilisation - Gestion des plans d'action}}{78}{figure.caption.73}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Diagramme de séquence pour le scénario de création d'un plan d'abonnement}}{80}{figure.caption.74}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Diagramme de séquence pour le scénario de consultation des plans d'abonnement}}{80}{figure.caption.75}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Diagramme de séquence pour le scénario de modification d'un plan d'abonnement}}{81}{figure.caption.76}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Diagramme de séquence pour le scénario de suppression d'un plan d'abonnement}}{81}{figure.caption.77}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Diagramme de séquence pour le scénario d'optimisation des plans d'abonnement}}{82}{figure.caption.78}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Diagramme de séquence pour le scénario de souscription à un abonnement}}{82}{figure.caption.79}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Diagramme de séquence pour le scénario de création d'un texte réglementaire}}{83}{figure.caption.80}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Diagramme de séquence pour le scénario de consultation des textes réglementaires}}{83}{figure.caption.81}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Diagramme de séquence pour le scénario de modification d'un texte réglementaire}}{84}{figure.caption.82}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Diagramme de séquence pour le scénario de suppression d'un texte réglementaire}}{84}{figure.caption.83}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Diagramme de séquence pour le scénario d'évaluation de conformité}}{85}{figure.caption.84}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Diagramme de séquence pour le scénario de création d'un plan d'action}}{85}{figure.caption.85}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Diagramme de séquence pour le scénario de consultation des plans d'action}}{86}{figure.caption.86}%
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Diagramme de séquence pour le scénario de modification d'un plan d'action}}{86}{figure.caption.87}%
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Diagramme de séquence pour le scénario de suppression d'un plan d'action}}{87}{figure.caption.88}%
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Diagramme de séquence pour le scénario de génération de conseils IA}}{87}{figure.caption.89}%
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Interface de gestion des plans d'abonnement}}{88}{figure.caption.90}%
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Interface de création d'un plan d'abonnement}}{89}{figure.caption.91}%
+\contentsline {figure}{\numberline {5.24}{\ignorespaces Interface des suggestions d'optimisation des plans}}{89}{figure.caption.92}%
+\contentsline {figure}{\numberline {5.25}{\ignorespaces Interface de souscription aux abonnements}}{90}{figure.caption.93}%
+\contentsline {figure}{\numberline {5.26}{\ignorespaces Interface de gestion des textes réglementaires}}{90}{figure.caption.94}%
+\contentsline {figure}{\numberline {5.27}{\ignorespaces Interface de création d'un texte réglementaire}}{91}{figure.caption.95}%
+\contentsline {figure}{\numberline {5.28}{\ignorespaces Interface d'évaluation de conformité}}{91}{figure.caption.96}%
+\contentsline {figure}{\numberline {5.29}{\ignorespaces Interface d'évaluation des exigences}}{92}{figure.caption.97}%
+\contentsline {figure}{\numberline {5.30}{\ignorespaces Interface de gestion des plans d'action}}{92}{figure.caption.98}%
+\contentsline {figure}{\numberline {5.31}{\ignorespaces Interface de création d'un plan d'action}}{93}{figure.caption.99}%
+\contentsline {figure}{\numberline {5.32}{\ignorespaces Interface des conseils IA pour les plans d'action}}{93}{figure.caption.100}%
+\contentsline {figure}{\numberline {5.33}{\ignorespaces Diagramme de cas d'utilisation - Gestion des revues de direction}}{96}{figure.caption.101}%
+\contentsline {figure}{\numberline {5.34}{\ignorespaces Diagramme de cas d'utilisation - Participation aux revues de direction}}{97}{figure.caption.102}%
+\contentsline {figure}{\numberline {5.35}{\ignorespaces Diagramme de cas d'utilisation - Gestion des notifications}}{99}{figure.caption.103}%
+\contentsline {figure}{\numberline {5.36}{\ignorespaces Diagramme de cas d'utilisation - Consultation de l'historique}}{100}{figure.caption.104}%
+\contentsline {figure}{\numberline {5.37}{\ignorespaces Diagramme de cas d'utilisation - Consultation des statistiques}}{101}{figure.caption.105}%
+\contentsline {figure}{\numberline {5.38}{\ignorespaces Diagramme de séquence pour le scénario de création d'une revue de direction}}{103}{figure.caption.106}%
+\contentsline {figure}{\numberline {5.39}{\ignorespaces Diagramme de séquence pour le scénario de consultation des revues de direction}}{103}{figure.caption.107}%
+\contentsline {figure}{\numberline {5.40}{\ignorespaces Diagramme de séquence pour le scénario de modification d'une revue de direction}}{104}{figure.caption.108}%
+\contentsline {figure}{\numberline {5.41}{\ignorespaces Diagramme de séquence pour le scénario de suppression d'une revue de direction}}{104}{figure.caption.109}%
+\contentsline {figure}{\numberline {5.42}{\ignorespaces Diagramme de séquence pour le scénario de changement de statut d'une revue}}{105}{figure.caption.110}%
+\contentsline {figure}{\numberline {5.43}{\ignorespaces Diagramme de séquence pour le scénario de consultation des éléments d'une revue}}{105}{figure.caption.111}%
+\contentsline {figure}{\numberline {5.44}{\ignorespaces Diagramme de séquence pour le scénario d'ajout d'un élément à une revue}}{106}{figure.caption.112}%
+\contentsline {figure}{\numberline {5.45}{\ignorespaces Diagramme de séquence pour le scénario de modification d'un élément de revue}}{106}{figure.caption.113}%
+\contentsline {figure}{\numberline {5.46}{\ignorespaces Diagramme de séquence pour le scénario de suppression d'un élément de revue}}{107}{figure.caption.114}%
+\contentsline {figure}{\numberline {5.47}{\ignorespaces Diagramme de séquence pour le scénario de génération de PDF d'une revue}}{107}{figure.caption.115}%
+\contentsline {figure}{\numberline {5.48}{\ignorespaces Diagramme de séquence pour le scénario de consultation des notifications}}{108}{figure.caption.116}%
+\contentsline {figure}{\numberline {5.49}{\ignorespaces Diagramme de séquence pour le scénario de marquage de toutes les notifications comme lues}}{108}{figure.caption.117}%
+\contentsline {figure}{\numberline {5.50}{\ignorespaces Diagramme de séquence pour le scénario de consultation de l'historique}}{109}{figure.caption.118}%
+\contentsline {figure}{\numberline {5.51}{\ignorespaces Diagramme de séquence pour le scénario de consultation des statistiques globales}}{109}{figure.caption.119}%
+\contentsline {figure}{\numberline {5.52}{\ignorespaces Diagramme de séquence pour le scénario de consultation des statistiques de conformité}}{110}{figure.caption.120}%
+\contentsline {figure}{\numberline {5.53}{\ignorespaces Interface de gestion des revues de direction}}{111}{figure.caption.121}%
+\contentsline {figure}{\numberline {5.54}{\ignorespaces Interface de création d'une revue de direction}}{111}{figure.caption.122}%
+\contentsline {figure}{\numberline {5.55}{\ignorespaces Interface de détails d'une revue}}{112}{figure.caption.123}%
+\contentsline {figure}{\numberline {5.56}{\ignorespaces Interface d'ajout d'un élément à une revue}}{112}{figure.caption.124}%
+\contentsline {figure}{\numberline {5.57}{\ignorespaces Interface du dropdown des notifications}}{113}{figure.caption.125}%
+\contentsline {figure}{\numberline {5.58}{\ignorespaces Interface de consultation de l'historique}}{113}{figure.caption.126}%
+\contentsline {figure}{\numberline {5.59}{\ignorespaces Interface des statistiques globales}}{114}{figure.caption.127}%
+\contentsline {figure}{\numberline {5.60}{\ignorespaces Interface des statistiques de conformité}}{114}{figure.caption.128}%
