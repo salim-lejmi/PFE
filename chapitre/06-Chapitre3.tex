@@ -176,9 +176,9 @@
 
 \noindent La figure 3.12 illustre le déploiement physique de notre application :
 
-\begin{figure}[H]
+\begin{figure}[H]   
     \centering
-    \includegraphics[width=14cm, height=11cm]{images/Architecturephysique.PNG}
+    \includegraphics[width=14cm, height=11cm]{images/architecturephysique2.png}
     \label{fig:arch_physique}
     \caption{Architecture physique de l'application}
 \end{figure}
@@ -193,26 +193,24 @@
 
 \noindent \textbf{Serveur NLP} : Serveur dédié au traitement du langage naturel, déployé de manière indépendante avec un service Flask. Il reçoit les requêtes du serveur applicatif via HTTP/REST et communique avec l'API Gemini de Google via HTTPS pour l'analyse textuelle et la génération de recommandations.
 
-\noindent \textbf{Services Externes} : APIs tierces hébergées dans le cloud (Stripe pour les paiements, Gemini pour l'IA), intégrées via des connexions HTTPS sécurisées. Ces services étendent les fonctionnalités du système sans nécessiter de déploiement local.
+\noindent \textbf{Services Externes} : APIs tierces hébergées dans le cloud (Stripe pour les paiements), intégrées via des connexions HTTPS sécurisées. Ces services étendent les fonctionnalités du système sans nécessiter de déploiement local.
 
 \noindent Cette architecture distribuée offre plusieurs avantages : scalabilité horizontale par réplication des serveurs, isolation des pannes, et possibilité de déployer chaque composant sur des infrastructures optimisées selon ses besoins spécifiques.
 
 \subsection{Architecture logique}
-
+ 
 \noindent L'architecture logique repose sur le patron MVC enrichi d'une approche microservices pour les fonctionnalités spécialisées. Cette organisation assure une séparation claire des responsabilités et facilite l'évolution du système.
 
 \noindent La figure 3.13 illustre l'organisation logique de notre application :
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=14cm, height=11cm]{images/Architecturelogique.PNG}
+    \includegraphics[width=14cm, height=11cm]{images/architectLogique2.png}
     \label{fig:arch_logique}
     \caption{Architecture logique de l'application}
 \end{figure}
 
 \noindent L'utilisateur interagit avec le système via un navigateur qui héberge la couche présentation sous forme de composants React. Cette interface communique avec le backend via une couche d'APIs REST qui constitue le point d'entrée unique du système.
-
-\noindent \textbf{APIs REST} : Ensemble d'endpoints exposés par les contrôleurs, organisés par domaine fonctionnel (authentification, gestion des audits, conformité, analyse textuelle). Cette couche assure le découplage entre le client et le serveur, permettant une évolution indépendante de chaque partie. Les échanges utilisent le format JSON pour la sérialisation des données.
 
 \noindent \textbf{Couche Contrôleurs} : Implémentée via des contrôleurs .NET Core, elle reçoit et valide les requêtes HTTP entrantes. Elle gère les mécanismes d'authentification et d'autorisation basée sur les rôles, puis route les requêtes vers les services métier appropriés. Cette couche applique le principe de responsabilité unique en se limitant à l'orchestration des flux.
 

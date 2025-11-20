@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.2)  29 OCT 2025 17:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.2)  11 NOV 2025 01:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1380,39 +1380,34 @@ Overfull \hbox (5.86269pt too wide) in paragraph at lines 38--39
 <images/auditboard.PNG, id=762, 1434.10782pt x 813.0375pt>
 File: images/auditboard.PNG Graphic file (type png)
 <use images/auditboard.PNG>
-Package pdftex.def Info: images/auditboard.PNG  used on input line 67.
+Package pdftex.def Info: images/auditboard.PNG  used on input line 66.
 (pdftex.def)             Requested size: 369.8832pt x 227.61172pt.
 <images/processgene.PNG, id=764, 1434.86063pt x 758.08218pt>
 File: images/processgene.PNG Graphic file (type png)
 <use images/processgene.PNG>
-Package pdftex.def Info: images/processgene.PNG  used on input line 80.
+Package pdftex.def Info: images/processgene.PNG  used on input line 79.
 (pdftex.def)             Requested size: 369.88031pt x 227.61148pt.
 
 
 [5]
-Overfull \hbox (16.45921pt too wide) in paragraph at lines 109--110
+Overfull \hbox (16.45921pt too wide) in paragraph at lines 108--109
 \T1/ptm/m/n/12 L'analyse du ta-bleau montre clai-re-ment qu'au-cune des so-lu-tions exis-tantes ne ré-pond com-plè-te-ment
- []
-
-
-Overfull \hbox (17.94576pt too wide) in paragraph at lines 111--112
-\T1/ptm/m/n/12 nu-mé-rique spé-cia-li-sée com-bi-nant l'au-to-ma-ti-sa-tion, la ges-tion col-la-bo-ra-tive des rôles, et la tra-ça-bi-lité
- []
-
-
-Overfull \hbox (20.97072pt too wide) in paragraph at lines 111--112
-\T1/ptm/m/n/12 com-plète. Cette ap-proche per-met-trait de trans-for-mer les pro-ces-sus ma-nuels frag-men-tés en work-flows
  []
 
 
 
 [6]
-Overfull \hbox (17.87378pt too wide) in paragraph at lines 121--122
-[]\T1/ptm/m/n/12 Développée pour les PME, ``Pré-ven-tion Plus'' offre ainsi une so-lu-tion ac-ces-sible et prag-ma-tique
+Overfull \hbox (17.94576pt too wide) in paragraph at lines 110--111
+\T1/ptm/m/n/12 nu-mé-rique spé-cia-li-sée com-bi-nant l'au-to-ma-ti-sa-tion, la ges-tion col-la-bo-ra-tive des rôles, et la tra-ça-bi-lité
  []
 
 
-Overfull \hbox (10.3151pt too wide) in paragraph at lines 126--127
+Overfull \hbox (20.97072pt too wide) in paragraph at lines 110--111
+\T1/ptm/m/n/12 com-plète. Cette ap-proche per-met-trait de trans-for-mer les pro-ces-sus ma-nuels frag-men-tés en work-flows
+ []
+
+
+Overfull \hbox (10.3151pt too wide) in paragraph at lines 125--126
 \T1/ptm/m/n/12 pro-gres-sive à tra-vers des cycles de dé-ve-lop-pe-ment courts et ré-pé-tés, vi-sant avant tout la sa-tis-fac-tion
  []
 
@@ -1422,44 +1417,44 @@ Overfull \hbox (10.3151pt too wide) in paragraph at lines 126--127
 <images/scrum method.jpg, id=778, 469.755pt x 287.57437pt>
 File: images/scrum method.jpg Graphic file (type jpg)
 <use images/scrum method.jpg>
-Package pdftex.def Info: images/scrum method.jpg  used on input line 133.
+Package pdftex.def Info: images/scrum method.jpg  used on input line 132.
 (pdftex.def)             Requested size: 341.43456pt x 170.72054pt.
 
-Overfull \hbox (21.34064pt too wide) in paragraph at lines 142--143
+Overfull \hbox (21.34064pt too wide) in paragraph at lines 141--142
 \T1/ptm/m/n/12 Sa mis-sion consiste à tra-duire les be-soins des uti-li-sa-teurs et à main-te-nir la via-bi-lité éco-no-mique
  []
 
 
-Overfull \hbox (24.91803pt too wide) in paragraph at lines 144--145
+Overfull \hbox (24.91803pt too wide) in paragraph at lines 143--144
 \T1/ptm/m/n/12 fonc-tion prin-ci-pale est d'ac-com-pa-gner l'équipe vers une maî-trise et une ap-pli-ca-tion ap-pro-priées
- []
-
-
-Overfull \hbox (8.3939pt too wide) in paragraph at lines 146--147
-[]\T1/ptm/b/n/12 Équipe de dé-ve-lop-pe-ment Scrum \T1/ptm/m/n/12 : Groupe de pro-fes-sion-nels qui construisent les élé-ments
  []
 
 
 
 [8]
-Overfull \hbox (42.0661pt too wide) in paragraph at lines 153--154
+Overfull \hbox (8.3939pt too wide) in paragraph at lines 145--146
+[]\T1/ptm/b/n/12 Équipe de dé-ve-lop-pe-ment Scrum \T1/ptm/m/n/12 : Groupe de pro-fes-sion-nels qui construisent les élé-ments
+ []
+
+
+Overfull \hbox (42.0661pt too wide) in paragraph at lines 152--153
 \T1/ptm/m/n/12 pour per-fec-tion-ner le pro-duit. Il re-groupe des élé-ments va-riés comme des nou-velles fonc-tion-na-li-tés,
  []
 
 
-Overfull \hbox (2.65865pt too wide) in paragraph at lines 153--154
+Overfull \hbox (2.65865pt too wide) in paragraph at lines 152--153
 \T1/ptm/m/n/12 des exi-gences, des op-ti-mi-sa-tions ou des ré-so-lu-tions de bugs, sous la su-per-vi-sion du Pro-duct
  []
 
 
-Overfull \hbox (4.00171pt too wide) in paragraph at lines 166--167
+Overfull \hbox (4.00171pt too wide) in paragraph at lines 165--166
 \T1/ptm/m/n/12 ba-ck-log pro-duit, échange sur les prio-ri-tés et s'ac-corde sur le pé-ri-mètre et les fonc-tion-na-li-tés
  []
 
 
 
 [9]) (chapitre/05-Chapitre2.tex
-Overfull \hbox (0.18758pt too wide) in paragraph at lines 178--1
+Overfull \hbox (0.18758pt too wide) in paragraph at lines 177--1
 \T1/ptm/m/n/12 pro-blé-ma-tique, puis nous avons dé-crit l'or-ga-nisme d'ac-cueil, étu-dié quelques exemples exis-tants
  []
 
@@ -1498,7 +1493,7 @@ Overfull \hbox (5.2015pt too wide) in paragraph at lines 45--46
  []
 
 
-Overfull \hbox (7.37424pt too wide) in paragraph at lines 60--61
+Overfull \hbox (7.37424pt too wide) in paragraph at lines 59--60
 []\T1/ptm/m/n/12 Gérer les re-vues de di-rec-tion : créer, consul-ter, mo-di-fier et sup-pri-mer les re-vues de di-rec-tion. 
  []
 
@@ -1520,7 +1515,7 @@ Overfull \hbox (21.54716pt too wide) in alignment at lines 100--105
  []
 
 
-Overfull \hbox (21.54716pt too wide) in alignment at lines 105--210
+Overfull \hbox (21.54716pt too wide) in alignment at lines 105--212
  [] [] [] [] 
  []
 
@@ -1530,10 +1525,10 @@ Overfull \hbox (21.54716pt too wide) in alignment at lines 105--210
 <images/UseCaseDiagram.png, id=837, 3412.75pt x 3830.31pt>
 File: images/UseCaseDiagram.png Graphic file (type png)
 <use images/UseCaseDiagram.png>
-Package pdftex.def Info: images/UseCaseDiagram.png  used on input line 220.
+Package pdftex.def Info: images/UseCaseDiagram.png  used on input line 222.
 (pdftex.def)             Requested size: 512.15079pt x 540.56474pt.
 
-Overfull \hbox (56.90668pt too wide) in paragraph at lines 220--221
+Overfull \hbox (56.90668pt too wide) in paragraph at lines 222--223
  [][] 
  []
 
@@ -1543,18 +1538,18 @@ Overfull \hbox (56.90668pt too wide) in paragraph at lines 220--221
 <images/diagramclass.png, id=842, 2810.5pt x 2083.785pt>
 File: images/diagramclass.png Graphic file (type png)
 <use images/diagramclass.png>
-Package pdftex.def Info: images/diagramclass.png  used on input line 230.
+Package pdftex.def Info: images/diagramclass.png  used on input line 232.
 (pdftex.def)             Requested size: 512.12935pt x 512.1375pt.
 
-Overfull \hbox (56.88524pt too wide) in paragraph at lines 230--231
+Overfull \hbox (56.88524pt too wide) in paragraph at lines 232--233
  [][] 
  []
 
 
 
-[20] (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd)) (chapitre/06-Chapitre3.tex
+[20] (C:\Users\GAMER\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd)
 
-[21]
+[21]) (chapitre/06-Chapitre3.tex
 
 [22]
 Chapitre 3.
@@ -1679,11 +1674,11 @@ Overfull \hbox (15.1259pt too wide) in paragraph at lines 167--168
 
 
 [29]
-<images/Architecturephysique.PNG, id=936, 1255.69125pt x 663.47874pt>
-File: images/Architecturephysique.PNG Graphic file (type png)
-<use images/Architecturephysique.PNG>
-Package pdftex.def Info: images/Architecturephysique.PNG  used on input line 181.
-(pdftex.def)             Requested size: 398.32309pt x 312.97903pt.
+<images/architecturephysique2.png, id=936, 1353.055pt x 708.6475pt>
+File: images/architecturephysique2.png Graphic file (type png)
+<use images/architecturephysique2.png>
+Package pdftex.def Info: images/architecturephysique2.png  used on input line 181.
+(pdftex.def)             Requested size: 398.34258pt x 312.9845pt.
 
 
 [30]
@@ -1702,49 +1697,29 @@ Overfull \hbox (32.98204pt too wide) in paragraph at lines 194--195
  []
 
 
-Overfull \hbox (19.8421pt too wide) in paragraph at lines 196--197
-\T1/ptm/m/n/12 pour l'IA), in-té-grées via des connexions HTTPS sé-cu-ri-sées. Ces ser-vices étendent les fonc-tion-na-li-tés
- []
-
-
 Overfull \hbox (24.00694pt too wide) in paragraph at lines 198--199
 \T1/ptm/m/n/12 des ser-veurs, iso-la-tion des pannes, et pos-si-bi-lité de dé-ployer chaque com-po-sant sur des in-fra-struc-tures
  []
 
-<images/Architecturelogique.PNG, id=941, 849.1725pt x 825.0825pt>
-File: images/Architecturelogique.PNG Graphic file (type png)
-<use images/Architecturelogique.PNG>
-Package pdftex.def Info: images/Architecturelogique.PNG  used on input line 208.
-(pdftex.def)             Requested size: 398.3337pt x 312.98065pt.
+<images/architectLogique2.png, id=941, 849.1725pt x 830.10126pt>
+File: images/architectLogique2.png Graphic file (type png)
+<use images/architectLogique2.png>
+Package pdftex.def Info: images/architectLogique2.png  used on input line 208.
+(pdftex.def)             Requested size: 398.3337pt x 312.97183pt.
 
 
 [31]
-Overfull \hbox (15.93097pt too wide) in paragraph at lines 215--216
-\T1/ptm/b/n/12 APIs REST \T1/ptm/m/n/12 : En-semble d'end-points ex-po-sés par les contrô-leurs, or-ga-ni-sés par do-maine fonc-tion-nel
- []
-
-
-Overfull \hbox (26.22662pt too wide) in paragraph at lines 215--216
-\T1/ptm/m/n/12 (au-then-ti-fi-ca-tion, ges-tion des au-dits, confor-mité, ana-lyse tex-tuelle). Cette couche as-sure le dé-cou-plage
- []
-
-
-Overfull \hbox (5.64763pt too wide) in paragraph at lines 215--216
-\T1/ptm/m/n/12 entre le client et le ser-veur, per-met-tant une évo-lu-tion in-dé-pen-dante de chaque par-tie. Les échanges
- []
-
-
-Overfull \hbox (2.9341pt too wide) in paragraph at lines 219--220
+Overfull \hbox (2.9341pt too wide) in paragraph at lines 217--218
 \T1/ptm/b/n/12 Couche Mé-tier \T1/ptm/m/n/12 : Contient les ser-vices ap-pli-ca-tifs et les en-ti-tés du do-maine mé-tier. Elle en-cap-sule
  []
 
 
-Overfull \hbox (1.07469pt too wide) in paragraph at lines 219--220
+Overfull \hbox (1.07469pt too wide) in paragraph at lines 217--218
 \T1/ptm/m/n/12 l'en-semble des règles mé-tier et co-or-donne les opé-ra-tions com-plexes im-pli-quant plu-sieurs en-ti-tés.
  []
 
 
-Overfull \hbox (16.6263pt too wide) in paragraph at lines 219--220
+Overfull \hbox (16.6263pt too wide) in paragraph at lines 217--218
 \T1/ptm/m/n/12 Cette couche reste in-dé-pen-dante des dé-tails d'im-plé-men-ta-tion de la per-sis-tance et de la pré-sen-ta-tion,
  []
 
@@ -1783,19 +1758,19 @@ Overfull \hbox (22.10512pt too wide) in paragraph at lines 13--13
  []
 
 [35]
-<images/authuc.png, id=976, 1278.7775pt x 827.09pt>
+<images/authuc.png, id=976, 1198.4775pt x 618.31pt>
 File: images/authuc.png Graphic file (type png)
 <use images/authuc.png>
 Package pdftex.def Info: images/authuc.png  used on input line 50.
-(pdftex.def)             Requested size: 284.53198pt x 170.7156pt.
+(pdftex.def)             Requested size: 284.51335pt x 170.71034pt.
 
 
 [36]
-<images/inscriptionuc.png, id=981, 2033.5975pt x 794.97pt>
+<images/inscriptionuc.png, id=981, 1551.7975pt x 425.59pt>
 File: images/inscriptionuc.png Graphic file (type png)
 <use images/inscriptionuc.png>
 Package pdftex.def Info: images/inscriptionuc.png  used on input line 90.
-(pdftex.def)             Requested size: 341.42484pt x 227.62413pt.
+(pdftex.def)             Requested size: 341.42018pt x 227.6267pt.
 
 
 [37] [38]
@@ -1803,11 +1778,11 @@ Overfull \hbox (10.26723pt too wide) in paragraph at lines 129--130
 \T1/ptm/m/n/12 La fi-gure 4.3 pré-sente le dia-gramme de cas d'uti-li-sa-tion pour la ges-tion des de-mandes d'ins-crip-tion
  []
 
-<images/approveuc.png, id=992, 1632.0975pt x 827.09pt>
+<images/approveuc.png, id=992, 1632.0975pt x 762.85pt>
 File: images/approveuc.png Graphic file (type png)
 <use images/approveuc.png>
 Package pdftex.def Info: images/approveuc.png  used on input line 133.
-(pdftex.def)             Requested size: 398.33582pt x 312.98494pt.
+(pdftex.def)             Requested size: 398.33582pt x 312.98004pt.
 
 
 [39]
@@ -1881,35 +1856,35 @@ Package pdftex.def Info: images/profilepic.PNG  used on input line 271.
 
 
 [46] [47]
-<images/gestionuseruc.png, id=1043, 932.48375pt x 548.0475pt>
+<images/gestionuseruc.png, id=1043, 1519.6775pt x 939.51pt>
 File: images/gestionuseruc.png Graphic file (type png)
 <use images/gestionuseruc.png>
 Package pdftex.def Info: images/gestionuseruc.png  used on input line 332.
-(pdftex.def)             Requested size: 426.78499pt x 284.53476pt.
+(pdftex.def)             Requested size: 426.78217pt x 284.52162pt.
 
 
 [48] [49]
-<images/gestioncompanyuc.png, id=1053, 806.01125pt x 459.7175pt>
+<images/gestioncompanyuc.png, id=1053, 1359.0775pt x 650.43pt>
 File: images/gestioncompanyuc.png Graphic file (type png)
 <use images/gestioncompanyuc.png>
 Package pdftex.def Info: images/gestioncompanyuc.png  used on input line 371.
-(pdftex.def)             Requested size: 341.42491pt x 227.6275pt.
+(pdftex.def)             Requested size: 341.42757pt x 227.62413pt.
 
 
 [50]
-<images/gestionparamcompanyuc.png, id=1058, 806.01125pt x 459.7175pt>
+<images/gestionparamcompanyuc.png, id=1058, 1343.0175pt x 634.37pt>
 File: images/gestionparamcompanyuc.png Graphic file (type png)
 <use images/gestionparamcompanyuc.png>
 Package pdftex.def Info: images/gestionparamcompanyuc.png  used on input line 408.
-(pdftex.def)             Requested size: 369.88417pt x 256.0862pt.
+(pdftex.def)             Requested size: 369.87401pt x 256.07631pt.
 
 
 [51] [52]
-<images/taxonomyuc.png, id=1070, 902.37125pt x 483.8075pt>
+<images/taxonomyuc.png, id=1070, 1824.8175pt x 907.39pt>
 File: images/taxonomyuc.png Graphic file (type png)
 <use images/taxonomyuc.png>
 Package pdftex.def Info: images/taxonomyuc.png  used on input line 446.
-(pdftex.def)             Requested size: 426.79951pt x 284.53592pt.
+(pdftex.def)             Requested size: 426.77168pt x 284.52788pt.
  [53]
 <images/createusersq.png, id=1076, 599.23875pt x 623.32875pt>
 File: images/createusersq.png Graphic file (type png)
@@ -2140,11 +2115,11 @@ Overfull \hbox (24.931pt too wide) in paragraph at lines 122--123
 \T1/ptm/m/n/12 La fi-gure 4.2 pré-sente le dia-gramme de cas d'uti-li-sa-tion dé-taillé pour la sous-crip-tion aux abon-ne-ments
  []
 
-<images/subscribeuc.png, id=1187, 773.89125pt x 315.1775pt>
+<images/subscribeuc.png, id=1187, 1487.5575pt x 570.13pt>
 File: images/subscribeuc.png Graphic file (type png)
 <use images/subscribeuc.png>
 Package pdftex.def Info: images/subscribeuc.png  used on input line 126.
-(pdftex.def)             Requested size: 312.97551pt x 199.16882pt.
+(pdftex.def)             Requested size: 312.96375pt x 199.16571pt.
 
 
 [72] [73]
@@ -2394,11 +2369,11 @@ Overfull \hbox (21.19849pt too wide) in paragraph at lines 502--503
 
 
 [93] [94]
-<images/revuedirectionuc.png, id=1319, 894.34125pt x 419.5675pt>
+<images/revuedirectionuc.png, id=1319, 1712.3975pt x 730.73pt>
 File: images/revuedirectionuc.png Graphic file (type png)
 <use images/revuedirectionuc.png>
 Package pdftex.def Info: images/revuedirectionuc.png  used on input line 545.
-(pdftex.def)             Requested size: 312.98318pt x 199.16858pt.
+(pdftex.def)             Requested size: 312.97374pt x 199.16179pt.
 
 
 [95]
@@ -2413,11 +2388,11 @@ Overfull \hbox (0.21165pt too wide) in paragraph at lines 580--580
 |[]\T1/ptm/b/n/12 Diagramme de cas d'uti-li-sa-tion dé-taillé de la par-ti-ci-pa-tion aux re-vues de di-rec-tion| 
  []
 
-<images/participationrevueuc.png, id=1329, 1214.5375pt x 1003.75pt>
+<images/participationrevueuc.png, id=1329, 1599.9775pt x 1003.75pt>
 File: images/participationrevueuc.png Graphic file (type png)
 <use images/participationrevueuc.png>
 Package pdftex.def Info: images/participationrevueuc.png  used on input line 585.
-(pdftex.def)             Requested size: 312.97392pt x 199.1689pt.
+(pdftex.def)             Requested size: 312.9587pt x 199.1689pt.
 
 
 [97] [98]
@@ -2425,11 +2400,11 @@ Overfull \hbox (4.61491pt too wide) in paragraph at lines 620--621
 \T1/ptm/m/n/12 La fi-gure 4.23 pré-sente le dia-gramme de cas d'uti-li-sa-tion dé-taillé pour la ges-tion des no-ti-fi-ca-tions. 
  []
 
-<images/notificationsuc.png, id=1340, 1519.6775pt x 698.61pt>
+<images/notificationsuc.png, id=1340, 1535.7375pt x 570.13pt>
 File: images/notificationsuc.png Graphic file (type png)
 <use images/notificationsuc.png>
 Package pdftex.def Info: images/notificationsuc.png  used on input line 624.
-(pdftex.def)             Requested size: 341.42574pt x 227.62119pt.
+(pdftex.def)             Requested size: 369.87337pt x 227.62169pt.
 [99]
 Overfull \hbox (19.93878pt too wide) in paragraph at lines 656--657
 \T1/ptm/m/n/12 La fi-gure 4.24 pré-sente le dia-gramme de cas d'uti-li-sa-tion dé-taillé pour la consul-ta-tion de l'his-to-rique. 
@@ -2655,7 +2630,7 @@ Package minitoc(hints) Info: I0053
 
 
 [118]
-runsystem(latexminted cleantemp  --timestamp 20251029171607 FAD58DE7366495DB4650CFEFAC2FCD61)...disabled (restricted).
+runsystem(latexminted cleantemp  --timestamp 20251111015318 FAD58DE7366495DB4650CFEFAC2FCD61)...disabled (restricted).
 
  (main.aux)
  ***********
@@ -2666,10 +2641,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 8515518CBC3D71F4F052E42DCDA155C2;53406.
  ) 
 Here is how much of TeX's memory you used:
- 39171 strings out of 468132
- 803286 string characters out of 5430692
- 1374544 words of memory out of 5000000
- 66612 multiletter control sequences out of 15000+600000
+ 39173 strings out of 468132
+ 803302 string characters out of 5430692
+ 1373543 words of memory out of 5000000
+ 66614 multiletter control sequences out of 15000+600000
  680083 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  113i,17n,115p,732b,866s stack positions out of 10000i,1000n,20000p,200000b,200000s

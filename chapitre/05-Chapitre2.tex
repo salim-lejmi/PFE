@@ -54,10 +54,10 @@
   \item S'inscrire : créer un compte administrateur et enregistrer son entreprise simultanément.
   \item Gérer les notifications : consulter les notifications relatives à son activité.
   \item Gérer les textes : créer, consulter, modifier et supprimer les textes réglementaires de son entreprise.
-  \item Consulter les statistiques : accéder aux tableaux de bord et indicateurs de conformité de son entreprise.
   \item Gérer son profil : consulter et modifier ses informations personnelles.
   \item Gérer les utilisateurs de son entreprise : créer, consulter, modifier et supprimer les comptes utilisateurs de son organisation.
   \item Gérer les revues de direction : créer, consulter, modifier et supprimer les revues de direction.
+  \item Consulter les statistiques : accéder aux tableaux de bord et indicateurs de conformité de son entreprise.
   \item Participer aux revues de direction : consulter, créer, modifier et supprimer les éléments des revues, avec la possibilité de marquer le statut comme complété ou annulé.
   \item Gérer les paramètres de son entreprise : consulter et modifier la configuration de son organisation.
   \item Souscrire à un plan d'abonnement : consulter les plans disponibles et s'abonner.
@@ -176,8 +176,8 @@ ID & Thème & User Stories & Priorité \\
 & & En tant que Super Admin, je veux désactiver des plans d'abonnement pour contrôler leur disponibilité. & Moyenne \\
 \cline{3-4}
 & & En tant que Super Admin, je veux consulter les plans d'abonnement pour superviser les offres. & Moyenne \\
-\hline
-& & En tant que Super Admin, je peux consulter et appliquer les suggestions d'optimisation de plans. & Moyenne \\
+\cline{3-4}
+& & En tant que Super Admin, je peux consulter et appliquer les suggestions d'optimisation de plans. & Faible \\
 \hline
 15 & Consulter l'évaluation de conformité & En tant qu'Admin, je veux consulter l'évaluation de la conformité pour surveiller le respect des normes. & Élevée \\
 \hline
@@ -207,8 +207,10 @@ ID & Thème & User Stories & Priorité \\
 \cline{3-4}
 & & En tant que Super Admin, je veux supprimer des éléments de taxonomie pour maintenir l'organisation du système. & Moyenne \\
 \hline
-\end{longtable}
 
+
+\end{longtable}
+\noindent Les priorités des user stories sont définies selon trois niveaux : Élevée pour les fonctionnalités essentielles qui constituent le socle de l'application et sans lesquelles elle ne peut fonctionner ; Moyenne pour les fonctionnalités importantes qui enrichissent l'expérience utilisateur et la gestion quotidienne mais dont l'absence n'empêche pas l'utilisation de base ; et Faible pour les fonctionnalités complémentaires qui apportent une valeur ajoutée sans être indispensables au fonctionnement ou à l'adoption de l'application.
 \section{Analyse globale :}
 
 \subsection{Diagramme de cas d'utilisation global :}
