@@ -24,13 +24,15 @@
 \hline
 Histoire utilisateur & Description & Priorité \\
 \hline
-\endfirsthead
+\endfirsthead 
 \multicolumn{3}{c}{\tablename\ \thetable\ -- suite} \\
 \hline
 Histoire utilisateur & Description & Priorité \\
 \hline
-\endhead
-Authentification & En tant que Super Admin, Admin ou Auditeur, je veux m'authentifier avec une adresse e-mail unique pour accéder à mes fonctionnalités & Élevée \\
+\endhead 
+Authentification & En tant qu'utilisateur, je veux m'authentifier avec une adresse e-mail unique pour accéder à mes fonctionnalités & Élevée \\
+\hline
+Récupération de compte & En tant qu'utilisateur, je veux récupérer mon compte en cas d'oubli de mot de passe & Élevée \\
 \hline
 Inscription & En tant qu'Admin, je veux m'inscrire et créer le compte de mon entreprise simultanément pour accéder au système & Élevée \\
 \hline
@@ -39,7 +41,7 @@ Gestion des demandes d'inscription & En tant que Super Admin, je veux accepter o
 Consultation du profil & En tant qu'utilisateur, je veux consulter mon profil pour accéder à mes informations personnelles & Moyenne \\
 \hline
 Modification du profil & En tant qu'utilisateur, je veux modifier mon profil pour mettre à jour mes informations personnelles & Moyenne \\
-\hline
+\hline 
 \end{longtable}
 
 \subsubsection{Diagramme de cas d'utilisation détaillé de l'authentification}
@@ -47,7 +49,7 @@ Modification du profil & En tant qu'utilisateur, je veux modifier mon profil pou
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=10cm,height=6cm]{images/authuc.png}
+    \includegraphics[width=12cm,height=8cm]{images/authuc.png}
     \caption{Diagramme de cas d'utilisation - Authentification}
 \end{figure}
 
@@ -79,9 +81,9 @@ Modification du profil & En tant qu'utilisateur, je veux modifier mon profil pou
 & - Email non vérifié : demande de vérification \\
 & - Compte en attente d'approbation : message d'attente \\
 & - Entreprise non approuvée : message d'attente d'approbation \\
+& - Mot de passe oublié : l'utilisateur saisit son email, le système génère un token, envoie un email de réinitialisation, l'utilisateur clique sur le lien, saisit un nouveau mot de passe, le système met à jour le mot de passe \\
 \hline
 \end{longtable}
-
 \subsubsection{Diagramme de cas d'utilisation détaillé de l'inscription}
 \noindent La figure 4.2 présente le diagramme de cas d'utilisation pour l'inscription d'une entreprise et la création simultanée du compte administrateur.
 
@@ -102,7 +104,7 @@ Modification du profil & En tant qu'utilisateur, je veux modifier mon profil pou
 \textbf{Précondition} & Aucune (première utilisation) \\
 \hline
 \textbf{Postcondition} & Entreprise et compte administrateur créés, email de vérification envoyé \\
-\hline
+\hline 
 \textbf{Scénario nominal} & 
 1. L'utilisateur accède à la page d'inscription \\
 & 2. Le système affiche le formulaire d'inscription \\
@@ -168,7 +170,7 @@ Modification du profil & En tant qu'utilisateur, je veux modifier mon profil pou
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=13cm,height=8cm]{images/profileuc.png}
+    \includegraphics[width=11cm,height=6cm]{images/profileuc.png}
     \caption{Diagramme de cas d'utilisation - Gestion des profils}
 \end{figure}
 \begin{longtable}{|>{\raggedright\arraybackslash}p{4cm}|>{\raggedright\arraybackslash}p{10cm}|}
@@ -207,14 +209,19 @@ Modification du profil & En tant qu'utilisateur, je veux modifier mon profil pou
 \subsubsection{Diagramme de séquence pour le scénario d'authentification}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=15cm,height=14cm]{images/authentifiaction.png}
+    \includegraphics[width=11cm,height=8.5cm]{images/authentifiaction.png}
     \caption{Diagramme de séquence pour le scénario d'authentification}
 \end{figure}
-
+\subsubsection{Diagramme de séquence pour le scénario de récupération de compte}
+\begin{figure}[H] 
+    \centering
+    \includegraphics[width=11cm,height=8.5cm]{images/recuperationseq.png}
+    \caption{Diagramme de séquence pour le scénario de récupération de compte}
+\end{figure}
 \subsubsection{Diagramme de séquence pour le scénario d'inscription}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=12cm,height=11cm]{images/inscription.png}
+    \includegraphics[width=11cm,height=9cm]{images/inscription.png}
     \caption{Diagramme de séquence pour le scénario d'inscription}
 \end{figure}
 
@@ -223,12 +230,12 @@ Modification du profil & En tant qu'utilisateur, je veux modifier mon profil pou
     \centering
     \includegraphics[width=12cm,height=8cm]{images/demandeseq.png}
     \caption{Diagramme de séquence pour le scénario d'approbation des demandes}
-\end{figure}
+\end{figure} 
 
 \subsubsection{Diagramme de séquence pour le scénario de modification du profil}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=13cm,height=12cm]{images/profilseq.png}
+    \includegraphics[width=11cm,height=9.5cm]{images/profilseq.png}
     \caption{Diagramme de séquence pour le scénario de modification du profil}
 \end{figure}
 
@@ -240,10 +247,10 @@ Modification du profil & En tant qu'utilisateur, je veux modifier mon profil pou
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=16cm,height=10cm]{images/authpic.PNG}
+    \includegraphics[width=16cm,height=10cm]{images/authpic.jpg}
     \caption{Interface d'authentification}
 \end{figure}
-
+ 
 \subsubsection{Interface d'inscription}
 \noindent La figure 4.10 présente l'interface d'inscription permettant aux entreprises de créer leur compte.
 
@@ -252,7 +259,14 @@ Modification du profil & En tant qu'utilisateur, je veux modifier mon profil pou
     \includegraphics[width=15cm,height=8cm]{images/inscpic.PNG}
     \caption{Interface d'inscription}
 \end{figure}
+\subsubsection{Interface de récupération de mot de passe}
+\noindent La figure 4.X présente l'interface de récupération de mot de passe permettant aux utilisateurs de réinitialiser leur mot de passe.
 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=15cm,height=8cm]{images/recuperation.jpg}
+    \caption{Interface de récupération de mot de passe}
+\end{figure}
 
 \subsubsection{Interface de gestion des demandes d'inscription}
 \noindent La figure 4.11 présente l'interface permettant au Super Admin de gérer les demandes d'inscription en attente.

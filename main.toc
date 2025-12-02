@@ -17,7 +17,7 @@
 \contentsline {subsection}{\numberline {1.2.4}Les réunions dans SCRUM}{9}{subsection.1.2.4}%
 \contentsline {section}{Conclusion}{10}{subsection.1.2.4}%
 \contentsline {chapter}{\numberline {2}Spécification des besoins}{11}{chapter.2}%
-\contentsline {section}{Introduction}{12}{section*.12}%
+\contentsline {section}{Introduction}{12}{section*.13}%
 \contentsline {section}{\numberline {2.1}Spécification de besoins :}{12}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}Acteurs :}{12}{subsection.2.1.1}%
 \contentsline {subsection}{\numberline {2.1.2}Besoins fonctionnels :}{12}{subsection.2.1.2}%
@@ -27,9 +27,9 @@
 \contentsline {subsection}{\numberline {2.3.1}Diagramme de cas d'utilisation global :}{20}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Diagramme de classe globale :}{21}{subsection.2.3.2}%
 \contentsline {section}{\numberline {2.4}Planifications des sprints :}{22}{section.2.4}%
-\contentsline {section}{Conclusion}{22}{table.caption.15}%
+\contentsline {section}{Conclusion}{22}{table.caption.16}%
 \contentsline {chapter}{\numberline {3}Etude technique}{23}{chapter.3}%
-\contentsline {section}{Introduction}{24}{section*.16}%
+\contentsline {section}{Introduction}{24}{section*.17}%
 \contentsline {section}{\numberline {3.1}Environnement de développement}{24}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Environnement matériel}{24}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3.1.2}Environnement logiciel}{24}{subsection.3.1.2}%
@@ -53,131 +53,133 @@
 \contentsline {section}{\numberline {3.2}Architecture de l'application}{30}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Architecture physique}{30}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Architecture logique}{31}{subsection.3.2.2}%
-\contentsline {section}{Conclusion}{33}{figure.caption.29}%
+\contentsline {section}{Conclusion}{33}{figure.caption.30}%
 \contentsline {chapter}{\numberline {4}Release 1}{34}{chapter.4}%
-\contentsline {section}{Introduction}{35}{section*.30}%
+\contentsline {section}{Introduction}{35}{section*.31}%
 \contentsline {section}{\numberline {4.1}Sprint 1 : Authentification, inscription, requêtes d'inscription et profils}{35}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Spécifications fonctionnelles}{35}{subsection.4.1.1}%
 \contentsline {subsubsection}{\numberline {4.1.1.1}Backlog du Sprint 1}{35}{subsubsection.4.1.1.1}%
 \contentsline {subsubsection}{\numberline {4.1.1.2}Diagramme de cas d'utilisation détaillé de l'authentification}{36}{subsubsection.4.1.1.2}%
-\contentsline {subsubsection}{\numberline {4.1.1.3}Diagramme de cas d'utilisation détaillé de l'inscription}{37}{subsubsection.4.1.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.1.3}Diagramme de cas d'utilisation détaillé de l'inscription}{38}{subsubsection.4.1.1.3}%
 \contentsline {subsubsection}{\numberline {4.1.1.4}Diagramme de cas d'utilisation détaillé de la gestion des demandes d'inscription}{39}{subsubsection.4.1.1.4}%
-\contentsline {subsubsection}{\numberline {4.1.1.5}Diagramme de cas d'utilisation détaillé de la gestion des profils}{40}{subsubsection.4.1.1.5}%
+\contentsline {subsubsection}{\numberline {4.1.1.5}Diagramme de cas d'utilisation détaillé de la gestion des profils}{41}{subsubsection.4.1.1.5}%
 \contentsline {subsection}{\numberline {4.1.2}Conception}{42}{subsection.4.1.2}%
 \contentsline {subsubsection}{\numberline {4.1.2.1}Diagramme de séquence}{42}{subsubsection.4.1.2.1}%
 \contentsline {subsubsection}{\numberline {4.1.2.2}Diagramme de séquence pour le scénario d'authentification}{42}{subsubsection.4.1.2.2}%
-\contentsline {subsubsection}{\numberline {4.1.2.3}Diagramme de séquence pour le scénario d'inscription}{43}{subsubsection.4.1.2.3}%
-\contentsline {subsubsection}{\numberline {4.1.2.4}Diagramme de séquence pour le scénario d'approbation des demandes}{43}{subsubsection.4.1.2.4}%
-\contentsline {subsubsection}{\numberline {4.1.2.5}Diagramme de séquence pour le scénario de modification du profil}{44}{subsubsection.4.1.2.5}%
-\contentsline {subsection}{\numberline {4.1.3}Réalisation}{44}{subsection.4.1.3}%
-\contentsline {subsubsection}{\numberline {4.1.3.1}Interface d'authentification}{44}{subsubsection.4.1.3.1}%
+\contentsline {subsubsection}{\numberline {4.1.2.3}Diagramme de séquence pour le scénario de récupération de compte}{43}{subsubsection.4.1.2.3}%
+\contentsline {subsubsection}{\numberline {4.1.2.4}Diagramme de séquence pour le scénario d'inscription}{43}{subsubsection.4.1.2.4}%
+\contentsline {subsubsection}{\numberline {4.1.2.5}Diagramme de séquence pour le scénario d'approbation des demandes}{44}{subsubsection.4.1.2.5}%
+\contentsline {subsubsection}{\numberline {4.1.2.6}Diagramme de séquence pour le scénario de modification du profil}{44}{subsubsection.4.1.2.6}%
+\contentsline {subsection}{\numberline {4.1.3}Réalisation}{45}{subsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.3.1}Interface d'authentification}{45}{subsubsection.4.1.3.1}%
 \contentsline {subsubsection}{\numberline {4.1.3.2}Interface d'inscription}{45}{subsubsection.4.1.3.2}%
-\contentsline {subsubsection}{\numberline {4.1.3.3}Interface de gestion des demandes d'inscription}{46}{subsubsection.4.1.3.3}%
-\contentsline {subsubsection}{\numberline {4.1.3.4}Interface de gestion des profils}{46}{subsubsection.4.1.3.4}%
-\contentsline {section}{\numberline {4.2}Sprint 2 : Gestion des utilisateurs, entreprises, paramètres d'entreprise et taxonomie}{47}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Spécifications fonctionnelles}{47}{subsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.1.1}Backlog du Sprint 2}{47}{subsubsection.4.2.1.1}%
-\contentsline {subsubsection}{\numberline {4.2.1.2}Diagramme de cas d'utilisation détaillé de la gestion des utilisateurs}{49}{subsubsection.4.2.1.2}%
-\contentsline {subsubsection}{\numberline {4.2.1.3}Diagramme de cas d'utilisation détaillé de la gestion des entreprises}{50}{subsubsection.4.2.1.3}%
-\contentsline {subsubsection}{\numberline {4.2.1.4}Diagramme de cas d'utilisation détaillé de la gestion des paramètres d'entreprise}{51}{subsubsection.4.2.1.4}%
-\contentsline {subsubsection}{\numberline {4.2.1.5}Diagramme de cas d'utilisation détaillé de la gestion de la taxonomie}{53}{subsubsection.4.2.1.5}%
-\contentsline {subsection}{\numberline {4.2.2}Conception}{54}{subsection.4.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.2.1}Diagramme de séquence pour le scénario de création d'utilisateur}{55}{subsubsection.4.2.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2.2}Diagramme de séquence pour le scénario de consultation des utilisateurs}{55}{subsubsection.4.2.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.2.3}Diagramme de séquence pour le scénario de modification d'utilisateur}{56}{subsubsection.4.2.2.3}%
-\contentsline {subsubsection}{\numberline {4.2.2.4}Diagramme de séquence pour le scénario de suppression d'utilisateur}{56}{subsubsection.4.2.2.4}%
-\contentsline {subsubsection}{\numberline {4.2.2.5}Diagramme de séquence pour le scénario de consultation des entreprises}{57}{subsubsection.4.2.2.5}%
-\contentsline {subsubsection}{\numberline {4.2.2.6}Diagramme de séquence pour le scénario de suppression d'entreprise}{57}{subsubsection.4.2.2.6}%
-\contentsline {subsubsection}{\numberline {4.2.2.7}Diagramme de séquence pour le scénario de consultation des paramètres d'entreprise}{58}{subsubsection.4.2.2.7}%
-\contentsline {subsubsection}{\numberline {4.2.2.8}Diagramme de séquence pour le scénario de modification des paramètres d'entreprise}{58}{subsubsection.4.2.2.8}%
-\contentsline {subsubsection}{\numberline {4.2.2.9}Diagramme de séquence pour le scénario de création d'élément de taxonomie}{59}{subsubsection.4.2.2.9}%
-\contentsline {subsubsection}{\numberline {4.2.2.10}Diagramme de séquence pour le scénario de consultation de la taxonomie}{59}{subsubsection.4.2.2.10}%
-\contentsline {subsubsection}{\numberline {4.2.2.11}Diagramme de séquence pour le scénario de modification d'élément de taxonomie}{60}{subsubsection.4.2.2.11}%
-\contentsline {subsubsection}{\numberline {4.2.2.12}Diagramme de séquence pour le scénario de suppression d'élément de taxonomie}{60}{subsubsection.4.2.2.12}%
-\contentsline {subsubsection}{\numberline {4.2.2.13}Diagramme de séquence pour le scénario de génération de suggestion de taxonomie}{61}{subsubsection.4.2.2.13}%
-\contentsline {subsection}{\numberline {4.2.3}Réalisation}{61}{subsection.4.2.3}%
-\contentsline {subsubsection}{\numberline {4.2.3.1}Interface de gestion des utilisateurs (Admin)}{61}{subsubsection.4.2.3.1}%
-\contentsline {subsubsection}{\numberline {4.2.3.2}Interface de création d'utilisateur}{62}{subsubsection.4.2.3.2}%
-\contentsline {subsubsection}{\numberline {4.2.3.3}Interface de modification d'utilisateur}{63}{subsubsection.4.2.3.3}%
-\contentsline {subsubsection}{\numberline {4.2.3.4}Interface de gestion des utilisateurs (Super Admin)}{63}{subsubsection.4.2.3.4}%
-\contentsline {subsubsection}{\numberline {4.2.3.5}Interface de gestion des entreprises}{64}{subsubsection.4.2.3.5}%
-\contentsline {subsubsection}{\numberline {4.2.3.6}Interface des paramètres d'entreprise}{64}{subsubsection.4.2.3.6}%
-\contentsline {subsubsection}{\numberline {4.2.3.7}Interface de gestion de la taxonomie}{65}{subsubsection.4.2.3.7}%
-\contentsline {subsubsection}{\numberline {4.2.3.8}Interface de suggestion de taxonomie par IA}{65}{subsubsection.4.2.3.8}%
-\contentsline {section}{Conclusion}{66}{figure.caption.67}%
-\contentsline {chapter}{\numberline {5}Release 2}{67}{chapter.5}%
-\contentsline {section}{Introduction}{68}{section*.68}%
-\contentsline {section}{\numberline {5.1}Sprint 1 : Gestion des plans d'abonnement, textes réglementaires, conformité et plans d'action}{68}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Spécifications fonctionnelles}{68}{subsection.5.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.1.1}Backlog du Sprint 1}{68}{subsubsection.5.1.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.1.2}Diagramme de cas d'utilisation détaillé de la gestion des plans d'abonnement}{71}{subsubsection.5.1.1.2}%
-\contentsline {subsubsection}{\numberline {5.1.1.3}Diagramme de cas d'utilisation détaillé de la souscription aux abonnements}{73}{subsubsection.5.1.1.3}%
-\contentsline {subsubsection}{\numberline {5.1.1.4}Diagramme de cas d'utilisation détaillé de la gestion des textes réglementaires}{74}{subsubsection.5.1.1.4}%
-\contentsline {subsubsection}{\numberline {5.1.1.5}Diagramme de cas d'utilisation détaillé de l'évaluation de conformité}{76}{subsubsection.5.1.1.5}%
-\contentsline {subsubsection}{\numberline {5.1.1.6}Diagramme de cas d'utilisation détaillé de la gestion des plans d'action}{77}{subsubsection.5.1.1.6}%
-\contentsline {subsection}{\numberline {5.1.2}Conception}{79}{subsection.5.1.2}%
-\contentsline {subsubsection}{\numberline {5.1.2.1}Diagramme de séquence}{80}{subsubsection.5.1.2.1}%
-\contentsline {subsubsection}{\numberline {5.1.2.2}Diagramme de séquence pour le scénario de création d'un plan d'abonnement}{80}{subsubsection.5.1.2.2}%
-\contentsline {subsubsection}{\numberline {5.1.2.3}Diagramme de séquence pour le scénario de consultation des plans d'abonnement}{80}{subsubsection.5.1.2.3}%
-\contentsline {subsubsection}{\numberline {5.1.2.4}Diagramme de séquence pour le scénario de modification d'un plan d'abonnement}{81}{subsubsection.5.1.2.4}%
-\contentsline {subsubsection}{\numberline {5.1.2.5}Diagramme de séquence pour le scénario de suppression d'un plan d'abonnement}{81}{subsubsection.5.1.2.5}%
-\contentsline {subsubsection}{\numberline {5.1.2.6}Diagramme de séquence pour le scénario d'optimisation des plans d'abonnement}{82}{subsubsection.5.1.2.6}%
-\contentsline {subsubsection}{\numberline {5.1.2.7}Diagramme de séquence pour le scénario de souscription à un abonnement}{82}{subsubsection.5.1.2.7}%
-\contentsline {subsubsection}{\numberline {5.1.2.8}Diagramme de séquence pour le scénario de création d'un texte réglementaire}{83}{subsubsection.5.1.2.8}%
-\contentsline {subsubsection}{\numberline {5.1.2.9}Diagramme de séquence pour le scénario de consultation des textes réglementaires}{83}{subsubsection.5.1.2.9}%
-\contentsline {subsubsection}{\numberline {5.1.2.10}Diagramme de séquence pour le scénario de modification d'un texte réglementaire}{84}{subsubsection.5.1.2.10}%
-\contentsline {subsubsection}{\numberline {5.1.2.11}Diagramme de séquence pour le scénario de suppression d'un texte réglementaire}{84}{subsubsection.5.1.2.11}%
-\contentsline {subsubsection}{\numberline {5.1.2.12}Diagramme de séquence pour le scénario d'évaluation de conformité}{85}{subsubsection.5.1.2.12}%
-\contentsline {subsubsection}{\numberline {5.1.2.13}Diagramme de séquence pour le scénario de création d'un plan d'action}{85}{subsubsection.5.1.2.13}%
-\contentsline {subsubsection}{\numberline {5.1.2.14}Diagramme de séquence pour le scénario de consultation des plans d'action}{86}{subsubsection.5.1.2.14}%
-\contentsline {subsubsection}{\numberline {5.1.2.15}Diagramme de séquence pour le scénario de modification d'un plan d'action}{86}{subsubsection.5.1.2.15}%
-\contentsline {subsubsection}{\numberline {5.1.2.16}Diagramme de séquence pour le scénario de suppression d'un plan d'action}{87}{subsubsection.5.1.2.16}%
-\contentsline {subsubsection}{\numberline {5.1.2.17}Diagramme de séquence pour le scénario de génération de conseils IA}{87}{subsubsection.5.1.2.17}%
-\contentsline {subsection}{\numberline {5.1.3}Réalisation}{88}{subsection.5.1.3}%
-\contentsline {subsubsection}{\numberline {5.1.3.1}Interface de gestion des plans d'abonnement}{88}{subsubsection.5.1.3.1}%
-\contentsline {subsubsection}{\numberline {5.1.3.2}Interface de création d'un plan d'abonnement}{88}{subsubsection.5.1.3.2}%
-\contentsline {subsubsection}{\numberline {5.1.3.3}Interface d'optimisation des plans d'abonnement}{89}{subsubsection.5.1.3.3}%
-\contentsline {subsubsection}{\numberline {5.1.3.4}Interface de souscription aux abonnements}{90}{subsubsection.5.1.3.4}%
-\contentsline {subsubsection}{\numberline {5.1.3.5}Interface de gestion des textes réglementaires}{90}{subsubsection.5.1.3.5}%
-\contentsline {subsubsection}{\numberline {5.1.3.6}Interface de création d'un texte réglementaire}{91}{subsubsection.5.1.3.6}%
-\contentsline {subsubsection}{\numberline {5.1.3.7}Interface d'évaluation de conformité}{91}{subsubsection.5.1.3.7}%
-\contentsline {subsubsection}{\numberline {5.1.3.8}Interface d'évaluation des exigences}{92}{subsubsection.5.1.3.8}%
-\contentsline {subsubsection}{\numberline {5.1.3.9}Interface de gestion des plans d'action}{92}{subsubsection.5.1.3.9}%
-\contentsline {subsubsection}{\numberline {5.1.3.10}Interface de création d'un plan d'action}{93}{subsubsection.5.1.3.10}%
-\contentsline {subsubsection}{\numberline {5.1.3.11}Interface des conseils IA pour les plans d'action}{93}{subsubsection.5.1.3.11}%
-\contentsline {section}{\numberline {5.2}Sprint 2 : Gestion des revues de direction, notifications, historique et statistiques}{94}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Spécifications fonctionnelles}{94}{subsection.5.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.1.1}Backlog du Sprint 2}{94}{subsubsection.5.2.1.1}%
-\contentsline {subsubsection}{\numberline {5.2.1.2}Diagramme de cas d'utilisation détaillé de la gestion des revues de direction}{96}{subsubsection.5.2.1.2}%
-\contentsline {subsubsection}{\numberline {5.2.1.3}Diagramme de cas d'utilisation détaillé de la participation aux revues de direction}{97}{subsubsection.5.2.1.3}%
-\contentsline {subsubsection}{\numberline {5.2.1.4}Diagramme de cas d'utilisation détaillé de la gestion des notifications}{99}{subsubsection.5.2.1.4}%
-\contentsline {subsubsection}{\numberline {5.2.1.5}Diagramme de cas d'utilisation détaillé de la consultation de l'historique}{100}{subsubsection.5.2.1.5}%
-\contentsline {subsubsection}{\numberline {5.2.1.6}Diagramme de cas d'utilisation détaillé de la consultation des statistiques}{101}{subsubsection.5.2.1.6}%
-\contentsline {subsection}{\numberline {5.2.2}Conception}{102}{subsection.5.2.2}%
-\contentsline {subsubsection}{\numberline {5.2.2.1}Diagramme de séquence pour le scénario de création d'une revue de direction}{103}{subsubsection.5.2.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.2.2}Diagramme de séquence pour le scénario de consultation des revues de direction}{103}{subsubsection.5.2.2.2}%
-\contentsline {subsubsection}{\numberline {5.2.2.3}Diagramme de séquence pour le scénario de modification d'une revue de direction}{104}{subsubsection.5.2.2.3}%
-\contentsline {subsubsection}{\numberline {5.2.2.4}Diagramme de séquence pour le scénario de suppression d'une revue de direction}{104}{subsubsection.5.2.2.4}%
-\contentsline {subsubsection}{\numberline {5.2.2.5}Diagramme de séquence pour le scénario de changement de statut d'une revue}{105}{subsubsection.5.2.2.5}%
-\contentsline {subsubsection}{\numberline {5.2.2.6}Diagramme de séquence pour le scénario de consultation des éléments d'une revue}{105}{subsubsection.5.2.2.6}%
-\contentsline {subsubsection}{\numberline {5.2.2.7}Diagramme de séquence pour le scénario d'ajout d'un élément à une revue}{106}{subsubsection.5.2.2.7}%
-\contentsline {subsubsection}{\numberline {5.2.2.8}Diagramme de séquence pour le scénario de modification d'un élément de revue}{106}{subsubsection.5.2.2.8}%
-\contentsline {subsubsection}{\numberline {5.2.2.9}Diagramme de séquence pour le scénario de suppression d'un élément de revue}{107}{subsubsection.5.2.2.9}%
-\contentsline {subsubsection}{\numberline {5.2.2.10}Diagramme de séquence pour le scénario de génération de PDF d'une revue}{107}{subsubsection.5.2.2.10}%
-\contentsline {subsubsection}{\numberline {5.2.2.11}Diagramme de séquence pour le scénario de consultation des notifications}{108}{subsubsection.5.2.2.11}%
-\contentsline {subsubsection}{\numberline {5.2.2.12}Diagramme de séquence pour le scénario de marquage de toutes les notifications comme lues}{108}{subsubsection.5.2.2.12}%
-\contentsline {subsubsection}{\numberline {5.2.2.13}Diagramme de séquence pour le scénario de consultation de l'historique}{109}{subsubsection.5.2.2.13}%
-\contentsline {subsubsection}{\numberline {5.2.2.14}Diagramme de séquence pour le scénario de consultation des statistiques globales}{109}{subsubsection.5.2.2.14}%
-\contentsline {subsubsection}{\numberline {5.2.2.15}Diagramme de séquence pour le scénario de consultation des statistiques de conformité)}{110}{subsubsection.5.2.2.15}%
-\contentsline {subsection}{\numberline {5.2.3}Réalisation}{110}{subsection.5.2.3}%
-\contentsline {subsubsection}{\numberline {5.2.3.1}Interface de gestion des revues de direction}{110}{subsubsection.5.2.3.1}%
-\contentsline {subsubsection}{\numberline {5.2.3.2}Interface de création d'une revue de direction}{111}{subsubsection.5.2.3.2}%
-\contentsline {subsubsection}{\numberline {5.2.3.3}Interface de détails d'une revue}{112}{subsubsection.5.2.3.3}%
-\contentsline {subsubsection}{\numberline {5.2.3.4}Interface d'ajout d'un élément à une revue}{112}{subsubsection.5.2.3.4}%
-\contentsline {subsubsection}{\numberline {5.2.3.5}Interface du dropdown des notifications}{113}{subsubsection.5.2.3.5}%
-\contentsline {subsubsection}{\numberline {5.2.3.6}Interface de consultation de l'historique}{113}{subsubsection.5.2.3.6}%
-\contentsline {subsubsection}{\numberline {5.2.3.7}Interface des statistiques globales (Super Admin)}{114}{subsubsection.5.2.3.7}%
-\contentsline {subsubsection}{\numberline {5.2.3.8}Interface des statistiques de conformité (Admin)}{114}{subsubsection.5.2.3.8}%
-\contentsline {section}{Conclusion}{115}{figure.caption.128}%
-\contentsline {chapter}{CONCLUSION GÉNÉRALE}{116}{chapter*.129}%
-\contentsline {chapter}{WEBOGRAPHIE}{116}{chapter*.129}%
+\contentsline {subsubsection}{\numberline {4.1.3.3}Interface de récupération de mot de passe}{46}{subsubsection.4.1.3.3}%
+\contentsline {subsubsection}{\numberline {4.1.3.4}Interface de gestion des demandes d'inscription}{47}{subsubsection.4.1.3.4}%
+\contentsline {subsubsection}{\numberline {4.1.3.5}Interface de gestion des profils}{47}{subsubsection.4.1.3.5}%
+\contentsline {section}{\numberline {4.2}Sprint 2 : Gestion des utilisateurs, entreprises, paramètres d'entreprise et taxonomie}{48}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Spécifications fonctionnelles}{48}{subsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.1}Backlog du Sprint 2}{48}{subsubsection.4.2.1.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.2}Diagramme de cas d'utilisation détaillé de la gestion des utilisateurs}{50}{subsubsection.4.2.1.2}%
+\contentsline {subsubsection}{\numberline {4.2.1.3}Diagramme de cas d'utilisation détaillé de la gestion des entreprises}{51}{subsubsection.4.2.1.3}%
+\contentsline {subsubsection}{\numberline {4.2.1.4}Diagramme de cas d'utilisation détaillé de la gestion des paramètres d'entreprise}{52}{subsubsection.4.2.1.4}%
+\contentsline {subsubsection}{\numberline {4.2.1.5}Diagramme de cas d'utilisation détaillé de la gestion de la taxonomie}{54}{subsubsection.4.2.1.5}%
+\contentsline {subsection}{\numberline {4.2.2}Conception}{55}{subsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.2.1}Diagramme de séquence pour le scénario de création d'utilisateur}{56}{subsubsection.4.2.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2.2}Diagramme de séquence pour le scénario de consultation des utilisateurs}{56}{subsubsection.4.2.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.2.3}Diagramme de séquence pour le scénario de modification d'utilisateur}{57}{subsubsection.4.2.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.2.4}Diagramme de séquence pour le scénario de suppression d'utilisateur}{57}{subsubsection.4.2.2.4}%
+\contentsline {subsubsection}{\numberline {4.2.2.5}Diagramme de séquence pour le scénario de consultation des entreprises}{58}{subsubsection.4.2.2.5}%
+\contentsline {subsubsection}{\numberline {4.2.2.6}Diagramme de séquence pour le scénario de suppression d'entreprise}{58}{subsubsection.4.2.2.6}%
+\contentsline {subsubsection}{\numberline {4.2.2.7}Diagramme de séquence pour le scénario de consultation des paramètres d'entreprise}{59}{subsubsection.4.2.2.7}%
+\contentsline {subsubsection}{\numberline {4.2.2.8}Diagramme de séquence pour le scénario de modification des paramètres d'entreprise}{59}{subsubsection.4.2.2.8}%
+\contentsline {subsubsection}{\numberline {4.2.2.9}Diagramme de séquence pour le scénario de création d'élément de taxonomie}{60}{subsubsection.4.2.2.9}%
+\contentsline {subsubsection}{\numberline {4.2.2.10}Diagramme de séquence pour le scénario de consultation de la taxonomie}{60}{subsubsection.4.2.2.10}%
+\contentsline {subsubsection}{\numberline {4.2.2.11}Diagramme de séquence pour le scénario de modification d'élément de taxonomie}{61}{subsubsection.4.2.2.11}%
+\contentsline {subsubsection}{\numberline {4.2.2.12}Diagramme de séquence pour le scénario de suppression d'élément de taxonomie}{61}{subsubsection.4.2.2.12}%
+\contentsline {subsubsection}{\numberline {4.2.2.13}Diagramme de séquence pour le scénario de génération de suggestion de taxonomie}{62}{subsubsection.4.2.2.13}%
+\contentsline {subsection}{\numberline {4.2.3}Réalisation}{62}{subsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.3.1}Interface de gestion des utilisateurs (Admin)}{62}{subsubsection.4.2.3.1}%
+\contentsline {subsubsection}{\numberline {4.2.3.2}Interface de création d'utilisateur}{63}{subsubsection.4.2.3.2}%
+\contentsline {subsubsection}{\numberline {4.2.3.3}Interface de modification d'utilisateur}{64}{subsubsection.4.2.3.3}%
+\contentsline {subsubsection}{\numberline {4.2.3.4}Interface de gestion des utilisateurs (Super Admin)}{64}{subsubsection.4.2.3.4}%
+\contentsline {subsubsection}{\numberline {4.2.3.5}Interface de gestion des entreprises}{65}{subsubsection.4.2.3.5}%
+\contentsline {subsubsection}{\numberline {4.2.3.6}Interface des paramètres d'entreprise}{65}{subsubsection.4.2.3.6}%
+\contentsline {subsubsection}{\numberline {4.2.3.7}Interface de gestion de la taxonomie}{66}{subsubsection.4.2.3.7}%
+\contentsline {subsubsection}{\numberline {4.2.3.8}Interface de suggestion de taxonomie par IA}{66}{subsubsection.4.2.3.8}%
+\contentsline {section}{Conclusion}{67}{figure.caption.70}%
+\contentsline {chapter}{\numberline {5}Release 2}{68}{chapter.5}%
+\contentsline {section}{Introduction}{69}{section*.71}%
+\contentsline {section}{\numberline {5.1}Sprint 1 : Gestion des plans d'abonnement, textes réglementaires, conformité et plans d'action}{69}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Spécifications fonctionnelles}{69}{subsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.1}Backlog du Sprint 1}{69}{subsubsection.5.1.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.2}Diagramme de cas d'utilisation détaillé de la gestion des plans d'abonnement}{72}{subsubsection.5.1.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.1.3}Diagramme de cas d'utilisation détaillé de la souscription aux abonnements}{74}{subsubsection.5.1.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.1.4}Diagramme de cas d'utilisation détaillé de la gestion des textes réglementaires}{75}{subsubsection.5.1.1.4}%
+\contentsline {subsubsection}{\numberline {5.1.1.5}Diagramme de cas d'utilisation détaillé de l'évaluation de conformité}{77}{subsubsection.5.1.1.5}%
+\contentsline {subsubsection}{\numberline {5.1.1.6}Diagramme de cas d'utilisation détaillé de la gestion des plans d'action}{78}{subsubsection.5.1.1.6}%
+\contentsline {subsection}{\numberline {5.1.2}Conception}{80}{subsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.2.1}Diagramme de séquence}{81}{subsubsection.5.1.2.1}%
+\contentsline {subsubsection}{\numberline {5.1.2.2}Diagramme de séquence pour le scénario de création d'un plan d'abonnement}{81}{subsubsection.5.1.2.2}%
+\contentsline {subsubsection}{\numberline {5.1.2.3}Diagramme de séquence pour le scénario de consultation des plans d'abonnement}{81}{subsubsection.5.1.2.3}%
+\contentsline {subsubsection}{\numberline {5.1.2.4}Diagramme de séquence pour le scénario de modification d'un plan d'abonnement}{82}{subsubsection.5.1.2.4}%
+\contentsline {subsubsection}{\numberline {5.1.2.5}Diagramme de séquence pour le scénario de suppression d'un plan d'abonnement}{82}{subsubsection.5.1.2.5}%
+\contentsline {subsubsection}{\numberline {5.1.2.6}Diagramme de séquence pour le scénario d'optimisation des plans d'abonnement}{83}{subsubsection.5.1.2.6}%
+\contentsline {subsubsection}{\numberline {5.1.2.7}Diagramme de séquence pour le scénario de souscription à un abonnement}{83}{subsubsection.5.1.2.7}%
+\contentsline {subsubsection}{\numberline {5.1.2.8}Diagramme de séquence pour le scénario de création d'un texte réglementaire}{84}{subsubsection.5.1.2.8}%
+\contentsline {subsubsection}{\numberline {5.1.2.9}Diagramme de séquence pour le scénario de consultation des textes réglementaires}{84}{subsubsection.5.1.2.9}%
+\contentsline {subsubsection}{\numberline {5.1.2.10}Diagramme de séquence pour le scénario de modification d'un texte réglementaire}{85}{subsubsection.5.1.2.10}%
+\contentsline {subsubsection}{\numberline {5.1.2.11}Diagramme de séquence pour le scénario de suppression d'un texte réglementaire}{85}{subsubsection.5.1.2.11}%
+\contentsline {subsubsection}{\numberline {5.1.2.12}Diagramme de séquence pour le scénario d'évaluation de conformité}{86}{subsubsection.5.1.2.12}%
+\contentsline {subsubsection}{\numberline {5.1.2.13}Diagramme de séquence pour le scénario de création d'un plan d'action}{86}{subsubsection.5.1.2.13}%
+\contentsline {subsubsection}{\numberline {5.1.2.14}Diagramme de séquence pour le scénario de consultation des plans d'action}{87}{subsubsection.5.1.2.14}%
+\contentsline {subsubsection}{\numberline {5.1.2.15}Diagramme de séquence pour le scénario de modification d'un plan d'action}{87}{subsubsection.5.1.2.15}%
+\contentsline {subsubsection}{\numberline {5.1.2.16}Diagramme de séquence pour le scénario de suppression d'un plan d'action}{88}{subsubsection.5.1.2.16}%
+\contentsline {subsubsection}{\numberline {5.1.2.17}Diagramme de séquence pour le scénario de génération de conseils IA}{88}{subsubsection.5.1.2.17}%
+\contentsline {subsection}{\numberline {5.1.3}Réalisation}{89}{subsection.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.3.1}Interface de gestion des plans d'abonnement}{89}{subsubsection.5.1.3.1}%
+\contentsline {subsubsection}{\numberline {5.1.3.2}Interface de création d'un plan d'abonnement}{89}{subsubsection.5.1.3.2}%
+\contentsline {subsubsection}{\numberline {5.1.3.3}Interface d'optimisation des plans d'abonnement}{90}{subsubsection.5.1.3.3}%
+\contentsline {subsubsection}{\numberline {5.1.3.4}Interface de souscription aux abonnements}{91}{subsubsection.5.1.3.4}%
+\contentsline {subsubsection}{\numberline {5.1.3.5}Interface de gestion des textes réglementaires}{91}{subsubsection.5.1.3.5}%
+\contentsline {subsubsection}{\numberline {5.1.3.6}Interface de création d'un texte réglementaire}{92}{subsubsection.5.1.3.6}%
+\contentsline {subsubsection}{\numberline {5.1.3.7}Interface d'évaluation de conformité}{92}{subsubsection.5.1.3.7}%
+\contentsline {subsubsection}{\numberline {5.1.3.8}Interface d'évaluation des exigences}{93}{subsubsection.5.1.3.8}%
+\contentsline {subsubsection}{\numberline {5.1.3.9}Interface de gestion des plans d'action}{93}{subsubsection.5.1.3.9}%
+\contentsline {subsubsection}{\numberline {5.1.3.10}Interface de création d'un plan d'action}{94}{subsubsection.5.1.3.10}%
+\contentsline {subsubsection}{\numberline {5.1.3.11}Interface des conseils IA pour les plans d'action}{94}{subsubsection.5.1.3.11}%
+\contentsline {section}{\numberline {5.2}Sprint 2 : Gestion des revues de direction, notifications, historique et statistiques}{95}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Spécifications fonctionnelles}{95}{subsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.1.1}Backlog du Sprint 2}{95}{subsubsection.5.2.1.1}%
+\contentsline {subsubsection}{\numberline {5.2.1.2}Diagramme de cas d'utilisation détaillé de la gestion des revues de direction}{97}{subsubsection.5.2.1.2}%
+\contentsline {subsubsection}{\numberline {5.2.1.3}Diagramme de cas d'utilisation détaillé de la participation aux revues de direction}{98}{subsubsection.5.2.1.3}%
+\contentsline {subsubsection}{\numberline {5.2.1.4}Diagramme de cas d'utilisation détaillé de la gestion des notifications}{100}{subsubsection.5.2.1.4}%
+\contentsline {subsubsection}{\numberline {5.2.1.5}Diagramme de cas d'utilisation détaillé de la consultation de l'historique}{101}{subsubsection.5.2.1.5}%
+\contentsline {subsubsection}{\numberline {5.2.1.6}Diagramme de cas d'utilisation détaillé de la consultation des statistiques}{102}{subsubsection.5.2.1.6}%
+\contentsline {subsection}{\numberline {5.2.2}Conception}{103}{subsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.2.1}Diagramme de séquence pour le scénario de création d'une revue de direction}{104}{subsubsection.5.2.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2.2}Diagramme de séquence pour le scénario de consultation des revues de direction}{104}{subsubsection.5.2.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.2.3}Diagramme de séquence pour le scénario de modification d'une revue de direction}{105}{subsubsection.5.2.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.2.4}Diagramme de séquence pour le scénario de suppression d'une revue de direction}{105}{subsubsection.5.2.2.4}%
+\contentsline {subsubsection}{\numberline {5.2.2.5}Diagramme de séquence pour le scénario de changement de statut d'une revue}{106}{subsubsection.5.2.2.5}%
+\contentsline {subsubsection}{\numberline {5.2.2.6}Diagramme de séquence pour le scénario de consultation des éléments d'une revue}{106}{subsubsection.5.2.2.6}%
+\contentsline {subsubsection}{\numberline {5.2.2.7}Diagramme de séquence pour le scénario d'ajout d'un élément à une revue}{107}{subsubsection.5.2.2.7}%
+\contentsline {subsubsection}{\numberline {5.2.2.8}Diagramme de séquence pour le scénario de modification d'un élément de revue}{107}{subsubsection.5.2.2.8}%
+\contentsline {subsubsection}{\numberline {5.2.2.9}Diagramme de séquence pour le scénario de suppression d'un élément de revue}{108}{subsubsection.5.2.2.9}%
+\contentsline {subsubsection}{\numberline {5.2.2.10}Diagramme de séquence pour le scénario de génération de PDF d'une revue}{108}{subsubsection.5.2.2.10}%
+\contentsline {subsubsection}{\numberline {5.2.2.11}Diagramme de séquence pour le scénario de consultation des notifications}{109}{subsubsection.5.2.2.11}%
+\contentsline {subsubsection}{\numberline {5.2.2.12}Diagramme de séquence pour le scénario de marquage de toutes les notifications comme lues}{109}{subsubsection.5.2.2.12}%
+\contentsline {subsubsection}{\numberline {5.2.2.13}Diagramme de séquence pour le scénario de consultation de l'historique}{110}{subsubsection.5.2.2.13}%
+\contentsline {subsubsection}{\numberline {5.2.2.14}Diagramme de séquence pour le scénario de consultation des statistiques globales}{110}{subsubsection.5.2.2.14}%
+\contentsline {subsubsection}{\numberline {5.2.2.15}Diagramme de séquence pour le scénario de consultation des statistiques de conformité)}{111}{subsubsection.5.2.2.15}%
+\contentsline {subsection}{\numberline {5.2.3}Réalisation}{111}{subsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.3.1}Interface de gestion des revues de direction}{111}{subsubsection.5.2.3.1}%
+\contentsline {subsubsection}{\numberline {5.2.3.2}Interface de création d'une revue de direction}{112}{subsubsection.5.2.3.2}%
+\contentsline {subsubsection}{\numberline {5.2.3.3}Interface de détails d'une revue}{113}{subsubsection.5.2.3.3}%
+\contentsline {subsubsection}{\numberline {5.2.3.4}Interface d'ajout d'un élément à une revue}{113}{subsubsection.5.2.3.4}%
+\contentsline {subsubsection}{\numberline {5.2.3.5}Interface du dropdown des notifications}{114}{subsubsection.5.2.3.5}%
+\contentsline {subsubsection}{\numberline {5.2.3.6}Interface de consultation de l'historique}{114}{subsubsection.5.2.3.6}%
+\contentsline {subsubsection}{\numberline {5.2.3.7}Interface des statistiques globales (Super Admin)}{115}{subsubsection.5.2.3.7}%
+\contentsline {subsubsection}{\numberline {5.2.3.8}Interface des statistiques de conformité (Admin)}{115}{subsubsection.5.2.3.8}%
+\contentsline {section}{Conclusion}{116}{figure.caption.131}%
+\contentsline {chapter}{CONCLUSION GÉNÉRALE}{117}{chapter*.132}%
+\contentsline {chapter}{WEBOGRAPHIE}{117}{chapter*.132}%

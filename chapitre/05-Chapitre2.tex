@@ -91,7 +91,7 @@
 
 \begin{longtable}{|>{\raggedright\arraybackslash}p{0.5cm}|
                   >{\raggedright\arraybackslash}p{3cm}|
-                  >{\raggedright\arraybackslash}p{9cm}|
+                  >{\raggedright\arraybackslash}p{9.5cm}|
                   >{\raggedright\arraybackslash}p{2.5cm}|}
 \caption{Backlog produit}\label{tab:user_stories}\\
 \hline
@@ -103,7 +103,9 @@ ID & Thème & User Stories & Priorité \\
 ID & Thème & User Stories & Priorité \\
 \hline
 \endhead
-1 & Authentification & En tant que Super Admin, Admin ou Auditeur, je veux m'authentifier avec une adresse e-mail unique pour accéder à mes fonctionnalités. & Élevée \\
+1 & Authentification & En tant qu'utilisateur, je veux m'authentifier avec une adresse e-mail unique pour accéder à mes fonctionnalités. & Élevée \\
+\cline{3-4}
+& & En tant qu'utilisateur, je veux récupérer mon compte en cas d'oubli de mot de passe. & Moyenne \\
 \hline
 2 & Inscription & En tant qu'Admin, je veux m'inscrire et créer le compte de mon entreprise simultanément pour accéder au système. & Élevée \\
 \hline
@@ -216,8 +218,8 @@ ID & Thème & User Stories & Priorité \\
 \subsection{Diagramme de cas d'utilisation global :}
 
 \noindent Le diagramme UML montre les interactions et exigences fonctionnelles de «Prévention Plus».
-
-\begin{figure}[H]  
+  
+\begin{figure}[H]   
     \centering
     \includegraphics[width=18cm,height=19cm]{images/UseCaseDiagram.png}
     \caption{Diagramme de cas d'utilisation global}
