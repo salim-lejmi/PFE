@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.2)  25 NOV 2025 00:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.2)  4 DEC 2025 00:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1768,11 +1768,11 @@ Overfull \hbox (22.10512pt too wide) in paragraph at lines 13--13
  []
 
 [35]
-<images/authuc.png, id=988, 1262.7175pt x 714.67pt>
+<images/authuc.png, id=988, 1599.9775pt x 698.61pt>
 File: images/authuc.png Graphic file (type png)
 <use images/authuc.png>
 Package pdftex.def Info: images/authuc.png  used on input line 52.
-(pdftex.def)             Requested size: 341.43924pt x 227.61948pt.
+(pdftex.def)             Requested size: 341.42502pt x 227.62119pt.
 
 
 [36] [37]
@@ -2388,11 +2388,11 @@ Overfull \hbox (21.19849pt too wide) in paragraph at lines 502--503
 
 
 [94] [95]
-<images/revuedirectionuc.png, id=1337, 1712.3975pt x 730.73pt>
+<images/revuedirectionuc.png, id=1337, 1728.4575pt x 730.73pt>
 File: images/revuedirectionuc.png Graphic file (type png)
 <use images/revuedirectionuc.png>
 Package pdftex.def Info: images/revuedirectionuc.png  used on input line 545.
-(pdftex.def)             Requested size: 312.97374pt x 199.16179pt.
+(pdftex.def)             Requested size: 312.98149pt x 199.16179pt.
 
 
 [96]
@@ -2419,21 +2419,21 @@ Overfull \hbox (4.61491pt too wide) in paragraph at lines 620--621
 \T1/ptm/m/n/12 La fi-gure 4.23 pré-sente le dia-gramme de cas d'uti-li-sa-tion dé-taillé pour la ges-tion des no-ti-fi-ca-tions. 
  []
 
-<images/notificationsuc.png, id=1358, 1535.7375pt x 570.13pt>
+<images/notificationsuc.png, id=1358, 1856.9375pt x 505.89pt>
 File: images/notificationsuc.png Graphic file (type png)
 <use images/notificationsuc.png>
 Package pdftex.def Info: images/notificationsuc.png  used on input line 624.
-(pdftex.def)             Requested size: 369.87337pt x 227.62169pt.
+(pdftex.def)             Requested size: 369.8792pt x 227.62523pt.
 [100]
 Overfull \hbox (19.93878pt too wide) in paragraph at lines 656--657
 \T1/ptm/m/n/12 La fi-gure 4.24 pré-sente le dia-gramme de cas d'uti-li-sa-tion dé-taillé pour la consul-ta-tion de l'his-to-rique. 
  []
 
-<images/historyuc.png, id=1365, 1174.3875pt x 570.13pt>
+<images/historyuc.png, id=1365, 1499.6025pt x 493.845pt>
 File: images/historyuc.png Graphic file (type png)
 <use images/historyuc.png>
 Package pdftex.def Info: images/historyuc.png  used on input line 660.
-(pdftex.def)             Requested size: 341.4238pt x 227.62169pt.
+(pdftex.def)             Requested size: 341.42325pt x 227.61604pt.
 [101]
 <images/statisticsuc.png, id=1371, 1632.0975pt x 859.21pt>
 File: images/statisticsuc.png Graphic file (type png)
@@ -2649,7 +2649,7 @@ Package minitoc(hints) Info: I0053
 
 
 [119]
-runsystem(latexminted cleantemp  --timestamp 20251125003532 FAD58DE7366495DB4650CFEFAC2FCD61)...disabled (restricted).
+runsystem(latexminted cleantemp  --timestamp 20251204000427 FAD58DE7366495DB4650CFEFAC2FCD61)...disabled (restricted).
 
  (main.aux)
  ***********
@@ -2662,7 +2662,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  39200 strings out of 468132
  804061 string characters out of 5430692
- 1375542 words of memory out of 5000000
+ 1375541 words of memory out of 5000000
  66635 multiletter control sequences out of 15000+600000
  680083 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
