@@ -286,7 +286,7 @@ Modification du profil & En tant qu'utilisateur, je veux modifier mon profil pou
     \caption{Interface de gestion des profils}
 \end{figure}
 
-\section{Sprint 2 : Gestion des utilisateurs, entreprises, paramètres d'entreprise et taxonomie}
+\section{Sprint 2 : Gestion des utilisateurs, entreprises et taxonomie}
 
 \subsection{Spécifications fonctionnelles}
 \noindent Ce sprint représente la deuxième phase de notre premier release, établissant les mécanismes de gestion des utilisateurs, entreprises, paramètres d'entreprise et taxonomie.
@@ -378,7 +378,7 @@ Générer des suggestions de taxonomie & En tant que Super Admin, je veux géné
 \end{longtable} 
 
 \subsubsection{Diagramme de cas d'utilisation détaillé de la gestion des entreprises}
-\noindent La figure 4.14 présente le diagramme de cas d'utilisation détaillé pour la gestion des entreprises par le Super Admin.
+\noindent La figure 4.14 présente le diagramme de cas d'utilisation détaillé pour la gestion des entreprises par le Super Admin et l'Admin. 
 
 \begin{figure}[H]
     \centering
@@ -392,66 +392,37 @@ Générer des suggestions de taxonomie & En tant que Super Admin, je veux géné
 \hline
 \textbf{Cas d'utilisation} & \textbf{Gérer les entreprises} \\
 \hline
-\textbf{Acteur} & Super Admin \\
+\textbf{Acteur} & Super Admin, Admin \\
 \hline
-\textbf{Précondition} & Être authentifié en tant que Super Admin \\
+\textbf{Précondition} & Être authentifié en tant que Super Admin ou Admin \\
 \hline
-\textbf{Postcondition} & Entreprises consultées ou supprimées selon l'action \\
+\textbf{Postcondition} & Entreprises consultées, modifiées ou supprimées selon l'action et le rôle \\
 \hline
 \textbf{Scénario nominal} & 
-1. Le Super Admin accède à la page de gestion des entreprises \\
-& 2. Le système affiche la liste détaillée des entreprises \\
+\textit{Super Admin :} \\
+& 1. Le Super Admin accède à la page de gestion des entreprises \\
+& 2.  Le système affiche la liste détaillée des entreprises \\
 & 3. Le Super Admin peut filtrer et rechercher les entreprises \\
 & 4. Le Super Admin sélectionne une action (consulter, supprimer) \\
 & 5. Le système exécute l'action demandée \\
+& 6.  Le système affiche un message de confirmation \\
+& \\
+& \textit{Admin :} \\
+& 1. L'Admin accède à la page des paramètres de son entreprise \\
+& 2. Le système affiche les informations actuelles de l'entreprise \\
+& 3.  L'Admin modifie les champs souhaités \\
+& 4. L'Admin soumet les modifications \\
+& 5. Le système valide et met à jour les informations \\
 & 6. Le système affiche un message de confirmation \\
 \hline
 \textbf{Scénario alternatif} & 
-- Suppression : vérification des données associées \\
-& - Aucune entreprise trouvée : affichage d'un message informatif \\
-& - Erreur de traitement : affichage d'un message d'erreur \\
+- Suppression (Super Admin) : vérification des données associées \\
 & - Suppression avec cascade : suppression des utilisateurs et données associées \\
-\hline
-\end{longtable}
-
-\subsubsection{Diagramme de cas d'utilisation détaillé de la gestion des paramètres d'entreprise}
-\noindent La figure 4.15 présente le diagramme de cas d'utilisation détaillé pour la gestion des paramètres d'entreprise par l'Admin.
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=13cm,height=9cm]{images/gestionparamcompanyuc.png}
-    \caption{Diagramme de cas d'utilisation - Gestion des paramètres d'entreprise}
-\end{figure}
-
-\begin{longtable}{|>{\raggedright\arraybackslash}p{4cm}|>{\raggedright\arraybackslash}p{9cm}|}
-\caption{Description textuelle du cas d'utilisation - Gestion des paramètres d'entreprise}
-\label{tab:manage_company_settings_usecase} \\
-\hline
-\textbf{Cas d'utilisation} & \textbf{Gérer les paramètres d'entreprise} \\
-\hline
-\textbf{Acteur} & Admin \\
-\hline
-\textbf{Précondition} & Être authentifié en tant qu'Admin \\
-\hline
-\textbf{Postcondition} & Paramètres d'entreprise consultés ou modifiés \\
-\hline
-\textbf{Scénario nominal} & 
-1. L'Admin accède à la page des paramètres d'entreprise \\
-& 2. Le système affiche les informations actuelles de l'entreprise \\
-& 3. L'Admin modifie les champs souhaités \\
-& 4. L'Admin soumet les modifications \\
-& 5. Le système valide les données \\
-& 6. Le système met à jour les informations \\
-& 7. Le système affiche un message de confirmation \\
-\hline
-\textbf{Scénario alternatif} & 
-- Données invalides : affichage des erreurs de validation \\
-& - Nom d'entreprise vide : message d'erreur \\
-& - Secteur non sélectionné : message d'erreur \\
+& - Aucune entreprise trouvée : affichage d'un message informatif \\
+& - Données invalides : affichage des erreurs de validation \\
 & - Échec de sauvegarde : affichage d'un message d'erreur \\
 \hline
 \end{longtable}
-
 \subsubsection{Diagramme de cas d'utilisation détaillé de la gestion de la taxonomie}
 \noindent La figure 4.16 présente le diagramme de cas d'utilisation détaillé pour la gestion de la taxonomie par le Super Admin.
 

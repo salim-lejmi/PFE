@@ -178,7 +178,7 @@
 
 \begin{figure}[H]   
     \centering
-    \includegraphics[width=14cm, height=11cm]{images/architecturephysique2.png}
+    \includegraphics[width=14cm, height=11cm]{images/architecturephysique3.jpg}
     \label{fig:arch_physique}
     \caption{Architecture physique de l'application}
 \end{figure}
@@ -198,30 +198,29 @@
 \noindent Cette architecture distribuée offre plusieurs avantages : scalabilité horizontale par réplication des serveurs, isolation des pannes, et possibilité de déployer chaque composant sur des infrastructures optimisées selon ses besoins spécifiques.
 
 \subsection{Architecture logique}
- 
-\noindent L'architecture logique repose sur le patron MVC enrichi d'une approche microservices pour les fonctionnalités spécialisées. Cette organisation assure une séparation claire des responsabilités et facilite l'évolution du système.
+
+\noindent L'architecture logique repose sur le patron MVC avec une séparation claire des responsabilités entre couches. Cette organisation assure la maintenabilité et facilite l'évolution du système.
 
 \noindent La figure 3.13 illustre l'organisation logique de notre application :
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=14cm, height=11cm]{images/architectLogique2.png}
+    \includegraphics[width=15cm, height=13cm]{images/architecturelogique3.jpg}
     \label{fig:arch_logique}
     \caption{Architecture logique de l'application}
 \end{figure}
 
-\noindent L'utilisateur interagit avec le système via un navigateur qui héberge la couche présentation sous forme de composants React. Cette interface communique avec le backend via une couche d'APIs REST qui constitue le point d'entrée unique du système.
+\noindent L'utilisateur interagit avec le système via un navigateur qui héberge la couche présentation, implémentée en composants React. Cette interface dialogue avec la frontière applicative (API) qui constitue le point d'entrée logique du système.
 
-\noindent \textbf{Couche Contrôleurs} : Implémentée via des contrôleurs .NET Core, elle reçoit et valide les requêtes HTTP entrantes. Elle gère les mécanismes d'authentification et d'autorisation basée sur les rôles, puis route les requêtes vers les services métier appropriés. Cette couche applique le principe de responsabilité unique en se limitant à l'orchestration des flux.
+\noindent \textbf{Couche Contrôleurs} : Implémentée avec des contrôleurs ASP.NET Core, elle reçoit et valide les requêtes en provenance de la couche présentation. Elle gère l'authentification et l'autorisation basées sur les rôles et orchestre le routage des opérations vers les services métiers. Principales responsabilités : Authentification, Gestion utilisateurs Gestion conformité.
 
-\noindent \textbf{Couche Métier} : Contient les services applicatifs et les entités du domaine métier. Elle encapsule l'ensemble des règles métier et coordonne les opérations complexes impliquant plusieurs entités. Cette couche reste indépendante des détails d'implémentation de la persistance et de la présentation, garantissant ainsi une meilleure testabilité et maintenabilité.
+\noindent \textbf{Couche Métier} : Contient les services applicatifs qui encapsulent les règles métier et coordonnent les opérations impliquant plusieurs entités. Cette couche applique le principe de responsabilité unique et reste indépendante des détails de persistance et de présentation.
 
-\noindent \textbf{Couche Accès Données} : Implémente le patron Repository pour abstraire l'accès à la base de données. Elle utilise Entity Framework Core comme ORM pour convertir les entités métier en structures de données persistantes et gère les transactions pour garantir la cohérence des données. Cette abstraction permet de changer de système de stockage sans impact sur les couches supérieures.
+\noindent \textbf{Couche Accès aux Données} : Implémente l'accès aux données via AuditDbContext (Entity Framework Core). Elle gère la persistance des entités métier et assure la gestion des transactions pour la cohérence des données.
 
-\noindent \textbf{Microservice NLP} : Service autonome développé avec Flask, exposant sa propre API REST. Il reçoit les demandes d'analyse textuelle depuis les contrôleurs principaux, effectue le traitement via l'API Gemini, et retourne les résultats enrichis. Cette séparation en microservice permet une scalabilité indépendante et facilite l'évolution des fonctionnalités d'analyse sans impact sur le reste du système.
+\noindent \textbf{Microservice NLP} : Service autonome (Flask) dédié aux traitements linguistiques. Il expose une frontière de service pour les opérations d'analyse , de suggestion de taxonomie et de génération de rapports de performance. Isoler cette fonctionnalité permet une scalabilité et une évolution indépendantes sans impacter la logique métier principale.
 
-\noindent Cette architecture applique les principes SOLID et respecte la séparation des préoccupations. Le couplage faible entre les couches facilite les tests unitaires et l'évolution progressive du système. L'approche microservices pour les fonctionnalités spécialisées permet une meilleure résilience et une gestion optimale des ressources.
-
+\noindent Cette architecture respecte les principes SOLID et la séparation des préoccupations : faible couplage entre couches, meilleure testabilité et possibilité d'évolution progressive. L'approche microservice est volontairement limitée aux fonctionnalités spécialisées (NLP), le cœur applicatif restant une application monolithique modulée par couches.
 \section*{Conclusion} 
 \addcontentsline{toc}{section}{Conclusion}
 \noindent Ce chapitre a été consacré à la présentation des divers environnements de développement utilisés dans notre projet, ainsi qu'aux technologies employées pour la création de notre application web. Nous avons également abordé l'architecture N-tiers de notre système, illustrant comment les différentes couches interagissent pour fournir une solution complète et évolutive. Dans le prochain chapitre, nous procéderons à une analyse détaillée de la première release de notre projet.
